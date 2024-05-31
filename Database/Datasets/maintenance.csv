@@ -1,0 +1,1001 @@
+maintenance_id,property_id,maintenance_date,maintenance_type,cost,description
+1,413,12/12/2023,Roofing replacement,2866,1-740 - Cleaning
+2,488,12/31/2022,Painting,3038,13-110 - Cathodic Protection
+3,699,11/20/2020,HVAC servicing,4154,11-080 - Registration Equipment
+4,463,4/2/2021,Flooring repair,2264,1-012 - Superintendent
+5,168,7/5/2019,HVAC servicing,1466,5-300 - Metal Deck
+6,809,1/8/2022,Roofing replacement,5336,11-120 - Vending Equipment
+7,149,12/29/2019,HVAC servicing,2413,16-300 - Transmission and Distribution
+8,532,6/19/2022,Flooring repair,4056,2-812 - Drip Irrigation
+9,839,11/1/2023,Painting,5215,2-821 - Chain Link Fences
+10,716,1/1/2020,Roofing replacement,654,1-540 - Construction Aids
+11,836,4/5/2020,Electrical maintenance,1127,4-700 - Simulated Masonry
+12,762,12/31/2022,,742,11-600 - Laboratory Equipment
+13,396,12/22/2019,Window replacement,9300,5-600 - Hydraulic Fabrications
+14,179,5/28/2019,Electrical maintenance,4473,12-700 - Systems Furniture
+15,812,7/19/2021,Window replacement,4622,11-870 - Agricultural Equipment
+16,543,5/17/2022,HVAC servicing,7505,13-160 - Aquariums
+17,386,1/22/2021,Flooring repair,1676,11-650 - Planetarium Equipment
+18,454,5/29/2019,Flooring repair,2847,13-400 - Measurement and Control Instrumentation
+19,671,7/8/2021,Window replacement,1909,3-540 - Cementitious Underlayments
+20,158,3/30/2023,Painting,9651,13 - Special Construction
+21,212,8/19/2022,Electrical maintenance,6157,2-220 - Site Demolition
+22,660,9/5/2021,Painting,3646,9-250 - Gypsum Wallboard
+23,731,2/11/2020,HVAC servicing,9842,15-200 - Process Piping
+24,16,10/15/2020,Window replacement,9077,14 - Conveying Systems
+25,303,3/3/2019,Roofing replacement,7596,11-060 - Theater and Stage Equipment
+26,568,8/8/2023,Electrical maintenance,6315,4-400 - Stone
+27,383,3/19/2023,Roofing replacement,8645,10-290 - Pest Control
+28,851,4/16/2023,HVAC servicing,404,1-523 - Sanitary Facilities
+29,287,8/29/2020,Electrical maintenance,8785,13-600 - Solar and Wind Energy Equipment
+30,567,6/14/2021,HVAC servicing,4683,1-010 - Project Manager
+31,350,8/18/2019,Flooring repair,656,3-300 - Footings
+32,509,1/14/2023,Flooring repair,4067,13-160 - Aquariums
+33,526,2/13/2021,Window replacement,589,13-500 - Recording Instrumentation
+34,455,7/20/2023,Painting,1455,15-400 - Plumbing Fixtures and Equipment
+35,887,6/2/2020,Window replacement,1720,10-150 - Compartments and Cubicles
+36,842,9/18/2021,Electrical maintenance,4025,12-500 - Furniture
+37,486,11/22/2021,Roofing replacement,6266,10-240 - Grilles and Screens
+38,280,5/21/2020,Roofing replacement,2237,10 - Specialties
+39,683,2/16/2023,Flooring repair,4675,1-002 - Instructions
+40,872,8/10/2019,HVAC servicing,5014,10-200 - Louvers and Vents
+41,855,4/16/2020,Plumbing repair,1728,2-936 - Fertilizer
+42,11,6/12/2020,HVAC servicing,9290,7 - Thermal and Moisture Protection
+43,675,5/5/2019,Flooring repair,8826,3-400 - Precast Concrete
+44,339,8/14/2021,HVAC servicing,1491,2-625 - Retaining Wall Drainage Piping
+45,337,4/12/2019,,6087,1-002 - Instructions
+46,497,8/23/2021,HVAC servicing,7129,11-100 - Mercantile Equipment
+47,547,6/18/2019,Plumbing repair,1311,11-040 - Ecclesiastical Equipment
+48,554,10/19/2021,HVAC servicing,4781,10-500 - Lockers
+49,544,11/14/2022,Flooring repair,8898,"15-950 - Testing, Adjusting, and Balancing"
+50,939,7/13/2021,Window replacement,2953,1-510 - Temporary Utilities
+51,828,11/6/2022,Flooring repair,8736,1-011 - Project Engineer
+52,583,2/16/2022,Flooring repair,5137,5-500 - Metal Fabrications
+53,59,9/15/2023,HVAC servicing,1358,6-050 - Basic Wood and Plastic Materials and Methods
+54,572,5/28/2019,Painting,1596,2-500 - Utility Services
+55,747,5/11/2022,Electrical maintenance,4761,1-012 - Superintendent
+56,453,11/5/2021,Window replacement,3209,2-240 - Dewatering
+57,778,12/13/2019,Plumbing repair,4953,12 - Furnishings
+58,560,6/2/2019,Electrical maintenance,5322,2-220 - Site Demolition
+59,202,6/7/2022,Window replacement,8792,11-780 - Mortuary Equipment
+60,566,8/22/2020,Plumbing repair,9191,4-400 - Stone
+61,27,2/4/2021,Plumbing repair,233,3-210 - Cast-In-Place Concrete
+62,403,11/29/2019,Plumbing repair,2561,13-550 - Transportation Control Instrumentation
+63,391,1/29/2023,Flooring repair,2134,11-150 - Parking Control Equipment
+64,758,3/29/2020,Window replacement,7841,5-100 - Structural Metals
+65,10,10/30/2021,Painting,1466,2-812 - Drip Irrigation
+66,861,8/31/2021,Roofing replacement,3014,2-821 - Chain Link Fences
+67,395,9/8/2019,Electrical maintenance,441,11-100 - Mercantile Equipment
+68,628,6/17/2022,Electrical maintenance,6405,8-700 - Hardware
+69,64,5/24/2019,Electrical maintenance,8286,11-200 - Water Supply and Treatment Equipment
+70,346,8/11/2022,Window replacement,2824,2-935 - Plant Maintenance
+71,785,9/28/2023,HVAC servicing,5598,4-400 - Stone
+72,759,3/12/2021,Painting,108,13-240 - Oxygenation Systems
+73,174,3/13/2020,Window replacement,7286,11-850 - Navigation Equipment
+74,561,12/1/2020,Plumbing repair,6545,13-175 - Ice Rinks
+75,398,8/7/2021,Plumbing repair,8696,1-640 - Owner Furnished Products
+76,327,3/3/2021,HVAC servicing,3376,2-311 - Final Grading
+77,35,12/10/2022,Electrical maintenance,735,2-781 - Asphalt Pavers
+78,676,8/9/2020,Plumbing repair,642,8 - Doors and Windows
+79,969,8/4/2022,Painting,5475,10-350 - Flagpoles
+80,296,7/27/2021,Window replacement,6401,15 - Mechanical
+81,308,5/8/2023,Painting,967,13-550 - Transportation Control Instrumentation
+82,381,2/12/2020,,5012,10-200 - Louvers and Vents
+83,432,4/9/2023,Electrical maintenance,8240,11-150 - Parking Control Equipment
+84,718,2/25/2022,Painting,1762,4-700 - Simulated Masonry
+85,251,1/29/2021,Painting,3868,15-200 - Process Piping
+86,910,5/18/2022,Window replacement,9701,5-100 - Structural Metals
+87,61,6/2/2022,Electrical maintenance,1545,6-100 - Rough Carpentry
+88,577,6/12/2022,Roofing replacement,846,5-200 - Metal Joists
+89,176,3/29/2020,Window replacement,910,11-130 - Audio-Visual Equipment
+90,67,1/14/2020,Roofing replacement,5997,13-800 - Building Automation and Control
+91,611,12/11/2022,Window replacement,5390,11-160 - Loading Dock Equipment
+92,54,2/7/2022,Window replacement,8755,3 - Concrete
+93,1000,5/28/2019,Painting,9651,13-230 - Digester Covers and Appurtenances
+94,5,10/23/2023,Plumbing repair,3528,10-900 - Wardrobe and Closet Specialties
+95,673,5/3/2023,Electrical maintenance,9796,2-900 - Landscaping
+96,986,3/12/2020,Flooring repair,3466,2-740 - Flexible Pavement Asphalt Pavement
+97,968,3/23/2019,Electrical maintenance,6336,2-300 - Earthwork
+98,743,10/5/2020,Flooring repair,2753,10-100 - Visual Display Boards
+99,858,1/4/2019,Painting,7324,10-530 - Protective Covers
+100,408,8/14/2019,Painting,5962,4 - Masonry
+101,100,8/28/2019,Flooring repair,4358,1-511 - Temporary Electricity
+102,32,5/18/2022,Roofing replacement,9259,11-280 - Hydraulic Gates and Valves
+103,948,10/3/2019,Plumbing repair,3669,10-300 - Fireplaces and Stoves
+104,226,9/30/2023,Painting,3392,13-150 - Swimming Pools
+105,896,3/24/2021,Flooring repair,5042,4-200 - Masonry Units
+106,218,10/17/2023,Plumbing repair,5374,11-900 - Exhibit Equipment
+107,82,10/9/2020,Painting,9424,3-400 - Precast Concrete
+108,101,5/8/2023,Roofing replacement,8906,11-070 - Instrumental Equipment
+109,750,4/9/2019,Painting,3068,2-824 - Wire Fences and Gates
+110,900,9/24/2019,Painting,5959,10-600 - Partitions
+111,47,7/29/2022,HVAC servicing,1320,1-760 - Protecting Installed Construction
+112,207,4/12/2019,HVAC servicing,4584,2-870 - Sculpture/Ornamental
+113,761,8/14/2019,Plumbing repair,9484,10-500 - Lockers
+114,521,6/26/2019,Flooring repair,6418,13-500 - Recording Instrumentation
+115,780,11/19/2022,Roofing replacement,8985,12 - Furnishings
+116,292,2/21/2023,Roofing replacement,4292,9-400 - Terrazzo
+117,485,6/12/2021,Electrical maintenance,4457,8 - Doors and Windows
+118,418,1/8/2020,,8197,4-800 - Masonry Assemblies
+119,579,4/26/2020,,4686,10-750 - Telephone Specialties
+120,334,1/21/2020,Painting,9835,14-900 - Transportation
+121,451,11/21/2023,Plumbing repair,7391,2-932 - PLants and Bulbs
+122,465,5/28/2022,Window replacement,6625,3-320 - Slab Foundations
+123,456,9/9/2023,Plumbing repair,8172,2-815 - Fountains
+124,314,11/29/2020,Roofing replacement,6926,5-600 - Hydraulic Fabrications
+125,312,1/31/2020,Electrical maintenance,4754,15-800 - Air Distribution
+126,625,1/10/2022,Roofing replacement,7984,1-542 - Construction Scaffolding and Platforms
+127,356,10/7/2020,Painting,9485,13-010 - Air-Supported Structures
+128,151,4/13/2023,Painting,9155,"15-950 - Testing, Adjusting, and Balancing"
+129,73,10/12/2023,Window replacement,8803,2-815 - Fountains
+130,108,8/26/2019,Roofing replacement,7523,13-100 - Lightning Protection
+131,416,3/1/2022,Painting,2115,1-600 - Product Requirements (Scope of Work)
+132,333,12/26/2019,HVAC servicing,3287,1-010 - Project Manager
+133,645,9/9/2023,Plumbing repair,4432,8-900 - Glazed Curtain Wall
+134,170,1/7/2021,HVAC servicing,2009,10-600 - Partitions
+135,494,1/3/2019,Painting,514,7-050 - Basic Thermal and Moisture Protection Materials and Methods
+136,961,11/2/2023,Plumbing repair,5330,10-750 - Telephone Specialties
+137,847,9/18/2020,Roofing replacement,9214,13-030 - Special Purpose Rooms
+138,705,1/5/2023,Electrical maintenance,184,"11-480 - Athletic, Recreational, and Therapeutic Equipment"
+139,231,2/7/2021,Flooring repair,2983,7-600 - Flashing and Sheet Metal
+140,888,12/25/2020,Window replacement,9689,2-900 - Landscaping
+141,962,8/27/2021,Roofing replacement,8209,5-050 - Basic Metal Materials and Methods
+142,69,7/26/2022,Roofing replacement,2221,11-100 - Mercantile Equipment
+143,889,11/20/2020,Plumbing repair,1028,2-317 - Select Borrow
+144,804,8/19/2019,Painting,2233,10-290 - Pest Control
+145,304,12/1/2020,,7948,8-200 - Wood and Plastic Doors
+146,598,2/14/2020,Plumbing repair,5416,"7-300 - Shingles, Roof Tiles, and Roof Coverings"
+147,238,11/9/2020,,8720,2-812 - Drip Irrigation
+148,79,12/26/2020,Electrical maintenance,1018,11-500 - Industrial and Process Equipment
+149,341,11/1/2019,Window replacement,5073,15-500 - Heat-Generation Equipment
+150,84,5/10/2022,Plumbing repair,3460,3-540 - Cementitious Underlayments
+151,933,12/12/2019,Plumbing repair,2356,"15-700 - Heating, Venting and Air Conditioning"
+152,654,7/26/2020,Roofing replacement,7668,2-815 - Fountains
+153,286,5/4/2019,Window replacement,8113,4-050 - Basic Masonry Materials and Methods
+154,662,3/10/2021,HVAC servicing,2500,17 - Markup and Contingency
+155,714,1/19/2023,Roofing replacement,1075,12-900 - Furnishings Restoration and Repair
+156,380,1/25/2023,Painting,5099,2-783 - Interlocking Concrete Unit Paving
+157,843,4/28/2019,Painting,9751,16-700 - Communications
+158,123,5/10/2023,HVAC servicing,5360,14-800 - Scaffolding
+159,800,1/7/2022,Painting,4768,14-800 - Scaffolding
+160,115,8/9/2021,Window replacement,9790,13-700 - Security Access and Surveillance
+161,738,7/5/2022,Electrical maintenance,1661,6 - Wood and Plastics
+162,295,10/9/2019,Painting,6719,8-050 - Basic Door and Window Materials and Methods
+163,450,2/24/2021,Roofing replacement,8007,1-518 - Temporary Water
+164,326,7/12/2020,Window replacement,991,2-924 - Sodding
+165,688,10/13/2021,Flooring repair,6023,"13-080 - Sound, Vibration, and Seismic Control"
+166,448,11/24/2020,Window replacement,1480,1-517 - Temporary Telephone
+167,307,2/23/2019,Roofing replacement,4932,9-500 - Ceilings
+168,8,12/16/2019,Roofing replacement,9814,11-100 - Mercantile Equipment
+169,709,4/3/2020,Roofing replacement,7678,14-300 - Escalators and Moving Walks
+170,869,6/12/2022,HVAC servicing,5565,5-100 - Structural Metals
+171,658,5/4/2022,Plumbing repair,6068,7-100 - Damproofing and Waterproofing
+172,253,1/18/2020,,1341,15-900 - HVAC Instruments and Controls
+173,608,4/8/2023,Plumbing repair,4624,2-790 - Athletic Surfacing
+174,244,8/9/2023,Electrical maintenance,8540,3-000 - General
+175,631,7/14/2022,Roofing replacement,7411,8-500 - Windows
+176,875,6/24/2021,HVAC servicing,5571,7-600 - Flashing and Sheet Metal
+177,70,3/23/2022,Roofing replacement,1473,16-800 - Sound and Video
+178,189,2/19/2023,,3158,8-300 - Specialty Doors
+179,324,2/7/2023,Roofing replacement,1107,16-400 - Low-Voltage Distribution
+180,832,8/19/2021,Flooring repair,6657,2-822 - Ornamental Metal Fences and Gates
+181,124,12/21/2021,Window replacement,1057,2-919 - Topsoil
+182,674,11/15/2023,Roofing replacement,2631,2-783 - Interlocking Concrete Unit Paving
+183,445,3/28/2022,Flooring repair,9647,10-450 - Pedestrian Control Devices
+184,190,2/15/2021,Painting,9226,10-600 - Partitions
+185,121,5/25/2019,Flooring repair,2790,4-400 - Stone
+186,589,6/13/2020,Roofing replacement,8821,9-800 - Acoustical Treatment
+187,477,11/8/2020,,128,"15-700 - Heating, Venting and Air Conditioning"
+188,330,6/1/2020,Painting,6867,9-900 - Paints and Coatings
+189,685,3/6/2023,HVAC servicing,2540,2-770 - Curb and Gutters
+190,527,10/11/2021,Plumbing repair,5402,2-230 - Site Clearing
+191,819,12/25/2019,Roofing replacement,5637,16-100 - Electrical
+192,166,1/29/2019,HVAC servicing,3483,7 - Thermal and Moisture Protection
+193,571,12/3/2022,Window replacement,1117,10-270 - Access Flooring
+194,824,11/27/2019,Flooring repair,6465,1-517 - Temporary Telephone
+195,528,5/4/2021,Window replacement,777,12-900 - Furnishings Restoration and Repair
+196,826,12/1/2019,Flooring repair,501,2-312 - Rough Grading
+197,4,3/15/2022,Roofing replacement,4459,16-050 - Basic Electrical Materials and Methods
+198,666,6/25/2021,Window replacement,5093,14-300 - Escalators and Moving Walks
+199,833,12/30/2023,Plumbing repair,7411,1-542 - Construction Scaffolding and Platforms
+200,734,6/25/2020,Window replacement,4718,12-900 - Furnishings Restoration and Repair
+201,433,2/18/2022,Electrical maintenance,6428,3-330 - Poured Concrete Basement Walls
+202,689,1/7/2021,Window replacement,2371,7 - Thermal and Moisture Protection
+203,338,3/13/2019,Roofing replacement,6769,2-936 - Fertilizer
+204,260,11/10/2022,Window replacement,7221,14-200 - Elevators
+205,41,11/13/2022,Painting,9868,17-030 - Bond
+206,112,4/13/2020,Electrical maintenance,9106,6-400 - Architectural Woodwork
+207,938,8/22/2022,,830,11-110 - Commercial Laundry and Dry Cleaning Equipment
+208,696,10/17/2019,HVAC servicing,6741,2-540 - Septic Tank
+209,9,1/31/2019,Electrical maintenance,2135,17-040 - Profit
+210,197,5/3/2023,Plumbing repair,9343,1-523 - Sanitary Facilities
+211,75,6/1/2021,Roofing replacement,3027,12-900 - Furnishings Restoration and Repair
+212,81,8/10/2023,Window replacement,1078,"15-950 - Testing, Adjusting, and Balancing"
+213,191,12/3/2020,Roofing replacement,4863,3-330 - Poured Concrete Basement Walls
+214,945,10/27/2023,Electrical maintenance,6474,3-300 - Footings
+215,686,9/19/2021,Roofing replacement,1535,10-880 - Scales
+216,182,2/10/2023,Window replacement,6295,15-500 - Heat-Generation Equipment
+217,438,10/13/2019,Window replacement,8311,3-540 - Cementitious Underlayments
+218,919,12/13/2019,Plumbing repair,8735,13-850 - Detection and Alarm
+219,128,6/11/2023,Plumbing repair,4302,2-621 - Foundatation Drainage Piping
+220,236,1/27/2023,Window replacement,6229,13-010 - Air-Supported Structures
+221,798,8/6/2021,Flooring repair,6193,11-110 - Commercial Laundry and Dry Cleaning Equipment
+222,221,9/1/2021,Plumbing repair,5029,3-050 - Concrete Subcontractor
+223,349,1/27/2021,Window replacement,2240,13-200 - Storage Tanks
+224,429,7/10/2020,Window replacement,8588,9-250 - Gypsum Wallboard
+225,496,1/17/2019,Plumbing repair,5430,2-250 - Shoring and Underpinning
+226,693,1/19/2020,Painting,3487,3 - Concrete
+227,175,12/31/2022,Window replacement,9918,2-800 - Site Amenities
+228,305,8/24/2022,HVAC servicing,8112,"10-800 - Toilet, Bath, and Laundry Specialties"
+229,908,6/29/2023,HVAC servicing,9619,3-000 - General
+230,639,5/31/2023,Plumbing repair,6166,1-570 - Temporary Controls
+231,39,7/13/2019,Flooring repair,8540,5-800 - Expansion Control
+232,993,7/15/2022,Electrical maintenance,4355,3-600 - Grouts
+233,136,3/29/2022,Roofing replacement,250,13-230 - Digester Covers and Appurtenances
+234,791,12/12/2019,HVAC servicing,5522,9-400 - Terrazzo
+235,272,8/22/2022,Flooring repair,4723,11-040 - Ecclesiastical Equipment
+236,740,12/25/2020,Painting,1745,5-050 - Basic Metal Materials and Methods
+237,3,10/21/2022,HVAC servicing,8965,12-900 - Furnishings Restoration and Repair
+238,739,3/22/2022,Plumbing repair,9266,9-700 - Wall Finishes
+239,196,6/3/2019,HVAC servicing,7350,9-800 - Acoustical Treatment
+240,203,12/21/2019,Plumbing repair,3559,9-050 - Basic Finish Materials and Methods
+241,558,11/22/2020,Window replacement,2918,2 - Site Construction
+242,774,9/23/2019,HVAC servicing,3392,2-850 - Bridges/Footbridges
+243,352,11/2/2023,Roofing replacement,1137,4-800 - Masonry Assemblies
+244,661,12/10/2022,Flooring repair,3326,10-100 - Visual Display Boards
+245,706,10/19/2021,Flooring repair,5251,13-900 - Fire Suppression
+246,110,9/28/2023,Roofing replacement,4635,1-510 - Temporary Utilities
+247,502,9/28/2022,Electrical maintenance,4877,17 - Markup and Contingency
+248,394,4/14/2020,,881,16-400 - Low-Voltage Distribution
+249,581,8/18/2020,HVAC servicing,6945,13-175 - Ice Rinks
+250,764,4/16/2021,Electrical maintenance,8830,2-750 - Concrete Pads and Walks
+251,636,3/19/2021,Flooring repair,6513,4-600 - Corrosion-Resistant Masonry
+252,852,10/26/2019,,3132,8-900 - Glazed Curtain Wall
+253,563,5/12/2022,Painting,8048,15-400 - Plumbing Fixtures and Equipment
+254,143,11/4/2019,Roofing replacement,5102,10-300 - Fireplaces and Stoves
+255,748,4/27/2020,,3177,2-919 - Topsoil
+256,86,10/16/2023,Electrical maintenance,7561,3-600 - Grouts
+257,925,7/12/2021,Plumbing repair,234,13-230 - Digester Covers and Appurtenances
+258,694,12/2/2020,Flooring repair,4983,1-511 - Temporary Electricity
+259,284,9/7/2021,Flooring repair,4100,1-523 - Sanitary Facilities
+260,78,4/24/2022,Flooring repair,2682,2-800 - Site Amenities
+261,271,7/17/2021,Roofing replacement,101,10-450 - Pedestrian Control Devices
+262,621,8/11/2020,Flooring repair,9552,9-300 - Tile
+263,30,8/23/2021,Window replacement,6636,14-300 - Escalators and Moving Walks
+264,452,3/29/2022,Painting,7356,5-600 - Hydraulic Fabrications
+265,602,10/1/2020,Roofing replacement,4051,3-500 - Cementitious Decks and Underlayments
+266,457,3/15/2023,,3241,1-510 - Temporary Utilities
+267,767,6/5/2023,Electrical maintenance,7060,7-200 - Thermal Protection - Insulation
+268,76,2/20/2020,Painting,1970,1-517 - Temporary Telephone
+269,821,6/27/2020,Flooring repair,9050,10-450 - Pedestrian Control Devices
+270,503,3/3/2023,Painting,2760,10-290 - Pest Control
+271,180,11/24/2023,Flooring repair,4051,1-011 - Project Engineer
+272,947,9/3/2022,Plumbing repair,4542,11-450 - Residential Equipment
+273,215,4/3/2020,HVAC servicing,7641,6-200 - Finish Carpentry
+274,981,5/12/2020,Plumbing repair,3848,11-850 - Navigation Equipment
+275,96,7/9/2019,,5290,10-400 - Identification Devices
+276,491,4/5/2021,Electrical maintenance,3730,16-050 - Basic Electrical Materials and Methods
+277,45,4/26/2022,Painting,2824,"1-514 - Temporary Heating, Cooling and Ventilation"
+278,985,10/29/2020,Electrical maintenance,8288,8-700 - Hardware
+279,757,5/30/2023,Window replacement,8341,4-700 - Simulated Masonry
+280,769,7/24/2020,Painting,2104,2-815 - Fountains
+281,437,11/20/2022,HVAC servicing,6723,1-000 - Purpose
+282,316,6/11/2022,Plumbing repair,7619,9-800 - Acoustical Treatment
+283,721,10/25/2019,Electrical maintenance,9288,8-800 - Glazing
+284,615,10/19/2020,Plumbing repair,8551,11-700 - Medical Equipment
+285,957,10/12/2020,Roofing replacement,2960,10-500 - Lockers
+286,963,2/29/2020,Roofing replacement,380,2-230 - Site Clearing
+287,763,2/7/2020,,1842,5-900 - Metal Restoration and Cleaning
+288,991,11/13/2023,Painting,5379,2-830 - Retaining Walls
+289,184,10/12/2020,Flooring repair,9298,9-300 - Tile
+290,792,12/18/2022,Flooring repair,9037,13-550 - Transportation Control Instrumentation
+291,91,7/26/2022,HVAC servicing,5751,2-800 - Site Amenities
+292,315,2/18/2023,HVAC servicing,7533,11-780 - Mortuary Equipment
+293,301,1/11/2022,HVAC servicing,1557,"11-480 - Athletic, Recreational, and Therapeutic Equipment"
+294,328,7/28/2021,Window replacement,1815,"15-950 - Testing, Adjusting, and Balancing"
+295,701,9/29/2023,HVAC servicing,1498,13-260 - Sludge Conditioning Systems
+296,83,6/25/2022,HVAC servicing,4725,2-740 - Flexible Pavement Asphalt Pavement
+297,279,5/5/2023,Flooring repair,5871,13-120 - Pre-Engineered Structures
+298,399,7/6/2019,,5682,2-230 - Site Clearing
+299,421,3/4/2022,Window replacement,7743,11-650 - Planetarium Equipment
+300,576,10/4/2023,Roofing replacement,2059,14-700 - Turntables
+301,397,12/12/2021,Electrical maintenance,8243,10-150 - Compartments and Cubicles
+302,877,10/15/2021,Painting,7087,15-500 - Heat-Generation Equipment
+303,719,5/30/2019,Plumbing repair,7858,11-680 - Office Equipment
+304,249,6/25/2021,Window replacement,7318,8-900 - Glazed Curtain Wall
+305,165,8/18/2019,HVAC servicing,2620,16 - Electrical
+306,942,5/25/2020,Roofing replacement,1164,1-560 - Temporary Barriers and Enclosures
+307,923,6/17/2020,,972,16-400 - Low-Voltage Distribution
+308,368,5/7/2020,,7770,10-150 - Compartments and Cubicles
+309,217,3/26/2019,Flooring repair,2894,11-150 - Parking Control Equipment
+310,723,9/3/2023,Electrical maintenance,3228,14-200 - Elevators
+311,275,4/20/2020,Window replacement,981,9-900 - Paints and Coatings
+312,672,11/25/2022,HVAC servicing,9504,11-300 - Fluid Waste Treatment and Disposal Equipment
+313,670,12/8/2020,Plumbing repair,991,7-050 - Basic Thermal and Moisture Protection Materials and Methods
+314,142,4/4/2020,HVAC servicing,6207,1-511 - Temporary Electricity
+315,898,2/10/2021,Plumbing repair,7821,12-600 - Multiple Seating
+316,321,7/15/2020,Flooring repair,3104,8-600 - Skylights
+317,266,4/24/2021,Painting,6299,10-520 - Fire Protection Specialties
+318,345,8/23/2021,Painting,2364,1-540 - Construction Aids
+319,786,12/7/2022,Electrical maintenance,4224,2-625 - Retaining Wall Drainage Piping
+320,144,4/15/2021,Roofing replacement,2584,2-825 - Wood Fences and Gates
+321,239,7/11/2020,Plumbing repair,1765,2-317 - Select Borrow
+322,637,9/18/2023,HVAC servicing,4818,4-200 - Masonry Units
+323,536,11/1/2023,Roofing replacement,3842,1-000 - Purpose
+324,430,3/23/2023,Painting,5556,5-900 - Metal Restoration and Cleaning
+325,823,10/28/2020,Roofing replacement,3097,2-540 - Septic Tank
+326,613,11/14/2019,Roofing replacement,1103,1-700 - Execution Requirements
+327,290,8/28/2019,Plumbing repair,394,6-200 - Finish Carpentry
+328,33,7/19/2019,Flooring repair,3057,1-012 - Superintendent
+329,783,12/23/2019,,5239,12-600 - Multiple Seating
+330,506,10/5/2021,Electrical maintenance,8591,13-170 - Tubs and Pools
+331,472,3/3/2023,Flooring repair,5637,2-315 - Excavation
+332,240,8/23/2022,Electrical maintenance,3787,2-936 - Fertilizer
+333,901,4/3/2021,Roofing replacement,1108,1-580 - Project Identification
+334,992,2/1/2020,,5758,15-800 - Air Distribution
+335,906,8/26/2023,,4512,13-600 - Solar and Wind Energy Equipment
+336,72,1/2/2023,Window replacement,3259,10-520 - Fire Protection Specialties
+337,884,11/28/2022,Electrical maintenance,3569,2-220 - Site Demolition
+338,517,7/9/2022,Electrical maintenance,3732,17-010 - Contingency
+339,234,4/16/2019,Painting,8019,10-100 - Visual Display Boards
+340,138,11/27/2023,Electrical maintenance,4125,13-900 - Fire Suppression
+341,371,3/22/2021,Electrical maintenance,944,13-280 - Hazardous Material Remediation
+342,306,7/16/2020,Painting,3684,11-400 - Food Service Equipment
+343,814,12/16/2022,Plumbing repair,8070,7-500 - Membrane Roofing
+344,310,11/3/2020,,1877,2-780 - Clay Unit Pavers
+345,793,2/21/2020,Painting,2305,2-800 - Site Amenities
+346,420,3/26/2022,Roofing replacement,8827,12-500 - Furniture
+347,250,9/12/2021,HVAC servicing,8329,6-200 - Finish Carpentry
+348,655,4/26/2023,Painting,6257,6-900 - Wood and Plastic Restoration and Cleaning
+349,130,4/5/2023,Roofing replacement,9172,1-580 - Project Identification
+350,635,3/24/2021,Flooring repair,5830,1-600 - Product Requirements (Scope of Work)
+351,903,9/9/2022,,6456,2-822 - Ornamental Metal Fences and Gates
+352,192,2/6/2022,Roofing replacement,4293,4-050 - Basic Masonry Materials and Methods
+353,546,1/25/2020,Electrical maintenance,2615,11-870 - Agricultural Equipment
+354,367,2/8/2023,Window replacement,8033,10-700 - Exterior Protection
+355,760,12/28/2021,Roofing replacement,8217,5-700 - Ornamental Metal
+356,42,3/21/2021,Flooring repair,5118,5-900 - Metal Restoration and Cleaning
+357,229,11/9/2022,Painting,5674,1-904 - Hazardous Materials Removal and Disposal
+358,200,1/14/2020,,9379,7-400 - Roofing and Siding Panels
+359,167,10/19/2022,Window replacement,6319,13-200 - Storage Tanks
+360,38,4/1/2022,Plumbing repair,6979,2-780 - Clay Unit Pavers
+361,864,5/3/2020,Electrical maintenance,3103,11-050 - Library Equipment
+362,227,7/5/2021,,8068,3-400 - Precast Concrete
+363,498,10/18/2021,Painting,8880,10-820 - Bathroom Accessories
+364,518,3/21/2020,,6674,7-400 - Roofing and Siding Panels
+365,263,1/30/2022,Roofing replacement,5062,3-320 - Slab Foundations
+366,282,4/10/2021,Roofing replacement,1683,5-500 - Metal Fabrications
+367,294,5/27/2019,Electrical maintenance,636,15-050 - Basic Mechanical Materials and Methods
+368,111,4/17/2022,,3680,2 - Site Construction
+369,156,4/18/2019,Electrical maintenance,6656,2-311 - Final Grading
+370,917,4/22/2021,Window replacement,6159,11-120 - Vending Equipment
+371,256,7/10/2022,Plumbing repair,112,13-400 - Measurement and Control Instrumentation
+372,288,11/9/2019,Plumbing repair,2230,11-780 - Mortuary Equipment
+373,439,12/17/2023,HVAC servicing,5064,11-050 - Library Equipment
+374,204,12/19/2021,HVAC servicing,495,11-680 - Office Equipment
+375,997,12/3/2020,HVAC servicing,7539,1-014 - Project Executive
+376,181,3/30/2021,Roofing replacement,3472,12-900 - Furnishings Restoration and Repair
+377,442,7/31/2021,Plumbing repair,8030,1-014 - Project Executive
+378,459,9/24/2020,Flooring repair,6853,11-070 - Instrumental Equipment
+379,434,3/24/2019,,5540,8-500 - Windows
+380,163,11/23/2020,Flooring repair,2401,13-185 - Kennels and Animal Shelters
+381,36,6/24/2023,Roofing replacement,6551,1-517 - Temporary Telephone
+382,730,12/4/2023,Roofing replacement,7589,11-120 - Vending Equipment
+383,150,4/24/2022,Flooring repair,8829,11-030 - Teller and Service Equipment
+384,336,3/14/2021,HVAC servicing,3577,1-511 - Temporary Electricity
+385,289,4/24/2019,Window replacement,3072,8-400 - Entrances and Storefronts
+386,94,5/13/2022,Roofing replacement,8896,2-200 - Site Preparation
+387,657,6/20/2019,HVAC servicing,6947,"15-950 - Testing, Adjusting, and Balancing"
+388,647,6/11/2021,,4506,10-750 - Telephone Specialties
+389,369,5/20/2019,Flooring repair,1378,3 - Concrete
+390,232,12/21/2021,Flooring repair,1277,11-170 - Solid Waste Handling Equipment
+391,198,12/25/2023,Painting,8066,4-700 - Simulated Masonry
+392,680,6/27/2020,Electrical maintenance,8928,2-782 - Brick Pavers
+393,144,12/23/2020,HVAC servicing,2227,12-500 - Furniture
+394,845,11/11/2022,Painting,9028,7-500 - Membrane Roofing
+395,913,5/8/2022,Window replacement,7102,9-050 - Basic Finish Materials and Methods
+396,296,11/29/2022,HVAC servicing,9017,8-300 - Specialty Doors
+397,249,2/20/2019,Window replacement,3754,13-600 - Solar and Wind Energy Equipment
+398,698,2/11/2021,Roofing replacement,4356,2-240 - Dewatering
+399,85,11/15/2021,Flooring repair,1912,11-100 - Mercantile Equipment
+400,765,11/21/2019,Window replacement,9827,7-100 - Damproofing and Waterproofing
+401,849,8/14/2022,Flooring repair,8940,2-780 - Clay Unit Pavers
+402,178,4/16/2021,Roofing replacement,3692,7-050 - Basic Thermal and Moisture Protection Materials and Methods
+403,191,6/21/2021,Painting,403,1-580 - Project Identification
+404,411,12/31/2021,Window replacement,1146,13-165 - Aquatic Park Facilities
+405,938,12/30/2021,Roofing replacement,3244,13-200 - Storage Tanks
+406,159,9/20/2021,Electrical maintenance,8700,11-600 - Laboratory Equipment
+407,658,2/9/2021,Window replacement,9740,1-540 - Construction Aids
+408,595,7/22/2022,Painting,3972,16 - Electrical
+409,397,12/22/2020,HVAC servicing,6796,13-090 - Radiation Protection
+410,535,6/12/2023,Painting,5299,13-185 - Kennels and Animal Shelters
+411,88,5/30/2021,Flooring repair,1660,11-300 - Fluid Waste Treatment and Disposal Equipment
+412,284,11/5/2020,Window replacement,8915,5-700 - Ornamental Metal
+413,773,4/15/2022,Roofing replacement,2055,11-680 - Office Equipment
+414,530,10/28/2023,Electrical maintenance,6400,10-350 - Flagpoles
+415,917,12/24/2021,Electrical maintenance,9930,13-220 - Filter Underdrains and Media
+416,513,3/2/2022,Electrical maintenance,7516,13-900 - Fire Suppression
+417,797,6/18/2020,HVAC servicing,9223,13-170 - Tubs and Pools
+418,941,12/29/2021,Electrical maintenance,7031,14-200 - Elevators
+419,122,10/24/2020,Painting,2681,9-300 - Tile
+420,507,9/16/2020,Electrical maintenance,4802,1-550 - Vehicular Access and Parking
+421,809,5/3/2022,Plumbing repair,7703,1-523 - Sanitary Facilities
+422,395,10/16/2021,HVAC servicing,9225,1-903 - Hazardous Materials Abatement
+423,360,8/6/2019,Window replacement,457,5-050 - Basic Metal Materials and Methods
+424,643,10/24/2023,Plumbing repair,3906,10-240 - Grilles and Screens
+425,46,5/3/2019,Roofing replacement,7199,11-680 - Office Equipment
+426,310,3/6/2019,HVAC servicing,1534,2-825 - Wood Fences and Gates
+427,271,9/13/2021,Plumbing repair,6218,"11-480 - Athletic, Recreational, and Therapeutic Equipment"
+428,260,4/16/2021,Flooring repair,3391,2-915 - Mulch
+429,738,10/22/2023,Flooring repair,5265,6 - Wood and Plastics
+430,509,11/8/2023,Electrical maintenance,1753,17 - Markup and Contingency
+431,451,2/26/2022,Window replacement,728,16-700 - Communications
+432,45,9/10/2019,HVAC servicing,9304,9-100 - Metal Support Assemblies
+433,784,12/2/2023,Painting,9528,13-280 - Hazardous Material Remediation
+434,798,8/21/2021,Roofing replacement,1904,1-523 - Sanitary Facilities
+435,234,3/20/2021,Window replacement,1351,2-000 - General
+436,298,12/17/2022,Painting,2828,1-570 - Temporary Controls
+437,121,6/10/2023,Painting,1044,13-600 - Solar and Wind Energy Equipment
+438,746,3/10/2019,Electrical maintenance,8396,2-850 - Bridges/Footbridges
+439,210,11/10/2019,Window replacement,6994,12-400 - Furnishings and Accessories
+440,763,12/19/2021,HVAC servicing,2379,2-915 - Mulch
+441,805,8/7/2023,Electrical maintenance,6513,16 - Electrical
+442,673,2/22/2023,Electrical maintenance,839,2-781 - Asphalt Pavers
+443,586,8/8/2021,Roofing replacement,4270,17 - Markup and Contingency
+444,857,8/2/2019,Window replacement,4843,15-300 - Fire Protection Piping
+445,664,7/7/2019,Electrical maintenance,1143,10-880 - Scales
+446,823,12/4/2022,Window replacement,1781,11-470 - Darkroom Equipment
+447,900,5/24/2019,Painting,1374,2-813 - Lawn Sprinkling and Irrigation
+448,480,9/4/2022,,3582,13-175 - Ice Rinks
+449,839,7/3/2023,HVAC servicing,5212,8-800 - Glazing
+450,624,2/18/2023,HVAC servicing,8579,5-200 - Metal Joists
+451,135,10/11/2021,Painting,4724,11-600 - Laboratory Equipment
+452,608,2/8/2022,HVAC servicing,6678,9-600 - Flooring
+453,748,9/6/2023,Flooring repair,6441,10-250 - Service Walls
+454,953,3/18/2019,HVAC servicing,8668,13-850 - Detection and Alarm
+455,441,3/8/2019,Flooring repair,3931,6-200 - Finish Carpentry
+456,72,2/22/2023,Painting,6101,3-100 - Concrete Reinforcement
+457,410,5/24/2021,Flooring repair,5618,15 - Mechanical
+458,676,2/27/2023,Flooring repair,5892,11-400 - Food Service Equipment
+459,996,10/12/2019,,1219,14-100 - Dumbwaiters
+460,251,3/31/2023,Electrical maintenance,5424,11-070 - Instrumental Equipment
+461,56,1/20/2022,Plumbing repair,4820,10-750 - Telephone Specialties
+462,483,5/25/2021,Painting,1085,1-000 - Purpose
+463,862,3/19/2021,Roofing replacement,5582,1-013 - Project Coordinator
+464,511,9/20/2021,Electrical maintenance,3455,11-900 - Exhibit Equipment
+465,285,4/6/2021,Plumbing repair,2549,11 - Equipment
+466,332,4/23/2023,HVAC servicing,249,10-820 - Bathroom Accessories
+467,863,8/19/2023,Roofing replacement,5775,1-904 - Hazardous Materials Removal and Disposal
+468,679,9/27/2023,Window replacement,1854,4-700 - Simulated Masonry
+469,167,12/12/2022,Window replacement,9087,3-330 - Poured Concrete Basement Walls
+470,14,7/14/2020,Plumbing repair,549,13-175 - Ice Rinks
+471,47,3/3/2019,Flooring repair,9133,2-540 - Septic Tank
+472,189,9/8/2023,Plumbing repair,236,1-542 - Construction Scaffolding and Platforms
+473,873,2/10/2023,Painting,3283,13 - Special Construction
+474,450,3/5/2020,Roofing replacement,250,14-400 - Lifts
+475,153,5/26/2020,Painting,7669,6-900 - Wood and Plastic Restoration and Cleaning
+476,278,4/11/2019,Plumbing repair,8034,1-712 - Local Conditions
+477,227,7/26/2019,,6882,12-600 - Multiple Seating
+478,636,8/19/2019,Electrical maintenance,5895,8-050 - Basic Door and Window Materials and Methods
+479,297,3/24/2022,Window replacement,7848,11-300 - Fluid Waste Treatment and Disposal Equipment
+480,37,2/4/2020,Flooring repair,358,4-600 - Corrosion-Resistant Masonry
+481,652,4/24/2023,HVAC servicing,8487,4-800 - Masonry Assemblies
+482,431,1/7/2020,Electrical maintenance,5040,11-020 - Security and Vault Equipment
+483,71,1/3/2020,Roofing replacement,4655,7-700 - Roof Specialties and Accessories
+484,259,9/27/2021,Flooring repair,5702,8-200 - Wood and Plastic Doors
+485,453,2/26/2019,HVAC servicing,7697,3-350 - Concrete Finishing
+486,908,12/8/2021,Plumbing repair,204,2-250 - Shoring and Underpinning
+487,832,1/28/2022,Painting,8476,9-800 - Acoustical Treatment
+488,995,4/17/2021,Window replacement,9138,1-570 - Temporary Controls
+489,549,3/17/2023,Window replacement,7318,3-000 - General
+490,104,9/28/2020,Plumbing repair,4628,10-450 - Pedestrian Control Devices
+491,66,12/1/2019,Plumbing repair,6920,2-813 - Lawn Sprinkling and Irrigation
+492,471,3/19/2023,HVAC servicing,1996,2-924 - Sodding
+493,911,3/16/2023,Plumbing repair,1495,2-780 - Clay Unit Pavers
+494,140,11/18/2019,Roofing replacement,2051,11 - Equipment
+495,112,9/28/2019,Plumbing repair,8475,6-600 - Plastic Fabrications
+496,883,1/27/2019,Flooring repair,9257,14-100 - Dumbwaiters
+497,402,5/24/2020,HVAC servicing,3099,14-700 - Turntables
+498,275,2/7/2019,Roofing replacement,4299,7-100 - Damproofing and Waterproofing
+499,129,11/11/2021,Electrical maintenance,3781,13-020 - Building Modules
+500,181,4/15/2020,Flooring repair,6607,14-900 - Transportation
+501,886,2/18/2023,Roofing replacement,5695,17-020 - Insurance
+502,502,1/22/2023,HVAC servicing,6275,1-515 - Temporary Lighting
+503,391,4/3/2020,Plumbing repair,2767,11-090 - Checkroom Equipment
+504,108,5/17/2022,Electrical maintenance,9310,3 - Concrete
+505,321,11/26/2022,,6890,13-010 - Air-Supported Structures
+506,979,7/13/2023,HVAC servicing,4329,10-350 - Flagpoles
+507,865,3/2/2020,Painting,719,13-400 - Measurement and Control Instrumentation
+508,39,12/15/2021,Painting,311,5-900 - Metal Restoration and Cleaning
+509,853,5/31/2022,Roofing replacement,9378,1-740 - Cleaning
+510,573,1/25/2023,Flooring repair,3769,1-518 - Temporary Water
+511,753,7/9/2020,Painting,3868,2-825 - Wood Fences and Gates
+512,859,9/21/2023,Window replacement,6121,7 - Thermal and Moisture Protection
+513,931,2/3/2022,Roofing replacement,4385,1-700 - Execution Requirements
+514,945,6/24/2020,Plumbing repair,316,"15-700 - Heating, Venting and Air Conditioning"
+515,51,5/2/2023,Plumbing repair,6386,4-500 - Refractories
+516,998,6/14/2023,Electrical maintenance,5035,11-110 - Commercial Laundry and Dry Cleaning Equipment
+517,308,7/1/2019,Roofing replacement,9902,5-600 - Hydraulic Fabrications
+518,950,11/29/2019,Roofing replacement,5697,2-240 - Dewatering
+519,201,9/5/2020,Flooring repair,587,8-800 - Glazing
+520,794,2/17/2021,Flooring repair,9856,2-815 - Fountains
+521,519,12/8/2021,Flooring repair,8653,12 - Furnishings
+522,671,10/3/2022,Flooring repair,3623,1-540 - Construction Aids
+523,18,8/6/2023,Plumbing repair,1503,7-050 - Basic Thermal and Moisture Protection Materials and Methods
+524,939,7/27/2023,HVAC servicing,6917,1-010 - Project Manager
+525,478,5/26/2023,Plumbing repair,9522,1-011 - Project Engineer
+526,267,11/4/2021,Plumbing repair,5018,11-680 - Office Equipment
+527,783,8/14/2022,,6498,1-580 - Project Identification
+528,187,10/19/2022,Flooring repair,7742,13-550 - Transportation Control Instrumentation
+529,26,1/30/2022,HVAC servicing,9670,1-540 - Construction Aids
+530,287,10/20/2020,Window replacement,5448,13-120 - Pre-Engineered Structures
+531,891,12/5/2019,,7311,10 - Specialties
+532,40,12/16/2020,Electrical maintenance,3565,13-110 - Cathodic Protection
+533,329,5/30/2023,Flooring repair,8124,2-770 - Curb and Gutters
+534,788,5/20/2021,Electrical maintenance,4553,2-812 - Drip Irrigation
+535,790,11/18/2020,Flooring repair,4097,8-900 - Glazed Curtain Wall
+536,92,12/22/2019,Roofing replacement,7346,1-511 - Temporary Electricity
+537,256,9/14/2021,Plumbing repair,2479,14-500 - Material Handling
+538,319,6/29/2022,Electrical maintenance,5736,11-160 - Loading Dock Equipment
+539,13,12/30/2023,Roofing replacement,5402,2-250 - Shoring and Underpinning
+540,877,6/3/2023,Plumbing repair,666,12-300 - Manufactured Casework
+541,435,6/17/2023,Plumbing repair,75,9-300 - Tile
+542,959,1/12/2020,Painting,5890,2-822 - Ornamental Metal Fences and Gates
+543,63,2/27/2020,,8682,11-450 - Residential Equipment
+544,585,1/9/2021,Window replacement,3214,17-010 - Contingency
+545,856,10/3/2021,Flooring repair,8180,7-400 - Roofing and Siding Panels
+546,674,9/20/2019,Flooring repair,178,4-050 - Basic Masonry Materials and Methods
+547,132,5/4/2020,Window replacement,9205,12-100 - Art
+548,958,12/14/2022,HVAC servicing,2096,12-300 - Manufactured Casework
+549,351,7/20/2022,Flooring repair,9087,11-110 - Commercial Laundry and Dry Cleaning Equipment
+550,307,2/22/2022,Plumbing repair,9739,16-200 - Electrical Power
+551,150,1/6/2023,Electrical maintenance,2494,1-560 - Temporary Barriers and Enclosures
+552,494,3/1/2020,Window replacement,305,2-740 - Flexible Pavement Asphalt Pavement
+553,168,11/19/2020,,9689,15-050 - Basic Mechanical Materials and Methods
+554,909,12/27/2021,HVAC servicing,9239,9 - Finishes
+555,288,4/1/2020,Electrical maintenance,7027,15-400 - Plumbing Fixtures and Equipment
+556,408,8/27/2021,HVAC servicing,9000,4-800 - Masonry Assemblies
+557,161,2/9/2020,Plumbing repair,9541,16-300 - Transmission and Distribution
+558,550,10/3/2020,Plumbing repair,6164,4-500 - Refractories
+559,419,2/6/2019,Flooring repair,338,1-002 - Instructions
+560,896,10/18/2019,Electrical maintenance,3896,13-175 - Ice Rinks
+561,491,12/2/2019,Window replacement,4049,"1-514 - Temporary Heating, Cooling and Ventilation"
+562,957,3/13/2019,,88,7 - Thermal and Moisture Protection
+563,41,9/9/2020,Window replacement,5186,2-825 - Wood Fences and Gates
+564,363,9/22/2020,Roofing replacement,7188,11-650 - Planetarium Equipment
+565,81,3/31/2023,Roofing replacement,3434,6-500 - Structural Plastics
+566,934,5/19/2020,Electrical maintenance,2574,11-150 - Parking Control Equipment
+567,910,12/4/2021,Flooring repair,4164,14-500 - Material Handling
+568,447,1/5/2019,Painting,9571,1-700 - Execution Requirements
+569,356,1/25/2019,Electrical maintenance,632,1-520 - Construction Facilities
+570,146,10/30/2023,,7947,1-760 - Protecting Installed Construction
+571,23,1/19/2019,Flooring repair,1979,8-400 - Entrances and Storefronts
+572,693,10/27/2020,Electrical maintenance,6256,"7-300 - Shingles, Roof Tiles, and Roof Coverings"
+573,559,4/14/2019,HVAC servicing,1405,8-100 - Doors
+574,597,11/11/2023,Painting,2686,13-800 - Building Automation and Control
+575,725,11/20/2021,,4343,2-815 - Fountains
+576,510,7/29/2022,Window replacement,3992,2-830 - Retaining Walls
+577,422,5/24/2020,Flooring repair,3694,12-300 - Manufactured Casework
+578,893,10/20/2020,Painting,8037,3-300 - Footings
+579,20,3/7/2023,Roofing replacement,9705,16-300 - Transmission and Distribution
+580,463,6/17/2022,HVAC servicing,9806,10-700 - Exterior Protection
+581,867,2/20/2021,HVAC servicing,8722,13-600 - Solar and Wind Energy Equipment
+582,443,2/17/2021,Window replacement,7527,8-800 - Glazing
+583,682,3/4/2023,Roofing replacement,829,2-821 - Chain Link Fences
+584,569,4/14/2020,Window replacement,2338,2-923 - Seeding and Soil Supplements
+585,930,8/21/2022,Electrical maintenance,9826,13-700 - Security Access and Surveillance
+586,548,9/11/2022,Window replacement,5069,2-821 - Chain Link Fences
+587,936,12/12/2021,,7863,11-780 - Mortuary Equipment
+588,808,2/27/2022,Window replacement,4185,11-080 - Registration Equipment
+589,600,3/1/2021,Electrical maintenance,5320,7-050 - Basic Thermal and Moisture Protection Materials and Methods
+590,91,6/13/2019,HVAC servicing,8138,4-800 - Masonry Assemblies
+591,613,10/16/2019,Plumbing repair,7864,1-011 - Project Engineer
+592,312,6/4/2023,,6518,7-050 - Basic Thermal and Moisture Protection Materials and Methods
+593,493,11/14/2019,Electrical maintenance,132,6 - Wood and Plastics
+594,269,2/24/2021,Painting,4292,11-900 - Exhibit Equipment
+595,555,8/18/2020,Flooring repair,2390,2-930 - Exterior Plants
+596,370,9/11/2022,Flooring repair,3872,13-165 - Aquatic Park Facilities
+597,109,10/25/2021,Plumbing repair,2835,2-250 - Shoring and Underpinning
+598,216,9/18/2023,Flooring repair,1238,2-915 - Mulch
+599,385,5/12/2019,Electrical maintenance,1887,14-600 - Hoists and Cables
+600,710,3/9/2020,Flooring repair,1000,5-700 - Ornamental Metal
+601,429,11/3/2019,Plumbing repair,6333,1-010 - Project Manager
+602,281,8/13/2020,,1014,10-550 - Postal Specialties
+603,935,4/29/2022,HVAC servicing,311,2-500 - Utility Services
+604,174,11/10/2019,Plumbing repair,1603,17-030 - Bond
+605,49,5/15/2019,Plumbing repair,7421,11-190 - Detention Equipment
+606,437,2/2/2023,HVAC servicing,1384,13-170 - Tubs and Pools
+607,78,8/8/2019,HVAC servicing,471,16-100 - Electrical
+608,946,4/6/2023,,8417,1-002 - Instructions
+609,742,5/17/2022,Roofing replacement,4250,7-900 - Joint Sealers
+610,567,10/5/2023,Window replacement,8098,9-600 - Flooring
+611,477,2/25/2021,Painting,6611,8-500 - Windows
+612,445,12/19/2022,Plumbing repair,6818,7-700 - Roof Specialties and Accessories
+613,327,4/13/2020,HVAC servicing,783,3-000 - General
+614,593,4/13/2023,Painting,8923,5-500 - Metal Fabrications
+615,638,6/9/2021,Roofing replacement,3775,3-000 - General
+616,414,4/8/2021,Plumbing repair,723,12-500 - Furniture
+617,522,3/5/2022,Flooring repair,4868,14-700 - Turntables
+618,609,3/20/2021,Window replacement,580,9-050 - Basic Finish Materials and Methods
+619,775,6/11/2023,Plumbing repair,5265,5-100 - Structural Metals
+620,222,10/6/2023,Flooring repair,138,2-824 - Wire Fences and Gates
+621,590,1/10/2020,HVAC servicing,1685,13-400 - Measurement and Control Instrumentation
+622,539,9/20/2023,Flooring repair,576,9-800 - Acoustical Treatment
+623,125,9/24/2020,HVAC servicing,2861,13-010 - Air-Supported Structures
+624,208,6/18/2021,Plumbing repair,2464,9-400 - Terrazzo
+625,545,8/22/2020,Window replacement,730,1-518 - Temporary Water
+626,685,4/27/2022,Roofing replacement,4597,13-100 - Lightning Protection
+627,531,11/29/2019,Window replacement,9999,13-170 - Tubs and Pools
+628,966,3/7/2020,HVAC servicing,5261,2-362 - Termite Control
+629,324,1/5/2019,Painting,2350,9 - Finishes
+630,994,5/23/2022,HVAC servicing,5784,"1-514 - Temporary Heating, Cooling and Ventilation"
+631,528,4/3/2021,Electrical maintenance,6176,14 - Conveying Systems
+632,860,7/5/2019,HVAC servicing,2716,4-600 - Corrosion-Resistant Masonry
+633,452,2/23/2022,Roofing replacement,5223,7-050 - Basic Thermal and Moisture Protection Materials and Methods
+634,610,10/2/2019,Electrical maintenance,2211,10-340 - Manufactured Exterior Specialties
+635,261,10/12/2021,Flooring repair,1088,12-500 - Furniture
+636,963,7/26/2022,Roofing replacement,1368,11-010 - Maintenance Equipment
+637,182,6/13/2022,Plumbing repair,1683,16-050 - Basic Electrical Materials and Methods
+638,642,9/30/2019,Electrical maintenance,8509,5-400 - Cold-Formed Metal Framing
+639,622,5/1/2022,Flooring repair,2509,1-542 - Construction Scaffolding and Platforms
+640,584,10/30/2022,Window replacement,4267,13-185 - Kennels and Animal Shelters
+641,421,1/11/2019,Painting,3868,6-200 - Finish Carpentry
+642,427,7/26/2020,Painting,6223,1 - General Requirements
+643,30,8/4/2020,HVAC servicing,3364,3-230 - Anchor Bolts
+644,138,8/1/2020,,7015,13-240 - Oxygenation Systems
+645,992,7/11/2020,Plumbing repair,5143,8-100 - Doors
+646,44,12/6/2022,Plumbing repair,2028,13-240 - Oxygenation Systems
+647,889,8/21/2020,HVAC servicing,868,1-523 - Sanitary Facilities
+648,750,11/23/2022,Electrical maintenance,88,"15-700 - Heating, Venting and Air Conditioning"
+649,521,5/25/2020,Plumbing repair,1830,2-621 - Foundatation Drainage Piping
+650,726,7/25/2020,Electrical maintenance,7474,2-823 - PVC Fences and Gates
+651,331,4/19/2022,Electrical maintenance,4135,10-900 - Wardrobe and Closet Specialties
+652,424,7/6/2022,Flooring repair,9661,2-870 - Sculpture/Ornamental
+653,334,4/12/2022,Window replacement,5244,11-060 - Theater and Stage Equipment
+654,177,11/23/2023,Window replacement,3602,9-700 - Wall Finishes
+655,358,11/24/2023,Plumbing repair,813,9-100 - Metal Support Assemblies
+656,302,6/14/2022,Painting,4119,12 - Furnishings
+657,106,5/7/2021,HVAC servicing,8135,1-570 - Temporary Controls
+658,283,11/21/2021,Painting,2116,2-800 - Site Amenities
+659,76,4/1/2019,Plumbing repair,4263,8-300 - Specialty Doors
+660,137,9/29/2019,Window replacement,7029,1-640 - Owner Furnished Products
+661,747,9/13/2023,HVAC servicing,4067,8-100 - Doors
+662,53,9/28/2022,Painting,3812,16-400 - Low-Voltage Distribution
+663,499,2/2/2023,Electrical maintenance,9025,2-750 - Concrete Pads and Walks
+664,706,5/16/2021,HVAC servicing,8577,3 - Concrete
+665,87,2/13/2019,Window replacement,946,13-600 - Solar and Wind Energy Equipment
+666,34,11/18/2021,Flooring repair,1247,2-780 - Clay Unit Pavers
+667,188,12/14/2020,,5420,14-900 - Transportation
+668,804,11/1/2019,Roofing replacement,7736,13-160 - Aquariums
+669,989,5/10/2023,HVAC servicing,3940,10-350 - Flagpoles
+670,599,1/4/2020,Plumbing repair,887,11-080 - Registration Equipment
+671,69,3/1/2023,Flooring repair,6304,2-240 - Dewatering
+672,730,11/11/2021,Window replacement,8458,10-500 - Lockers
+673,196,5/12/2021,Window replacement,3033,3-310 - Expansion Joints
+674,323,7/29/2022,,4027,7-600 - Flashing and Sheet Metal
+675,628,12/20/2019,Plumbing repair,1240,13-090 - Radiation Protection
+676,229,1/3/2023,HVAC servicing,7648,7-400 - Roofing and Siding Panels
+677,468,10/14/2022,HVAC servicing,3003,9-500 - Ceilings
+678,974,3/31/2019,HVAC servicing,9057,1-760 - Protecting Installed Construction
+679,536,1/9/2022,Electrical maintenance,9692,2-790 - Athletic Surfacing
+680,105,4/22/2022,Flooring repair,1496,1-560 - Temporary Barriers and Enclosures
+681,975,1/12/2023,Roofing replacement,7513,7-700 - Roof Specialties and Accessories
+682,54,9/17/2019,Painting,1465,16 - Electrical
+683,102,4/30/2019,Plumbing repair,4919,8-900 - Glazed Curtain Wall
+684,851,2/22/2019,Flooring repair,6485,1-700 - Execution Requirements
+685,826,11/14/2022,Plumbing repair,1991,7-400 - Roofing and Siding Panels
+686,960,10/20/2022,Window replacement,9208,13-550 - Transportation Control Instrumentation
+687,874,7/22/2019,Electrical maintenance,2408,10-240 - Grilles and Screens
+688,980,5/26/2021,Roofing replacement,5514,2-935 - Plant Maintenance
+689,458,5/8/2022,Painting,952,11-110 - Commercial Laundry and Dry Cleaning Equipment
+690,553,12/5/2021,Roofing replacement,6249,3-400 - Precast Concrete
+691,532,1/31/2019,Flooring repair,6716,3-210 - Cast-In-Place Concrete
+692,592,12/24/2021,Roofing replacement,4465,2-782 - Brick Pavers
+693,299,4/9/2020,Painting,2492,3-330 - Poured Concrete Basement Walls
+694,412,9/8/2020,,226,3-230 - Anchor Bolts
+695,675,9/26/2023,HVAC servicing,5432,16-800 - Sound and Video
+696,598,7/28/2022,Electrical maintenance,6846,11-030 - Teller and Service Equipment
+697,740,7/1/2022,Roofing replacement,3086,11-500 - Industrial and Process Equipment
+698,490,11/22/2021,Window replacement,5500,2-823 - PVC Fences and Gates
+699,556,2/27/2019,Painting,7985,1-740 - Cleaning
+700,341,9/11/2022,Painting,6103,1-630 - Product Substitution Procedures
+701,469,2/7/2020,HVAC servicing,2621,7-700 - Roof Specialties and Accessories
+702,209,8/10/2020,Window replacement,5563,6 - Wood and Plastics
+703,704,5/23/2021,Plumbing repair,9678,9-050 - Basic Finish Materials and Methods
+704,83,9/8/2023,,2878,2-320 - Excavation and Fill
+705,574,4/8/2023,Painting,4729,2-260 - Excavation Support and Protection
+706,266,7/11/2019,Plumbing repair,6052,2-824 - Wire Fences and Gates
+707,454,1/19/2019,Window replacement,1123,2-815 - Fountains
+708,258,1/13/2019,Roofing replacement,7371,14-100 - Dumbwaiters
+709,757,1/11/2021,Plumbing repair,7984,10-520 - Fire Protection Specialties
+710,185,3/18/2022,HVAC servicing,8227,10-270 - Access Flooring
+711,848,2/2/2022,Roofing replacement,4093,12 - Furnishings
+712,912,4/18/2021,Window replacement,7152,11-870 - Agricultural Equipment
+713,314,1/8/2023,Window replacement,3016,1-011 - Project Engineer
+714,687,6/11/2021,HVAC servicing,87,11 - Equipment
+715,631,4/30/2019,Flooring repair,2088,13-600 - Solar and Wind Energy Equipment
+716,77,9/4/2020,Roofing replacement,5965,1-500 - Temporary Facilities and Controls
+717,423,7/19/2020,Roofing replacement,2988,3-000 - General
+718,67,3/23/2020,Painting,8556,9-050 - Basic Finish Materials and Methods
+719,919,6/22/2023,Plumbing repair,8233,3-600 - Grouts
+720,982,8/30/2019,Roofing replacement,5447,12-050 - Fabrics
+721,180,2/21/2021,Painting,2482,14-600 - Hoists and Cables
+722,677,8/3/2023,Electrical maintenance,7495,10-550 - Postal Specialties
+723,976,5/20/2021,Painting,7944,11-110 - Commercial Laundry and Dry Cleaning Equipment
+724,116,9/23/2023,Roofing replacement,6937,11-090 - Checkroom Equipment
+725,663,4/29/2020,Flooring repair,8849,11-030 - Teller and Service Equipment
+726,721,1/16/2022,Electrical maintenance,7266,13-230 - Digester Covers and Appurtenances
+727,301,11/21/2020,Electrical maintenance,573,8-400 - Entrances and Storefronts
+728,303,7/23/2019,Electrical maintenance,1735,12-700 - Systems Furniture
+729,825,11/6/2019,Window replacement,8166,11-170 - Solid Waste Handling Equipment
+730,694,11/20/2020,Roofing replacement,1460,12-900 - Furnishings Restoration and Repair
+731,486,7/27/2021,HVAC servicing,7173,2 - Site Construction
+732,268,12/8/2023,Electrical maintenance,2253,17-010 - Contingency
+733,969,6/14/2019,Flooring repair,6854,9-100 - Metal Support Assemblies
+734,355,5/21/2020,HVAC servicing,9100,13-165 - Aquatic Park Facilities
+735,983,4/5/2022,Roofing replacement,6250,11-660 - Observatory Equipment
+736,572,1/3/2020,Electrical maintenance,8587,11-030 - Teller and Service Equipment
+737,699,12/27/2023,Window replacement,5484,7 - Thermal and Moisture Protection
+738,844,6/2/2019,Window replacement,899,15-600 - Refrigeration Equipment
+739,400,8/15/2023,Roofing replacement,8949,16-300 - Transmission and Distribution
+740,801,1/12/2020,Electrical maintenance,9199,17 - Markup and Contingency
+741,239,3/5/2023,Window replacement,1530,16-800 - Sound and Video
+742,293,1/28/2020,Electrical maintenance,2562,2-935 - Plant Maintenance
+743,543,9/15/2022,Flooring repair,3248,2-310 - Grading
+744,904,9/2/2022,,4003,14-500 - Material Handling
+745,255,6/4/2020,Roofing replacement,618,2-850 - Bridges/Footbridges
+746,838,9/16/2022,Painting,5199,16-300 - Transmission and Distribution
+747,361,9/15/2019,Roofing replacement,1193,1-000 - Purpose
+748,991,10/26/2021,Painting,3675,3-310 - Expansion Joints
+749,667,2/2/2023,Flooring repair,4067,1 - General Requirements
+750,665,6/9/2019,Flooring repair,1489,2-316 - Backfilling
+751,12,12/6/2019,Flooring repair,5117,11-400 - Food Service Equipment
+752,515,4/6/2020,,6209,10-670 - Storage Shelving
+753,627,3/5/2023,Roofing replacement,9847,10-750 - Telephone Specialties
+754,295,10/8/2022,Plumbing repair,5215,12-500 - Furniture
+755,981,6/22/2022,Roofing replacement,297,5-300 - Metal Deck
+756,880,12/22/2019,Electrical maintenance,5433,10-900 - Wardrobe and Closet Specialties
+757,244,7/27/2021,Electrical maintenance,9625,3-000 - General
+758,286,6/25/2023,Roofing replacement,257,13 - Special Construction
+759,703,4/23/2019,Painting,6277,1-013 - Project Coordinator
+760,731,8/5/2020,Plumbing repair,2530,2-800 - Site Amenities
+761,997,3/23/2021,Flooring repair,2278,4 - Masonry
+762,22,4/16/2021,Painting,1380,11-450 - Residential Equipment
+763,440,3/21/2020,HVAC servicing,5702,7-700 - Roof Specialties and Accessories
+764,668,1/4/2021,Window replacement,9755,10-350 - Flagpoles
+765,514,1/30/2023,Painting,7169,15-100 - Plumbing
+766,810,8/31/2020,Window replacement,3503,"10-800 - Toilet, Bath, and Laundry Specialties"
+767,520,8/27/2021,Plumbing repair,1627,1-630 - Product Substitution Procedures
+768,920,2/5/2023,HVAC servicing,2092,11 - Equipment
+769,926,8/1/2022,HVAC servicing,7002,1-530 - Temporary Construction
+770,96,12/5/2021,Electrical maintenance,1655,10-500 - Lockers
+771,623,2/15/2023,Electrical maintenance,8632,5 - Metals
+772,350,11/20/2020,Window replacement,6093,12-600 - Multiple Seating
+773,423,12/6/2023,HVAC servicing,3611,2-770 - Curb and Gutters
+774,1000,6/15/2022,Electrical maintenance,8013,12-100 - Art
+775,900,6/7/2020,Plumbing repair,9433,15-800 - Air Distribution
+776,453,8/24/2023,Plumbing repair,5642,2-621 - Foundatation Drainage Piping
+777,626,7/17/2019,Flooring repair,2881,13-500 - Recording Instrumentation
+778,59,11/25/2019,Flooring repair,4842,2-822 - Ornamental Metal Fences and Gates
+779,456,2/28/2022,Roofing replacement,8377,2-795 - Porous Paving
+780,243,12/20/2020,HVAC servicing,1195,10 - Specialties
+781,207,12/31/2022,Flooring repair,944,3-400 - Precast Concrete
+782,533,1/2/2020,Flooring repair,6674,11-780 - Mortuary Equipment
+783,530,8/3/2022,Window replacement,8892,3-210 - Cast-In-Place Concrete
+784,762,12/3/2021,Flooring repair,4155,1-712 - Local Conditions
+785,86,4/2/2019,Painting,7505,10-520 - Fire Protection Specialties
+786,382,12/15/2023,Window replacement,5906,14-300 - Escalators and Moving Walks
+787,913,10/16/2021,Flooring repair,5055,2-315 - Excavation
+788,625,5/15/2022,Roofing replacement,4217,11-010 - Maintenance Equipment
+789,519,1/19/2022,Roofing replacement,2240,3-210 - Cast-In-Place Concrete
+790,247,9/19/2022,Plumbing repair,4232,2-932 - PLants and Bulbs
+791,99,1/28/2021,Roofing replacement,1268,10-150 - Compartments and Cubicles
+792,955,11/25/2023,,6315,13-500 - Recording Instrumentation
+793,872,12/9/2023,Flooring repair,9362,10-880 - Scales
+794,735,7/17/2021,Painting,5158,11-100 - Mercantile Equipment
+795,677,11/15/2020,Flooring repair,6442,3 - Concrete
+796,156,3/4/2023,Electrical maintenance,8425,9-100 - Metal Support Assemblies
+797,953,1/2/2020,Electrical maintenance,1997,7-100 - Damproofing and Waterproofing
+798,839,3/5/2019,Plumbing repair,8975,2-220 - Site Demolition
+799,133,1/16/2019,Window replacement,1345,8 - Doors and Windows
+800,432,12/9/2022,Plumbing repair,3818,1-510 - Temporary Utilities
+801,197,2/12/2022,Roofing replacement,479,11-060 - Theater and Stage Equipment
+802,242,3/9/2023,Roofing replacement,3738,15-050 - Basic Mechanical Materials and Methods
+803,881,12/21/2021,Window replacement,5160,4-800 - Masonry Assemblies
+804,755,7/23/2023,HVAC servicing,1071,11-060 - Theater and Stage Equipment
+805,634,8/24/2023,Window replacement,9023,2-800 - Site Amenities
+806,880,1/9/2021,Roofing replacement,6358,17-020 - Insurance
+807,923,3/31/2021,Plumbing repair,9004,3-320 - Slab Foundations
+808,573,2/2/2020,Flooring repair,7368,"10-800 - Toilet, Bath, and Laundry Specialties"
+809,163,7/6/2020,Flooring repair,8997,11-070 - Instrumental Equipment
+810,210,2/5/2023,Painting,9681,8-500 - Windows
+811,926,2/18/2022,Painting,1375,1-560 - Temporary Barriers and Enclosures
+812,946,12/19/2019,Plumbing repair,1690,10-200 - Louvers and Vents
+813,694,3/19/2022,,5645,3-230 - Anchor Bolts
+814,193,6/17/2021,Flooring repair,8187,16-700 - Communications
+815,615,4/13/2023,,4379,13-220 - Filter Underdrains and Media
+816,172,8/18/2019,Roofing replacement,8640,15 - Mechanical
+817,23,9/3/2020,Flooring repair,1293,2-625 - Retaining Wall Drainage Piping
+818,307,3/31/2023,Electrical maintenance,4963,16-500 - Lighting
+819,56,5/8/2019,Flooring repair,1589,2-830 - Retaining Walls
+820,928,5/29/2019,Window replacement,2020,9-400 - Terrazzo
+821,320,4/16/2022,Roofing replacement,3350,1-000 - Purpose
+822,268,1/30/2023,Window replacement,5460,10-240 - Grilles and Screens
+823,131,6/30/2023,Plumbing repair,2329,14-100 - Dumbwaiters
+824,676,2/19/2021,,892,17-040 - Profit
+825,806,7/5/2020,,5407,9-100 - Metal Support Assemblies
+826,760,12/24/2021,Electrical maintenance,5234,2-900 - Landscaping
+827,873,3/13/2023,Flooring repair,6905,13-550 - Transportation Control Instrumentation
+828,654,1/14/2020,Painting,9254,11-150 - Parking Control Equipment
+829,366,1/10/2020,Painting,7224,2-800 - Site Amenities
+830,333,2/7/2022,Electrical maintenance,1974,11-090 - Checkroom Equipment
+831,541,1/9/2023,,3565,5-050 - Basic Metal Materials and Methods
+832,577,11/24/2020,Painting,5250,14-500 - Material Handling
+833,567,5/7/2019,Electrical maintenance,4903,7-600 - Flashing and Sheet Metal
+834,738,6/13/2023,Painting,3160,9-400 - Terrazzo
+835,613,4/17/2019,Painting,746,9-680 - Carpet
+836,180,2/27/2021,Electrical maintenance,901,12-400 - Furnishings and Accessories
+837,589,10/19/2023,Window replacement,3309,1-570 - Temporary Controls
+838,560,4/15/2020,Roofing replacement,878,10-300 - Fireplaces and Stoves
+839,609,2/21/2022,Roofing replacement,3883,1 - General Requirements
+840,552,2/22/2023,Roofing replacement,6399,3-300 - Footings
+841,834,10/10/2020,HVAC servicing,7502,11-450 - Residential Equipment
+842,19,6/29/2019,,4234,12-700 - Systems Furniture
+843,799,2/19/2019,,8225,11-150 - Parking Control Equipment
+844,911,10/29/2023,Window replacement,9269,2-919 - Topsoil
+845,823,9/3/2021,Roofing replacement,8586,12-500 - Furniture
+846,171,11/22/2021,Roofing replacement,3497,2-930 - Exterior Plants
+847,816,1/7/2020,,5517,3-400 - Precast Concrete
+848,266,7/27/2023,Electrical maintenance,2150,7 - Thermal and Moisture Protection
+849,291,11/1/2019,,959,1-760 - Protecting Installed Construction
+850,363,5/4/2020,Roofing replacement,1000,10-750 - Telephone Specialties
+851,35,5/18/2021,Electrical maintenance,4659,6-100 - Rough Carpentry
+852,526,1/12/2023,Flooring repair,3355,6-600 - Plastic Fabrications
+853,262,11/2/2023,Flooring repair,2421,14-700 - Turntables
+854,538,12/30/2021,Painting,8694,1-904 - Hazardous Materials Removal and Disposal
+855,313,7/1/2023,Roofing replacement,4439,2-000 - General
+856,200,10/19/2022,Flooring repair,2050,2-783 - Interlocking Concrete Unit Paving
+857,916,11/25/2021,Window replacement,7653,15-100 - Plumbing
+858,181,9/5/2020,,2982,"1-514 - Temporary Heating, Cooling and Ventilation"
+859,221,10/25/2021,Painting,1505,10-290 - Pest Control
+860,794,3/14/2019,Window replacement,9843,14-200 - Elevators
+861,737,9/17/2019,HVAC servicing,7631,11-160 - Loading Dock Equipment
+862,869,7/8/2023,Painting,6867,11-150 - Parking Control Equipment
+863,492,11/9/2023,Painting,1182,13-900 - Fire Suppression
+864,108,2/19/2023,Window replacement,6141,3-300 - Footings
+865,608,5/16/2020,Flooring repair,1960,10-500 - Lockers
+866,884,10/17/2019,Flooring repair,449,"10-800 - Toilet, Bath, and Laundry Specialties"
+867,604,10/20/2021,Electrical maintenance,7102,11-400 - Food Service Equipment
+868,13,11/11/2019,Plumbing repair,6135,16-400 - Low-Voltage Distribution
+869,153,10/24/2023,,8585,2-923 - Seeding and Soil Supplements
+870,277,8/16/2021,HVAC servicing,9251,1-518 - Temporary Water
+871,508,8/29/2020,Flooring repair,7656,13-160 - Aquariums
+872,546,9/7/2023,Painting,2988,11-070 - Instrumental Equipment
+873,996,12/3/2023,Flooring repair,6145,16-300 - Transmission and Distribution
+874,355,2/11/2020,Plumbing repair,9853,3-330 - Poured Concrete Basement Walls
+875,300,1/18/2020,HVAC servicing,9845,9-600 - Flooring
+876,992,2/27/2021,Window replacement,9212,15-050 - Basic Mechanical Materials and Methods
+877,906,12/12/2019,Painting,3564,15-100 - Plumbing
+878,623,11/17/2022,,7665,2-500 - Utility Services
+879,65,12/7/2019,Flooring repair,5532,15-800 - Air Distribution
+880,658,7/22/2022,Electrical maintenance,7615,2-316 - Backfilling
+881,837,1/19/2022,,349,11-130 - Audio-Visual Equipment
+882,866,2/28/2023,Flooring repair,3932,4 - Masonry
+883,488,5/1/2020,Window replacement,4467,8-800 - Glazing
+884,659,12/25/2021,HVAC servicing,7901,13-230 - Digester Covers and Appurtenances
+885,422,6/27/2022,HVAC servicing,3893,10-500 - Lockers
+886,412,3/9/2019,Electrical maintenance,8574,4-050 - Basic Masonry Materials and Methods
+887,950,8/29/2020,HVAC servicing,8898,12-300 - Manufactured Casework
+888,323,1/17/2019,Painting,2594,16-700 - Communications
+889,135,3/19/2022,Roofing replacement,2960,11-470 - Darkroom Equipment
+890,891,11/7/2022,Painting,4737,13-030 - Special Purpose Rooms
+891,237,11/25/2023,,3641,2 - Site Construction
+892,372,9/2/2021,Window replacement,3663,1-013 - Project Coordinator
+893,192,12/16/2021,Electrical maintenance,9415,12-700 - Systems Furniture
+894,258,3/11/2019,,4870,4-400 - Stone
+895,938,12/26/2019,HVAC servicing,5687,14-500 - Material Handling
+896,324,3/16/2020,Painting,6521,1-014 - Project Executive
+897,32,12/23/2021,Plumbing repair,543,13-090 - Radiation Protection
+898,30,12/21/2022,Roofing replacement,9592,4-400 - Stone
+899,599,5/28/2021,Electrical maintenance,1848,2-621 - Foundatation Drainage Piping
+900,51,1/8/2020,Flooring repair,5263,14-100 - Dumbwaiters
+901,630,4/17/2020,Window replacement,2037,6-900 - Wood and Plastic Restoration and Cleaning
+902,651,4/11/2019,Plumbing repair,717,3-500 - Cementitious Decks and Underlayments
+903,909,1/8/2020,Window replacement,1949,2-825 - Wood Fences and Gates
+904,877,11/28/2022,Electrical maintenance,635,"1-514 - Temporary Heating, Cooling and Ventilation"
+905,638,5/7/2020,HVAC servicing,9520,1-510 - Temporary Utilities
+906,704,9/21/2023,Roofing replacement,8911,14-700 - Turntables
+907,301,9/14/2023,Electrical maintenance,727,13-090 - Radiation Protection
+908,470,2/18/2022,Flooring repair,8008,8 - Doors and Windows
+909,939,6/5/2019,Flooring repair,9643,6-200 - Finish Carpentry
+910,62,1/3/2023,Plumbing repair,2845,11-090 - Checkroom Equipment
+911,52,11/7/2023,Painting,8230,13-260 - Sludge Conditioning Systems
+912,378,8/30/2023,Electrical maintenance,1362,1-904 - Hazardous Materials Removal and Disposal
+913,716,10/7/2022,Painting,5248,11-090 - Checkroom Equipment
+914,118,10/31/2021,Window replacement,9163,2-822 - Ornamental Metal Fences and Gates
+915,920,4/7/2023,Window replacement,8313,2-825 - Wood Fences and Gates
+916,140,2/11/2019,Painting,4473,11-190 - Detention Equipment
+917,28,1/1/2020,,9814,16-400 - Low-Voltage Distribution
+918,827,7/11/2020,,3556,1-903 - Hazardous Materials Abatement
+919,384,1/31/2023,Flooring repair,5510,4-200 - Masonry Units
+920,331,10/20/2020,Plumbing repair,552,14-800 - Scaffolding
+921,261,5/21/2022,Roofing replacement,1507,15-900 - HVAC Instruments and Controls
+922,105,5/26/2022,,5350,9-250 - Gypsum Wallboard
+923,325,7/5/2022,Roofing replacement,8837,10-520 - Fire Protection Specialties
+924,619,9/5/2022,,1863,14-500 - Material Handling
+925,483,12/26/2021,,9199,13-550 - Transportation Control Instrumentation
+926,529,5/4/2020,Flooring repair,9150,4-400 - Stone
+927,795,4/28/2023,HVAC servicing,6960,8-100 - Doors
+928,136,9/5/2022,Electrical maintenance,5111,15 - Mechanical
+929,889,4/29/2022,,7304,2-919 - Topsoil
+930,548,3/28/2019,Flooring repair,6172,11-120 - Vending Equipment
+931,347,3/18/2023,Plumbing repair,5136,10-260 - Wall and Corner Guards
+932,446,12/15/2021,Plumbing repair,2508,10-150 - Compartments and Cubicles
+933,138,7/6/2023,Painting,1679,1-010 - Project Manager
+934,284,7/8/2020,Window replacement,8218,3-400 - Precast Concrete
+935,394,3/27/2022,Window replacement,8162,13 - Special Construction
+936,79,10/29/2023,HVAC servicing,5824,5-300 - Metal Deck
+937,444,3/12/2023,Plumbing repair,2472,9-900 - Paints and Coatings
+938,874,3/11/2020,Flooring repair,2625,1-520 - Construction Facilities
+939,892,2/18/2019,Electrical maintenance,775,13-175 - Ice Rinks
+940,129,7/17/2022,HVAC servicing,3460,2-783 - Interlocking Concrete Unit Paving
+941,888,11/2/2023,Plumbing repair,9039,10-530 - Protective Covers
+942,159,2/18/2023,Painting,1152,16-300 - Transmission and Distribution
+943,311,8/12/2023,Electrical maintenance,500,13-280 - Hazardous Material Remediation
+944,614,5/22/2022,Roofing replacement,8624,13-010 - Air-Supported Structures
+945,342,12/25/2022,HVAC servicing,6992,1-740 - Cleaning
+946,957,9/22/2023,Electrical maintenance,9065,16-500 - Lighting
+947,310,3/22/2023,Flooring repair,748,10-450 - Pedestrian Control Devices
+948,458,4/30/2019,Roofing replacement,9880,5-200 - Metal Joists
+949,318,8/31/2023,Window replacement,742,11-160 - Loading Dock Equipment
+950,915,12/9/2021,Electrical maintenance,4073,2-815 - Fountains
+951,295,8/11/2022,HVAC servicing,8518,"1-514 - Temporary Heating, Cooling and Ventilation"
+952,782,7/16/2019,Window replacement,6295,7-200 - Thermal Protection - Insulation
+953,222,2/5/2020,Painting,4415,4-200 - Masonry Units
+954,602,7/2/2023,,3941,2-000 - General
+955,211,7/2/2022,Electrical maintenance,8957,1-630 - Product Substitution Procedures
+956,571,6/11/2023,Plumbing repair,5650,7-800 - Fire and Smoke Protection
+957,468,3/16/2020,Electrical maintenance,9281,11-200 - Water Supply and Treatment Equipment
+958,130,10/9/2023,Flooring repair,7748,2-317 - Select Borrow
+959,8,11/2/2022,HVAC servicing,6816,2-824 - Wire Fences and Gates
+960,7,11/12/2020,HVAC servicing,7398,9-600 - Flooring
+961,255,4/18/2023,Flooring repair,5723,2-812 - Drip Irrigation
+962,22,4/16/2019,Roofing replacement,2912,3-330 - Poured Concrete Basement Walls
+963,505,12/17/2019,Flooring repair,9928,3-310 - Expansion Joints
+964,800,5/30/2021,Flooring repair,8735,4-050 - Basic Masonry Materials and Methods
+965,851,5/30/2022,Window replacement,3164,1 - General Requirements
+966,182,9/20/2022,Flooring repair,1882,11-150 - Parking Control Equipment
+967,95,9/24/2020,Roofing replacement,1928,2-621 - Foundatation Drainage Piping
+968,803,9/29/2019,Electrical maintenance,7782,12 - Furnishings
+969,352,7/17/2020,Flooring repair,786,15-600 - Refrigeration Equipment
+970,947,5/23/2019,Painting,5952,12-900 - Furnishings Restoration and Repair
+971,406,5/28/2020,Window replacement,1944,16-100 - Electrical
+972,155,4/27/2022,Flooring repair,4926,7-100 - Damproofing and Waterproofing
+973,733,7/10/2019,Flooring repair,1502,11-010 - Maintenance Equipment
+974,540,5/1/2021,Plumbing repair,5937,4-600 - Corrosion-Resistant Masonry
+975,551,10/9/2019,Flooring repair,4318,11-280 - Hydraulic Gates and Valves
+976,497,6/19/2023,,4739,10-340 - Manufactured Exterior Specialties
+977,969,6/25/2019,Roofing replacement,9137,4-200 - Masonry Units
+978,678,9/22/2021,Roofing replacement,416,13-150 - Swimming Pools
+979,292,9/8/2020,Painting,6011,13-260 - Sludge Conditioning Systems
+980,346,8/18/2021,Flooring repair,1732,10-670 - Storage Shelving
+981,844,7/19/2022,Roofing replacement,9306,3-600 - Grouts
+982,652,8/15/2023,Electrical maintenance,3803,2-919 - Topsoil
+983,534,10/1/2023,HVAC servicing,6579,11-140 - Vehicle Service Equipment
+984,792,5/16/2019,,8776,14-300 - Escalators and Moving Walks
+985,267,12/8/2023,HVAC servicing,1562,2-917 - Soil Preparation
+986,100,8/27/2021,Electrical maintenance,6117,17 - Markup and Contingency
+987,956,8/20/2020,Window replacement,2628,1-580 - Project Identification
+988,101,6/10/2020,,8045,1-500 - Temporary Facilities and Controls
+989,274,7/6/2020,HVAC servicing,2942,4-500 - Refractories
+990,110,4/9/2019,Roofing replacement,8438,9-400 - Terrazzo
+991,25,7/9/2019,Plumbing repair,7729,13-230 - Digester Covers and Appurtenances
+992,949,1/11/2019,Electrical maintenance,2372,13-230 - Digester Covers and Appurtenances
+993,27,5/31/2021,Painting,910,13-010 - Air-Supported Structures
+994,852,8/13/2023,,9621,2 - Site Construction
+995,287,1/7/2022,Flooring repair,6425,10-200 - Louvers and Vents
+996,663,10/25/2019,Flooring repair,9619,1-002 - Instructions
+997,454,1/28/2021,Window replacement,234,"15-950 - Testing, Adjusting, and Balancing"
+998,298,10/27/2021,HVAC servicing,3415,1-518 - Temporary Water
+999,173,10/9/2021,Roofing replacement,836,8-500 - Windows
+1000,510,11/21/2019,Plumbing repair,7643,11-280 - Hydraulic Gates and Valves

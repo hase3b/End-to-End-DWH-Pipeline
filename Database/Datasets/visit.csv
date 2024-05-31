@@ -1,0 +1,1001 @@
+visit_id,property_id,visit_date,client_id,description
+1,110,2019-03-14,316,Moderately Interested in Rent
+2,61,2022-04-22,258,Moderately Interested in Purchase
+3,3,2021-12-16,185,Moderately Interested in Purchase
+4,683,2019-08-10,762,Not Interested in Property
+5,728,2022-05-09,534,Highly Interested in Rent
+6,940,2021-10-26,922,Highly Interested in Rent
+7,796,2021-04-17,957,Requires Significant Changes or Renovations
+8,411,2019-09-20,861,Interested but Price is a Concern
+9,185,2022-12-29,469,Highly Interested in Rent
+10,92,2023-09-15,372,Requires Significant Changes or Renovations
+11,646,2023-06-24,949,Interested but Price is a Concern
+12,806,2021-11-03,991,Requires Significant Changes or Renovations
+13,923,2024-01-25,3,Highly Interested in Purchase
+14,334,2020-03-12,570,Waiting on External Factors
+15,438,2020-10-14,990,Highly Interested in Rent
+16,405,2020-08-01,886,Waiting on External Factors
+17,373,2021-07-26,38,Interested but Price is a Concern
+18,865,2023-03-04,250,Interested in a Different Type of Property
+19,928,2022-08-01,759,Requires Significant Changes or Renovations
+20,367,2022-08-11,498,Not Interested in Property
+21,555,2020-04-23,567,Waiting on External Factors
+22,606,2019-03-17,347,Highly Interested in Purchase
+23,899,2023-09-27,355,Moderately Interested in Purchase
+24,488,2021-03-23,177,Moderately Interested in Purchase
+25,941,2022-05-10,568,Requires Significant Changes or Renovations
+26,779,2021-12-21,583,Interested but Needs More Information
+27,226,2019-05-20,36,Not Interested in Property
+28,919,2019-11-22,580,Not Interested in Property
+29,382,2019-11-25,212,Interested but Needs More Information
+30,414,2023-08-02,199,Interested but Needs More Information
+31,599,2022-05-09,695,Moderately Interested in Rent
+32,691,2019-08-17,475,Moderately Interested in Purchase
+33,136,2021-03-02,139,Interested but Price is a Concern
+34,236,2019-03-18,512,Waiting on External Factors
+35,825,2022-12-13,989,Interested but Needs More Information
+36,10,2022-04-24,428,Highly Interested in Rent
+37,553,2021-10-09,63,Waiting on External Factors
+38,953,2019-11-13,91,Highly Interested in Rent
+39,880,2019-08-15,834,Moderately Interested in Purchase
+40,72,2022-11-30,829,Not Interested in Property
+41,255,2022-07-26,459,Interested but Needs More Information
+42,974,2021-05-04,476,Interested but Price is a Concern
+43,13,2021-02-07,263,Interested but Price is a Concern
+44,237,2019-09-16,429,Highly Interested in Rent
+45,663,2021-11-01,590,Highly Interested in Rent
+46,490,2020-11-25,716,Interested in a Different Type of Property
+47,861,2019-12-12,532,Not Interested in Property
+48,575,2021-06-26,10,Highly Interested in Rent
+49,483,2023-04-09,668,Interested in a Different Type of Property
+50,774,2021-05-17,600,Interested but Price is a Concern
+51,753,2021-10-01,901,Interested but Price is a Concern
+52,603,2022-10-10,20,Highly Interested in Purchase
+53,659,2020-03-19,920,Interested but Price is a Concern
+54,449,2021-04-20,591,Requires Significant Changes or Renovations
+55,320,2023-05-05,573,Waiting on External Factors
+56,200,2023-11-02,361,Highly Interested in Purchase
+57,689,2023-02-07,456,Not Interested in Property
+58,945,2019-12-25,592,Highly Interested in Purchase
+59,827,2023-09-01,690,Interested but Needs More Information
+60,478,2020-10-19,223,Interested in a Different Type of Property
+61,482,2019-10-08,739,Highly Interested in Rent
+62,701,2020-11-30,527,Moderately Interested in Purchase
+63,564,2022-12-17,335,Moderately Interested in Rent
+64,384,2021-08-11,755,Highly Interested in Rent
+65,790,2023-12-07,231,Interested in a Different Type of Property
+66,196,2022-02-17,409,Interested in a Different Type of Property
+67,39,2023-08-03,578,Requires Significant Changes or Renovations
+68,587,2021-11-02,988,Highly Interested in Rent
+69,912,2019-11-14,961,Moderately Interested in Purchase
+70,336,2022-03-21,155,Moderately Interested in Rent
+71,378,2019-09-21,462,Moderately Interested in Rent
+72,782,2022-10-17,249,Not Interested in Property
+73,301,2019-09-14,82,Interested in a Different Type of Property
+74,16,2023-02-07,857,Highly Interested in Rent
+75,294,2020-06-29,49,Not Interested in Property
+76,183,2021-03-23,700,Highly Interested in Rent
+77,415,2021-04-09,224,Interested in a Different Type of Property
+78,286,2020-03-12,31,Moderately Interested in Rent
+79,435,2020-04-25,262,Interested but Needs More Information
+80,394,2019-03-01,95,Interested but Needs More Information
+81,990,2021-10-26,191,Waiting on External Factors
+82,802,2021-12-30,55,Interested but Needs More Information
+83,329,2023-12-08,790,Interested but Needs More Information
+84,780,2023-07-20,774,Interested but Needs More Information
+85,32,2020-11-20,815,Moderately Interested in Purchase
+86,376,2021-03-04,889,Highly Interested in Purchase
+87,817,2019-05-11,388,Interested but Needs More Information
+88,503,2021-08-03,610,Interested in a Different Type of Property
+89,738,2020-06-19,288,Requires Significant Changes or Renovations
+90,667,2020-04-08,862,Interested but Price is a Concern
+91,674,2020-03-05,702,Highly Interested in Purchase
+92,737,2020-06-19,156,Not Interested in Property
+93,353,2022-12-10,846,Highly Interested in Rent
+94,579,2023-04-05,266,Interested in a Different Type of Property
+95,686,2020-09-11,832,Highly Interested in Rent
+96,803,2020-01-31,724,Requires Significant Changes or Renovations
+97,141,2022-06-22,612,Waiting on External Factors
+98,619,2020-12-29,660,Highly Interested in Rent
+99,304,2020-04-23,492,Interested in a Different Type of Property
+100,409,2019-07-19,430,Moderately Interested in Purchase
+101,618,2020-12-18,18,Moderately Interested in Rent
+102,989,2021-10-31,398,Interested but Price is a Concern
+103,612,2022-05-14,883,Interested but Needs More Information
+104,290,2019-10-01,796,Interested in a Different Type of Property
+105,961,2022-06-14,509,Not Interested in Property
+106,584,2020-03-06,859,Highly Interested in Purchase
+107,90,2021-10-23,873,Moderately Interested in Rent
+108,498,2023-08-21,40,Interested in a Different Type of Property
+109,303,2023-05-04,564,Moderately Interested in Purchase
+110,755,2019-08-11,127,Waiting on External Factors
+111,758,2022-04-10,854,Moderately Interested in Purchase
+112,957,2019-07-30,735,Highly Interested in Purchase
+113,970,2019-03-26,396,Moderately Interested in Purchase
+114,140,2022-10-17,969,Requires Significant Changes or Renovations
+115,445,2020-01-24,730,Not Interested in Property
+116,357,2019-12-17,368,Interested but Needs More Information
+117,134,2022-05-17,189,Interested but Price is a Concern
+118,905,2020-07-28,874,Moderately Interested in Rent
+119,363,2019-04-17,805,Not Interested in Property
+120,727,2021-07-08,176,Interested but Price is a Concern
+121,323,2022-09-24,334,Requires Significant Changes or Renovations
+122,720,2021-02-22,291,Interested but Needs More Information
+123,684,2019-12-09,997,Moderately Interested in Rent
+124,209,2021-05-24,552,Interested but Price is a Concern
+125,597,2021-09-16,539,Requires Significant Changes or Renovations
+126,641,2021-09-25,619,Moderately Interested in Rent
+127,231,2022-11-12,876,Moderately Interested in Purchase
+128,299,2022-08-19,741,Moderately Interested in Rent
+129,965,2019-07-31,68,Not Interested in Property
+130,246,2023-06-03,190,Moderately Interested in Purchase
+131,903,2021-03-09,644,Moderately Interested in Rent
+132,931,2023-07-14,342,Interested in a Different Type of Property
+133,590,2020-07-14,935,Moderately Interested in Purchase
+134,491,2023-12-11,229,Waiting on External Factors
+135,681,2021-11-03,685,Not Interested in Property
+136,886,2023-06-05,69,Interested but Needs More Information
+137,239,2022-06-20,140,Interested in a Different Type of Property
+138,205,2020-10-08,778,Interested but Price is a Concern
+139,142,2021-01-04,80,Moderately Interested in Rent
+140,66,2019-09-11,431,Moderately Interested in Purchase
+141,626,2022-09-21,515,Interested but Price is a Concern
+142,604,2023-04-27,554,Not Interested in Property
+143,349,2020-12-17,162,Waiting on External Factors
+144,651,2021-07-06,390,Interested in a Different Type of Property
+145,904,2020-01-26,446,Moderately Interested in Purchase
+146,465,2020-06-10,449,Interested in a Different Type of Property
+147,22,2022-06-19,239,Requires Significant Changes or Renovations
+148,235,2020-05-18,157,Interested but Needs More Information
+149,799,2021-07-11,892,Interested but Needs More Information
+150,655,2022-07-21,479,Waiting on External Factors
+151,954,2019-10-12,627,Requires Significant Changes or Renovations
+152,198,2021-10-03,137,Moderately Interested in Purchase
+153,773,2021-12-23,349,Interested in a Different Type of Property
+154,991,2019-02-24,750,Interested in a Different Type of Property
+155,857,2023-10-14,389,Interested but Price is a Concern
+156,400,2021-07-31,124,Highly Interested in Purchase
+157,43,2023-09-04,470,Highly Interested in Rent
+158,228,2020-02-16,484,Requires Significant Changes or Renovations
+159,471,2021-07-28,354,Interested in a Different Type of Property
+160,522,2023-11-14,301,Waiting on External Factors
+161,506,2020-11-12,119,Waiting on External Factors
+162,642,2019-08-21,437,Highly Interested in Purchase
+163,671,2020-03-25,305,Interested but Price is a Concern
+164,52,2022-04-16,611,Waiting on External Factors
+165,673,2023-10-27,295,Interested in a Different Type of Property
+166,538,2022-01-28,838,Waiting on External Factors
+167,94,2020-07-13,836,Requires Significant Changes or Renovations
+168,139,2021-06-01,489,Not Interested in Property
+169,509,2019-11-06,652,Moderately Interested in Rent
+170,443,2023-03-25,914,Moderately Interested in Rent
+171,586,2020-04-21,187,Highly Interested in Rent
+172,578,2022-05-05,86,Interested in a Different Type of Property
+173,122,2023-03-25,929,Interested in a Different Type of Property
+174,195,2020-08-05,678,Not Interested in Property
+175,546,2022-10-05,613,Requires Significant Changes or Renovations
+176,346,2023-08-29,315,Requires Significant Changes or Renovations
+177,853,2022-11-20,24,Interested in a Different Type of Property
+178,364,2022-05-15,595,Interested but Needs More Information
+179,713,2019-11-08,609,Requires Significant Changes or Renovations
+180,344,2021-01-09,807,Moderately Interested in Purchase
+181,543,2023-11-03,447,Not Interested in Property
+182,456,2019-02-19,52,Not Interested in Property
+183,273,2022-07-10,736,Highly Interested in Rent
+184,843,2020-12-25,83,Interested but Price is a Concern
+185,464,2020-12-12,219,Interested but Needs More Information
+186,105,2020-12-03,951,Interested but Price is a Concern
+187,88,2021-04-06,259,Interested but Price is a Concern
+188,124,2021-02-28,722,Highly Interested in Purchase
+189,552,2022-08-11,803,Moderately Interested in Rent
+190,709,2023-08-24,624,Highly Interested in Rent
+191,514,2019-05-10,808,Highly Interested in Purchase
+192,191,2023-10-07,880,Moderately Interested in Rent
+193,326,2022-12-15,221,Moderately Interested in Rent
+194,455,2021-05-03,210,Interested in a Different Type of Property
+195,433,2019-02-09,723,Waiting on External Factors
+196,370,2023-05-03,434,Interested but Needs More Information
+197,5,2019-08-22,204,Interested but Price is a Concern
+198,392,2020-01-04,664,Moderately Interested in Purchase
+199,600,2020-04-18,183,Interested but Needs More Information
+200,390,2024-01-07,681,Moderately Interested in Purchase
+201,274,2020-06-25,378,Moderately Interested in Rent
+202,997,2023-02-03,801,Interested but Needs More Information
+203,866,2020-07-21,88,Moderately Interested in Rent
+204,232,2020-10-26,112,Requires Significant Changes or Renovations
+205,878,2020-04-15,954,Interested but Needs More Information
+206,832,2023-03-12,543,Not Interested in Property
+207,634,2019-10-01,975,Not Interested in Property
+208,272,2020-06-07,540,Highly Interested in Rent
+209,703,2021-07-20,977,Moderately Interested in Rent
+210,21,2020-01-18,233,Moderately Interested in Purchase
+211,557,2022-06-08,201,Not Interested in Property
+212,895,2022-09-17,120,Waiting on External Factors
+213,968,2023-07-19,905,Not Interested in Property
+214,789,2021-07-02,904,Requires Significant Changes or Renovations
+215,283,2023-01-11,420,Waiting on External Factors
+216,355,2022-12-18,887,Highly Interested in Rent
+217,429,2020-10-23,364,Moderately Interested in Purchase
+218,829,2023-03-23,451,Interested but Needs More Information
+219,398,2020-02-26,675,Not Interested in Property
+220,229,2022-01-17,330,Highly Interested in Rent
+221,768,2021-01-31,64,Highly Interested in Purchase
+222,685,2023-12-12,100,Highly Interested in Rent
+223,992,2020-04-20,703,Moderately Interested in Purchase
+224,574,2020-05-22,915,Highly Interested in Rent
+225,495,2019-08-04,663,Moderately Interested in Rent
+226,807,2022-01-14,284,Interested but Price is a Concern
+227,163,2022-01-28,197,Interested in a Different Type of Property
+228,396,2023-12-16,99,Moderately Interested in Rent
+229,342,2021-05-14,676,Not Interested in Property
+230,541,2020-12-02,161,Moderately Interested in Purchase
+231,31,2020-02-22,537,Requires Significant Changes or Renovations
+232,309,2019-06-22,579,Interested but Price is a Concern
+233,116,2021-03-21,765,Interested but Needs More Information
+234,795,2020-03-22,148,Waiting on External Factors
+235,407,2020-04-26,180,Requires Significant Changes or Renovations
+236,107,2020-07-23,625,Waiting on External Factors
+237,816,2021-01-19,71,Moderately Interested in Purchase
+238,80,2023-08-27,584,Interested in a Different Type of Property
+239,786,2021-07-26,565,Highly Interested in Rent
+240,444,2022-03-23,737,Highly Interested in Rent
+241,581,2019-08-15,916,Interested but Price is a Concern
+242,944,2022-04-21,353,Waiting on External Factors
+243,976,2020-05-17,11,Interested but Needs More Information
+244,275,2020-02-14,374,Highly Interested in Rent
+245,929,2023-06-15,622,Moderately Interested in Purchase
+246,936,2019-12-29,346,Highly Interested in Rent
+247,766,2022-08-03,628,Waiting on External Factors
+248,814,2023-11-04,359,Requires Significant Changes or Renovations
+249,50,2022-03-14,440,Moderately Interested in Purchase
+250,621,2023-03-17,60,Moderately Interested in Rent
+251,366,2021-10-10,467,Requires Significant Changes or Renovations
+252,993,2021-11-05,882,Requires Significant Changes or Renovations
+253,481,2023-05-24,955,Interested in a Different Type of Property
+254,836,2022-04-18,452,Interested but Needs More Information
+255,678,2019-12-19,45,Interested but Price is a Concern
+256,337,2021-10-29,97,Interested in a Different Type of Property
+257,54,2023-11-07,597,Moderately Interested in Rent
+258,368,2023-03-03,360,Moderately Interested in Purchase
+259,665,2019-08-18,198,Moderately Interested in Purchase
+260,531,2021-11-09,604,Interested but Price is a Concern
+261,524,2019-05-05,327,Waiting on External Factors
+262,153,2019-04-22,70,Interested but Price is a Concern
+263,891,2020-04-16,375,Highly Interested in Purchase
+264,809,2022-05-22,461,Moderately Interested in Rent
+265,588,2023-10-11,168,Moderately Interested in Purchase
+266,868,2023-05-30,455,Moderately Interested in Purchase
+267,126,2023-12-28,117,Requires Significant Changes or Renovations
+268,706,2019-05-14,538,Interested in a Different Type of Property
+269,328,2020-02-26,8,Moderately Interested in Purchase
+270,243,2020-07-26,442,Highly Interested in Purchase
+271,486,2023-03-13,405,Highly Interested in Purchase
+272,913,2020-08-01,950,Requires Significant Changes or Renovations
+273,874,2023-04-16,826,Not Interested in Property
+274,594,2019-09-12,225,Moderately Interested in Rent
+275,194,2019-04-22,956,Moderately Interested in Rent
+276,91,2021-02-25,934,Not Interested in Property
+277,561,2020-08-26,504,Interested in a Different Type of Property
+278,169,2021-09-17,994,Not Interested in Property
+279,812,2022-03-10,984,Waiting on External Factors
+280,560,2022-04-08,251,Interested but Needs More Information
+281,811,2022-06-19,773,Moderately Interested in Purchase
+282,74,2023-12-14,618,Requires Significant Changes or Renovations
+283,979,2019-05-22,831,Moderately Interested in Purchase
+284,55,2022-11-08,42,Requires Significant Changes or Renovations
+285,440,2023-08-16,134,Interested but Price is a Concern
+286,823,2023-11-30,264,Interested but Needs More Information
+287,93,2022-11-16,384,Not Interested in Property
+288,534,2019-06-04,941,Highly Interested in Purchase
+289,648,2023-09-07,993,Highly Interested in Purchase
+290,182,2022-08-14,864,Highly Interested in Rent
+291,253,2020-03-12,784,Moderately Interested in Rent
+292,804,2023-12-24,357,Interested in a Different Type of Property
+293,319,2020-03-08,382,Interested but Needs More Information
+294,439,2023-06-08,558,Interested but Needs More Information
+295,510,2020-07-20,142,Interested in a Different Type of Property
+296,436,2021-10-25,845,Interested in a Different Type of Property
+297,257,2020-05-27,169,Highly Interested in Rent
+298,544,2020-10-15,856,Interested but Needs More Information
+299,653,2020-03-30,363,Requires Significant Changes or Renovations
+300,1,2022-07-08,294,Highly Interested in Rent
+301,664,2023-07-21,132,Interested in a Different Type of Property
+302,973,2023-09-05,338,Waiting on External Factors
+303,150,2019-07-27,220,Not Interested in Property
+304,492,2019-05-22,651,Highly Interested in Purchase
+305,460,2023-03-23,878,Not Interested in Property
+306,831,2023-10-11,670,Interested but Needs More Information
+307,461,2023-05-02,481,Interested in a Different Type of Property
+308,693,2022-06-17,637,Moderately Interested in Rent
+309,573,2020-12-05,928,Waiting on External Factors
+310,939,2022-09-12,29,Requires Significant Changes or Renovations
+311,285,2023-06-13,276,Highly Interested in Rent
+312,645,2023-12-29,105,Requires Significant Changes or Renovations
+313,660,2023-04-15,849,Moderately Interested in Rent
+314,639,2023-04-09,499,Interested but Needs More Information
+315,442,2022-07-12,970,Moderately Interested in Rent
+316,224,2019-11-23,179,Moderately Interested in Purchase
+317,84,2019-09-18,789,Waiting on External Factors
+318,723,2019-06-06,599,Interested but Needs More Information
+319,934,2020-03-29,909,Interested but Needs More Information
+320,699,2020-09-14,308,Not Interested in Property
+321,717,2023-03-30,965,Moderately Interested in Purchase
+322,265,2019-11-14,777,Requires Significant Changes or Renovations
+323,403,2022-06-04,358,Interested but Price is a Concern
+324,950,2022-01-25,47,Moderately Interested in Purchase
+325,98,2021-08-06,313,Interested but Price is a Concern
+326,858,2022-02-01,340,Interested in a Different Type of Property
+327,855,2020-01-20,307,Interested in a Different Type of Property
+328,864,2020-10-18,136,Highly Interested in Purchase
+329,458,2021-04-13,932,Not Interested in Property
+330,172,2021-06-21,995,Highly Interested in Rent
+331,972,2020-10-11,692,Highly Interested in Rent
+332,910,2020-09-12,642,Moderately Interested in Rent
+333,249,2020-06-05,665,Not Interested in Property
+334,628,2022-01-21,783,Moderately Interested in Purchase
+335,911,2020-12-22,478,Highly Interested in Purchase
+336,999,2022-10-27,422,Not Interested in Property
+337,115,2019-04-12,581,Moderately Interested in Purchase
+338,269,2022-02-01,824,Moderately Interested in Rent
+339,89,2022-09-04,280,Waiting on External Factors
+340,220,2022-11-02,122,Moderately Interested in Rent
+341,252,2021-03-16,577,Highly Interested in Rent
+342,25,2021-03-17,958,Interested in a Different Type of Property
+343,292,2021-06-09,830,Requires Significant Changes or Renovations
+344,489,2019-08-19,788,Highly Interested in Rent
+345,725,2020-08-22,785,Not Interested in Property
+346,862,2022-03-23,763,Requires Significant Changes or Renovations
+347,576,2019-10-04,672,Highly Interested in Purchase
+348,776,2020-11-11,881,Highly Interested in Purchase
+349,203,2019-09-20,153,Highly Interested in Rent
+350,102,2019-03-28,54,Interested but Needs More Information
+351,507,2019-06-19,798,Not Interested in Property
+352,312,2021-08-24,269,Highly Interested in Purchase
+353,629,2020-06-22,66,Highly Interested in Purchase
+354,128,2021-08-04,848,Requires Significant Changes or Renovations
+355,742,2023-07-01,541,Waiting on External Factors
+356,643,2023-12-02,309,Requires Significant Changes or Renovations
+357,62,2021-09-15,903,Interested but Price is a Concern
+358,216,2023-08-30,794,Highly Interested in Purchase
+359,707,2021-04-05,899,Interested but Price is a Concern
+360,692,2019-08-11,907,Interested but Needs More Information
+361,980,2019-09-25,837,Highly Interested in Purchase
+362,558,2020-07-21,317,Interested in a Different Type of Property
+363,81,2021-04-20,596,Interested in a Different Type of Property
+364,145,2023-06-10,93,Waiting on External Factors
+365,12,2022-09-28,768,Moderately Interested in Purchase
+366,431,2021-12-30,850,Waiting on External Factors
+367,943,2023-12-01,76,Interested but Price is a Concern
+368,595,2019-06-29,979,Interested in a Different Type of Property
+369,381,2021-11-30,247,Highly Interested in Rent
+370,244,2021-02-20,296,Interested but Needs More Information
+371,160,2020-01-14,689,Not Interested in Property
+372,193,2022-10-28,416,Interested in a Different Type of Property
+373,852,2023-01-29,12,Not Interested in Property
+374,783,2021-04-16,560,Moderately Interested in Purchase
+375,577,2020-02-16,510,Interested in a Different Type of Property
+376,527,2020-04-25,756,Waiting on External Factors
+377,966,2023-04-24,114,Interested in a Different Type of Property
+378,951,2019-08-07,130,Interested but Price is a Concern
+379,215,2021-12-11,563,Highly Interested in Purchase
+380,851,2022-07-02,458,Highly Interested in Rent
+381,846,2019-05-26,318,Interested in a Different Type of Property
+382,624,2023-04-02,108,Waiting on External Factors
+383,308,2022-04-23,786,Highly Interested in Purchase
+384,350,2022-06-19,867,Moderately Interested in Purchase
+385,539,2021-10-02,380,Interested but Price is a Concern
+386,494,2023-11-26,959,Moderately Interested in Rent
+387,971,2021-12-17,271,Not Interested in Property
+388,387,2020-04-09,385,Interested but Price is a Concern
+389,569,2019-08-12,425,Highly Interested in Purchase
+390,386,2022-05-22,601,Highly Interested in Purchase
+391,705,2022-02-03,399,Interested but Needs More Information
+392,505,2023-12-06,37,Requires Significant Changes or Renovations
+393,915,2022-10-02,870,Interested in a Different Type of Property
+394,840,2019-06-20,683,Highly Interested in Purchase
+395,914,2023-02-22,1,Moderately Interested in Rent
+396,711,2021-10-01,216,Interested but Needs More Information
+397,388,2022-10-26,109,Highly Interested in Purchase
+398,227,2020-09-10,945,Waiting on External Factors
+399,604,2023-05-30,557,Highly Interested in Purchase
+400,159,2021-11-03,869,Highly Interested in Rent
+401,283,2023-01-19,794,Not Interested in Property
+402,568,2020-05-18,299,Interested but Price is a Concern
+403,555,2020-05-19,954,Moderately Interested in Purchase
+404,465,2020-05-21,509,Highly Interested in Rent
+405,40,2021-08-10,839,Highly Interested in Purchase
+406,347,2019-02-25,271,Waiting on External Factors
+407,311,2021-07-12,364,Waiting on External Factors
+408,50,2022-03-17,685,Interested but Price is a Concern
+409,856,2021-02-21,764,Moderately Interested in Rent
+410,479,2023-07-11,570,Moderately Interested in Purchase
+411,724,2019-06-27,664,Moderately Interested in Rent
+412,969,2023-12-12,751,Highly Interested in Purchase
+413,947,2022-03-13,910,Moderately Interested in Purchase
+414,495,2019-08-10,450,Interested but Price is a Concern
+415,930,2019-05-12,157,Moderately Interested in Rent
+416,39,2023-08-12,694,Highly Interested in Rent
+417,490,2020-11-23,577,Highly Interested in Rent
+418,332,2021-11-29,624,Requires Significant Changes or Renovations
+419,616,2020-07-08,409,Not Interested in Property
+420,65,2019-03-03,645,Moderately Interested in Rent
+421,967,2019-08-13,904,Waiting on External Factors
+422,631,2019-05-01,750,Interested in a Different Type of Property
+423,143,2023-09-24,339,Highly Interested in Rent
+424,945,2020-01-18,568,Highly Interested in Rent
+425,12,2022-08-31,950,Interested but Needs More Information
+426,825,2022-12-07,652,Waiting on External Factors
+427,980,2019-10-22,943,Interested but Price is a Concern
+428,64,2020-04-10,25,Not Interested in Property
+429,557,2022-06-12,426,Interested but Price is a Concern
+430,881,2020-02-24,75,Not Interested in Property
+431,305,2023-09-25,459,Moderately Interested in Purchase
+432,57,2023-10-08,687,Moderately Interested in Purchase
+433,912,2019-12-06,323,Interested but Price is a Concern
+434,600,2020-05-26,791,Highly Interested in Purchase
+435,115,2019-04-13,999,Not Interested in Property
+436,261,2023-03-28,829,Moderately Interested in Rent
+437,292,2021-05-14,96,Interested but Price is a Concern
+438,573,2020-11-25,698,Interested but Needs More Information
+439,476,2022-08-05,957,Moderately Interested in Purchase
+440,396,2023-11-28,237,Interested but Price is a Concern
+441,307,2021-01-31,560,Moderately Interested in Rent
+442,744,2022-07-10,892,Requires Significant Changes or Renovations
+443,464,2020-12-09,965,Moderately Interested in Purchase
+444,854,2021-08-09,56,Moderately Interested in Rent
+445,361,2023-11-07,993,Not Interested in Property
+446,302,2023-07-03,673,Not Interested in Property
+447,727,2021-08-11,605,Waiting on External Factors
+448,391,2021-03-20,865,Interested but Price is a Concern
+449,937,2020-01-31,397,Not Interested in Property
+450,975,2023-01-14,571,Moderately Interested in Rent
+451,412,2022-03-26,600,Requires Significant Changes or Renovations
+452,668,2022-10-25,38,Waiting on External Factors
+453,976,2020-05-28,232,Not Interested in Property
+454,430,2021-06-11,122,Interested but Price is a Concern
+455,192,2023-05-14,557,Moderately Interested in Rent
+456,121,2022-09-13,785,Not Interested in Property
+457,492,2019-05-07,686,Not Interested in Property
+458,43,2023-09-17,359,Not Interested in Property
+459,379,2021-02-07,1000,Waiting on External Factors
+460,452,2021-04-10,218,Interested in a Different Type of Property
+461,129,2022-05-29,11,Not Interested in Property
+462,228,2020-02-22,160,Interested but Price is a Concern
+463,415,2021-04-04,633,Interested in a Different Type of Property
+464,892,2022-07-12,149,Interested but Price is a Concern
+465,27,2022-09-04,648,Moderately Interested in Purchase
+466,873,2021-08-21,86,Moderately Interested in Rent
+467,505,2023-11-09,374,Highly Interested in Rent
+468,386,2022-05-08,828,Moderately Interested in Rent
+469,719,2021-11-09,612,Waiting on External Factors
+470,872,2020-03-07,324,Highly Interested in Rent
+471,589,2021-01-08,825,Interested but Price is a Concern
+472,907,2022-12-10,766,Highly Interested in Rent
+473,142,2020-12-08,798,Waiting on External Factors
+474,800,2020-11-28,380,Highly Interested in Rent
+475,657,2021-10-03,743,Interested but Needs More Information
+476,274,2020-06-05,139,Interested but Price is a Concern
+477,165,2021-04-01,366,Not Interested in Property
+478,288,2023-10-28,194,Not Interested in Property
+479,636,2023-12-23,266,Moderately Interested in Purchase
+480,748,2019-07-19,691,Requires Significant Changes or Renovations
+481,477,2022-03-19,767,Requires Significant Changes or Renovations
+482,331,2020-12-07,868,Not Interested in Property
+483,456,2019-02-07,176,Moderately Interested in Purchase
+484,946,2022-02-03,414,Moderately Interested in Rent
+485,606,2019-02-18,921,Interested but Needs More Information
+486,590,2020-06-17,556,Requires Significant Changes or Renovations
+487,865,2023-03-03,748,Moderately Interested in Purchase
+488,486,2023-03-10,780,Highly Interested in Purchase
+489,806,2021-11-26,39,Waiting on External Factors
+490,265,2019-12-19,547,Moderately Interested in Purchase
+491,523,2022-05-16,398,Interested but Needs More Information
+492,747,2022-03-31,169,Waiting on External Factors
+493,337,2021-10-25,285,Interested but Needs More Information
+494,552,2022-09-18,877,Waiting on External Factors
+495,990,2021-10-24,228,Not Interested in Property
+496,814,2023-11-15,613,Highly Interested in Rent
+497,470,2021-03-20,40,Highly Interested in Rent
+498,670,2023-03-19,104,Highly Interested in Rent
+499,553,2021-10-15,740,Interested but Price is a Concern
+500,842,2020-06-16,799,Interested but Needs More Information
+501,870,2019-04-17,15,Highly Interested in Purchase
+502,70,2021-02-14,931,Not Interested in Property
+503,459,2021-09-19,280,Interested in a Different Type of Property
+504,959,2020-09-07,693,Interested in a Different Type of Property
+505,857,2023-10-12,308,Highly Interested in Rent
+506,250,2021-07-16,899,Highly Interested in Purchase
+507,485,2021-07-19,816,Moderately Interested in Rent
+508,122,2023-03-03,235,Waiting on External Factors
+509,61,2022-04-25,963,Interested but Needs More Information
+510,699,2020-09-04,843,Not Interested in Property
+511,598,2021-07-30,400,Interested but Needs More Information
+512,761,2020-11-28,559,Highly Interested in Rent
+513,530,2022-05-20,250,Not Interested in Property
+514,594,2019-09-15,730,Not Interested in Property
+515,166,2021-04-13,533,Interested but Needs More Information
+516,401,2021-12-06,467,Not Interested in Property
+517,948,2020-11-10,888,Not Interested in Property
+518,556,2021-07-18,371,Waiting on External Factors
+519,891,2020-05-21,657,Moderately Interested in Purchase
+520,428,2020-08-06,563,Highly Interested in Purchase
+521,603,2022-10-13,146,Waiting on External Factors
+522,539,2021-09-29,805,Highly Interested in Rent
+523,994,2022-09-21,171,Highly Interested in Purchase
+524,709,2023-08-17,567,Requires Significant Changes or Renovations
+525,239,2022-08-06,388,Highly Interested in Rent
+526,246,2023-05-15,598,Not Interested in Property
+527,805,2021-04-18,760,Interested but Needs More Information
+528,725,2020-08-02,317,Waiting on External Factors
+529,888,2022-02-20,986,Interested but Price is a Concern
+530,770,2022-07-22,897,Highly Interested in Purchase
+531,313,2020-06-30,641,Requires Significant Changes or Renovations
+532,5,2019-09-19,358,Moderately Interested in Purchase
+533,610,2021-02-25,94,Highly Interested in Purchase
+534,205,2020-09-09,22,Highly Interested in Rent
+535,830,2022-09-02,725,Not Interested in Property
+536,927,2020-11-10,889,Moderately Interested in Rent
+537,245,2020-03-21,296,Interested in a Different Type of Property
+538,832,2023-04-07,822,Waiting on External Factors
+539,243,2020-07-12,248,Interested but Needs More Information
+540,627,2021-05-11,346,Waiting on External Factors
+541,440,2023-08-20,876,Requires Significant Changes or Renovations
+542,363,2019-04-14,804,Requires Significant Changes or Renovations
+543,469,2023-01-05,238,Highly Interested in Rent
+544,273,2022-06-18,78,Interested but Needs More Information
+545,712,2019-12-21,621,Interested in a Different Type of Property
+546,229,2022-02-08,173,Interested but Needs More Information
+547,886,2023-07-05,793,Interested but Needs More Information
+548,701,2020-11-17,863,Requires Significant Changes or Renovations
+549,722,2021-06-21,496,Highly Interested in Rent
+550,756,2024-02-11,356,Requires Significant Changes or Renovations
+551,314,2020-07-22,298,Highly Interested in Rent
+552,964,2019-04-28,968,Moderately Interested in Purchase
+553,804,2024-01-06,769,Highly Interested in Purchase
+554,592,2020-10-15,885,Highly Interested in Rent
+555,191,2023-11-05,581,Interested in a Different Type of Property
+556,340,2023-11-19,272,Highly Interested in Purchase
+557,499,2023-09-05,920,Highly Interested in Rent
+558,422,2023-08-29,989,Waiting on External Factors
+559,106,2021-11-30,960,Interested in a Different Type of Property
+560,894,2021-03-07,733,Interested in a Different Type of Property
+561,473,2022-04-23,249,Highly Interested in Rent
+562,253,2020-04-25,322,Highly Interested in Purchase
+563,174,2020-04-14,340,Highly Interested in Purchase
+564,392,2019-12-22,701,Moderately Interested in Rent
+565,170,2021-12-28,851,Highly Interested in Rent
+566,691,2019-09-24,167,Requires Significant Changes or Renovations
+567,163,2022-02-07,471,Requires Significant Changes or Renovations
+568,325,2020-06-06,984,Not Interested in Property
+569,90,2021-10-31,5,Highly Interested in Purchase
+570,899,2023-10-12,995,Highly Interested in Purchase
+571,810,2021-11-14,59,Interested in a Different Type of Property
+572,659,2020-03-23,610,Interested in a Different Type of Property
+573,147,2019-06-17,935,Moderately Interested in Purchase
+574,500,2023-07-25,739,Waiting on External Factors
+575,277,2022-10-07,564,Moderately Interested in Rent
+576,526,2019-07-08,223,Interested but Needs More Information
+577,330,2023-12-03,548,Highly Interested in Purchase
+578,95,2019-07-24,263,Highly Interested in Rent
+579,634,2019-09-18,451,Waiting on External Factors
+580,875,2019-09-09,531,Moderately Interested in Rent
+581,599,2022-05-05,442,Requires Significant Changes or Renovations
+582,667,2020-03-23,234,Interested but Price is a Concern
+583,327,2020-09-03,437,Interested but Price is a Concern
+584,44,2020-08-02,762,Interested but Needs More Information
+585,914,2023-02-07,516,Highly Interested in Rent
+586,765,2020-11-22,477,Moderately Interested in Purchase
+587,98,2021-07-14,433,Moderately Interested in Purchase
+588,943,2023-10-21,401,Interested but Needs More Information
+589,695,2019-12-26,752,Requires Significant Changes or Renovations
+590,680,2019-09-27,951,Highly Interested in Rent
+591,583,2021-04-28,602,Waiting on External Factors
+592,446,2022-11-24,510,Highly Interested in Rent
+593,211,2022-10-27,415,Highly Interested in Rent
+594,819,2019-10-23,914,Highly Interested in Purchase
+595,285,2023-06-23,824,Interested in a Different Type of Property
+596,621,2023-03-22,660,Interested in a Different Type of Property
+597,849,2021-01-05,671,Interested but Needs More Information
+598,807,2022-01-05,487,Highly Interested in Purchase
+599,151,2021-03-26,695,Interested but Price is a Concern
+600,692,2019-06-26,192,Highly Interested in Rent
+601,377,2023-05-30,967,Interested but Price is a Concern
+602,588,2023-09-22,774,Interested in a Different Type of Property
+603,979,2019-05-12,519,Not Interested in Property
+604,431,2022-01-11,703,Interested in a Different Type of Property
+605,241,2023-08-22,757,Moderately Interested in Purchase
+606,443,2023-03-29,834,Highly Interested in Purchase
+607,105,2020-12-07,101,Interested in a Different Type of Property
+608,417,2020-11-27,424,Moderately Interested in Rent
+609,798,2023-02-21,611,Requires Significant Changes or Renovations
+610,954,2019-10-08,536,Interested but Needs More Information
+611,62,2021-09-25,746,Moderately Interested in Rent
+612,942,2019-05-20,1,Moderately Interested in Purchase
+613,633,2019-09-11,872,Requires Significant Changes or Renovations
+614,811,2022-06-29,321,Interested but Price is a Concern
+615,383,2020-02-20,392,Interested but Needs More Information
+616,364,2022-07-04,108,Waiting on External Factors
+617,664,2023-06-23,127,Not Interested in Property
+618,200,2023-11-06,715,Moderately Interested in Purchase
+619,671,2020-03-14,14,Requires Significant Changes or Renovations
+620,19,2021-11-21,975,Interested but Price is a Concern
+621,745,2022-10-03,112,Requires Significant Changes or Renovations
+622,150,2019-07-02,665,Moderately Interested in Purchase
+623,730,2019-08-08,240,Interested but Needs More Information
+624,102,2019-04-23,788,Interested but Price is a Concern
+625,408,2019-08-07,656,Interested but Needs More Information
+626,640,2019-08-21,469,Requires Significant Changes or Renovations
+627,507,2019-06-08,964,Interested but Price is a Concern
+628,73,2022-05-20,710,Requires Significant Changes or Renovations
+629,83,2021-10-26,128,Interested but Needs More Information
+630,518,2019-04-24,796,Highly Interested in Rent
+631,546,2022-09-15,528,Moderately Interested in Purchase
+632,78,2022-08-02,310,Highly Interested in Rent
+633,793,2020-12-12,152,Requires Significant Changes or Renovations
+634,726,2019-12-05,130,Interested but Price is a Concern
+635,42,2022-05-19,87,Waiting on External Factors
+636,84,2019-09-18,423,Waiting on External Factors
+637,932,2020-02-12,121,Highly Interested in Purchase
+638,808,2023-01-23,566,Interested but Price is a Concern
+639,137,2020-09-14,974,Highly Interested in Rent
+640,126,2023-12-22,432,Highly Interested in Rent
+641,338,2023-12-25,722,Highly Interested in Purchase
+642,380,2023-05-16,488,Highly Interested in Purchase
+643,498,2023-08-27,166,Interested but Needs More Information
+644,149,2020-04-15,515,Interested but Price is a Concern
+645,601,2022-08-14,649,Requires Significant Changes or Renovations
+646,868,2023-07-03,681,Requires Significant Changes or Renovations
+647,112,2023-12-30,619,Moderately Interested in Purchase
+648,451,2023-03-30,855,Highly Interested in Purchase
+649,795,2020-03-11,275,Moderately Interested in Purchase
+650,729,2020-02-02,737,Interested but Needs More Information
+651,579,2023-02-27,49,Not Interested in Property
+652,817,2019-06-05,344,Moderately Interested in Purchase
+653,550,2020-01-20,24,Requires Significant Changes or Renovations
+654,281,2022-06-10,485,Not Interested in Property
+655,983,2022-02-27,720,Requires Significant Changes or Renovations
+656,24,2019-08-16,773,Interested but Price is a Concern
+657,202,2021-11-13,76,Waiting on External Factors
+658,88,2021-05-16,945,Moderately Interested in Rent
+659,224,2019-12-15,115,Moderately Interested in Purchase
+660,26,2023-10-12,410,Highly Interested in Purchase
+661,581,2019-08-16,227,Highly Interested in Rent
+662,279,2019-06-05,252,Highly Interested in Purchase
+663,698,2020-05-09,36,Interested but Needs More Information
+664,420,2019-10-30,311,Requires Significant Changes or Renovations
+665,847,2020-08-25,675,Moderately Interested in Purchase
+666,439,2023-06-17,73,Highly Interested in Rent
+667,900,2021-04-17,517,Moderately Interested in Rent
+668,848,2023-03-24,929,Not Interested in Property
+669,966,2023-03-22,647,Requires Significant Changes or Renovations
+670,617,2019-07-10,456,Requires Significant Changes or Renovations
+671,643,2023-11-17,226,Moderately Interested in Rent
+672,111,2019-05-22,709,Waiting on External Factors
+673,68,2019-04-27,330,Waiting on External Factors
+674,524,2019-03-29,406,Interested but Needs More Information
+675,783,2021-03-12,216,Moderately Interested in Rent
+676,608,2020-01-28,189,Interested in a Different Type of Property
+677,53,2020-08-25,630,Waiting on External Factors
+678,707,2021-04-11,718,Not Interested in Property
+679,723,2019-06-03,847,Waiting on External Factors
+680,778,2023-06-27,478,Not Interested in Property
+681,354,2021-06-08,502,Waiting on External Factors
+682,414,2023-08-24,269,Highly Interested in Purchase
+683,461,2023-05-15,445,Interested but Price is a Concern
+684,132,2022-03-28,429,Not Interested in Property
+685,993,2021-10-24,168,Moderately Interested in Rent
+686,884,2020-04-03,148,Requires Significant Changes or Renovations
+687,223,2022-08-17,384,Interested in a Different Type of Property
+688,558,2020-06-27,165,Moderately Interested in Rent
+689,816,2021-01-09,134,Interested but Price is a Concern
+690,941,2022-05-20,431,Waiting on External Factors
+691,923,2024-01-07,544,Highly Interested in Purchase
+692,255,2022-07-13,468,Moderately Interested in Purchase
+693,713,2019-10-19,498,Highly Interested in Rent
+694,882,2021-08-30,908,Interested in a Different Type of Property
+695,915,2022-10-12,977,Highly Interested in Purchase
+696,426,2023-04-12,113,Interested but Price is a Concern
+697,968,2023-07-09,653,Highly Interested in Rent
+698,809,2022-04-11,313,Interested in a Different Type of Property
+699,652,2023-11-13,524,Not Interested in Property
+700,869,2023-11-06,300,Waiting on External Factors
+701,402,2023-05-08,905,Requires Significant Changes or Renovations
+702,31,2020-02-14,684,Interested but Needs More Information
+703,890,2022-05-19,891,Not Interested in Property
+704,339,2021-05-11,183,Not Interested in Property
+705,114,2022-11-21,792,Moderately Interested in Rent
+706,802,2022-01-25,608,Interested but Price is a Concern
+707,708,2021-12-09,820,Highly Interested in Purchase
+708,398,2020-02-11,123,Not Interested in Property
+709,187,2019-11-05,542,Not Interested in Property
+710,840,2019-07-23,204,Waiting on External Factors
+711,6,2022-03-13,490,Interested but Price is a Concern
+712,580,2020-12-22,69,Requires Significant Changes or Renovations
+713,270,2023-09-18,614,Highly Interested in Purchase
+714,188,2023-07-16,683,Highly Interested in Purchase
+715,77,2021-08-08,962,Highly Interested in Rent
+716,481,2023-06-20,460,Waiting on External Factors
+717,605,2021-08-05,576,Moderately Interested in Purchase
+718,355,2022-11-01,759,Highly Interested in Purchase
+719,167,2019-05-15,255,Interested in a Different Type of Property
+720,977,2023-09-14,808,Requires Significant Changes or Renovations
+721,786,2021-07-27,838,Interested in a Different Type of Property
+722,418,2021-07-28,452,Interested in a Different Type of Property
+723,317,2023-03-04,319,Moderately Interested in Rent
+724,256,2023-05-07,180,Highly Interested in Purchase
+725,734,2020-12-16,650,Waiting on External Factors
+726,275,2020-01-28,175,Requires Significant Changes or Renovations
+727,82,2022-10-09,558,Highly Interested in Purchase
+728,447,2020-08-17,873,Moderately Interested in Rent
+729,52,2022-04-11,585,Moderately Interested in Rent
+730,679,2021-02-10,669,Interested but Needs More Information
+731,319,2020-02-14,473,Interested in a Different Type of Property
+732,672,2019-08-20,837,Highly Interested in Purchase
+733,746,2020-08-28,41,Highly Interested in Purchase
+734,733,2022-04-05,362,Moderately Interested in Purchase
+735,230,2020-09-03,980,Requires Significant Changes or Renovations
+736,294,2020-07-15,205,Interested but Needs More Information
+737,1,2022-06-24,708,Moderately Interested in Rent
+738,799,2021-07-15,615,Highly Interested in Purchase
+739,789,2021-07-31,765,Requires Significant Changes or Renovations
+740,965,2019-07-03,512,Moderately Interested in Rent
+741,240,2021-02-15,20,Interested but Needs More Information
+742,442,2022-07-16,534,Waiting on External Factors
+743,660,2023-04-14,390,Requires Significant Changes or Renovations
+744,913,2020-08-18,125,Moderately Interested in Rent
+745,353,2022-12-10,215,Highly Interested in Rent
+746,171,2019-10-16,749,Moderately Interested in Purchase
+747,136,2021-02-03,795,Not Interested in Property
+748,419,2021-04-20,655,Not Interested in Property
+749,676,2021-03-21,584,Highly Interested in Rent
+750,214,2021-05-29,257,Moderately Interested in Purchase
+751,107,2020-06-18,940,Highly Interested in Purchase
+752,480,2022-04-14,699,Interested but Price is a Concern
+753,944,2022-04-10,481,Interested but Needs More Information
+754,876,2019-06-22,350,Requires Significant Changes or Renovations
+755,619,2020-11-25,486,Highly Interested in Purchase
+756,34,2021-09-08,21,Requires Significant Changes or Renovations
+757,696,2020-02-18,342,Highly Interested in Rent
+758,925,2022-01-16,333,Interested in a Different Type of Property
+759,769,2021-06-11,997,Requires Significant Changes or Renovations
+760,400,2021-06-18,801,Requires Significant Changes or Renovations
+761,593,2022-05-12,63,Highly Interested in Rent
+762,235,2020-05-15,54,Not Interested in Property
+763,226,2019-05-11,421,Interested but Price is a Concern
+764,262,2022-02-03,461,Not Interested in Property
+765,45,2019-07-11,721,Waiting on External Factors
+766,349,2020-11-09,849,Interested but Needs More Information
+767,373,2021-07-27,781,Moderately Interested in Rent
+768,335,2021-01-25,572,Interested but Price is a Concern
+769,939,2022-08-31,862,Interested but Needs More Information
+770,371,2020-05-29,870,Highly Interested in Purchase
+771,351,2020-06-04,998,Not Interested in Property
+772,803,2020-02-03,700,Highly Interested in Purchase
+773,597,2021-08-18,714,Interested but Needs More Information
+774,544,2020-09-15,969,Interested but Price is a Concern
+775,852,2023-02-09,254,Requires Significant Changes or Renovations
+776,673,2023-11-21,35,Interested but Price is a Concern
+777,996,2023-07-18,818,Moderately Interested in Purchase
+778,89,2022-09-01,278,Highly Interested in Rent
+779,471,2021-07-17,89,Moderately Interested in Purchase
+780,236,2019-03-14,185,Requires Significant Changes or Renovations
+781,681,2021-09-30,800,Requires Significant Changes or Renovations
+782,206,2019-07-12,501,Moderately Interested in Rent
+783,743,2022-09-14,565,Interested but Needs More Information
+784,318,2019-10-18,579,Highly Interested in Purchase
+785,917,2021-02-27,815,Interested but Price is a Concern
+786,926,2022-12-31,389,Waiting on External Factors
+787,93,2022-10-27,219,Moderately Interested in Purchase
+788,676,2021-02-14,938,Moderately Interested in Rent
+789,9,2023-07-06,971,Requires Significant Changes or Renovations
+790,740,2020-10-08,132,Highly Interested in Purchase
+791,938,2023-06-30,506,Interested but Needs More Information
+792,800,2020-10-20,385,Not Interested in Property
+793,678,2020-01-14,518,Interested but Needs More Information
+794,308,2022-05-01,77,Requires Significant Changes or Renovations
+795,656,2020-06-15,711,Moderately Interested in Rent
+796,930,2019-04-07,728,Requires Significant Changes or Renovations
+797,247,2020-10-18,256,Waiting on External Factors
+798,707,2021-04-07,778,Interested but Price is a Concern
+799,217,2024-02-12,302,Interested but Needs More Information
+800,704,2020-03-31,471,Moderately Interested in Purchase
+801,897,2020-02-19,798,Requires Significant Changes or Renovations
+802,792,2020-01-29,437,Waiting on External Factors
+803,234,2019-05-02,894,Not Interested in Property
+804,173,2019-02-16,524,Moderately Interested in Rent
+805,210,2020-04-10,316,Waiting on External Factors
+806,507,2019-05-16,33,Interested but Needs More Information
+807,585,2021-05-20,273,Moderately Interested in Rent
+808,259,2019-07-15,648,Waiting on External Factors
+809,580,2021-01-21,100,Highly Interested in Rent
+810,604,2023-06-07,559,Highly Interested in Purchase
+811,768,2020-12-12,715,Not Interested in Property
+812,599,2022-03-30,598,Not Interested in Property
+813,918,2023-03-17,550,Interested in a Different Type of Property
+814,641,2021-09-08,697,Moderately Interested in Rent
+815,490,2020-12-27,435,Moderately Interested in Purchase
+816,136,2021-02-08,795,Not Interested in Property
+817,346,2023-08-20,390,Requires Significant Changes or Renovations
+818,195,2020-06-21,923,Waiting on External Factors
+819,60,2023-02-02,691,Highly Interested in Rent
+820,516,2020-05-15,780,Waiting on External Factors
+821,206,2019-08-24,151,Interested in a Different Type of Property
+822,155,2023-01-24,476,Interested but Needs More Information
+823,518,2019-04-22,272,Interested but Price is a Concern
+824,466,2023-09-09,162,Interested but Needs More Information
+825,231,2022-10-20,146,Interested in a Different Type of Property
+826,788,2020-06-11,28,Moderately Interested in Purchase
+827,463,2020-11-19,141,Highly Interested in Rent
+828,294,2020-07-07,842,Requires Significant Changes or Renovations
+829,968,2023-07-06,211,Interested but Price is a Concern
+830,424,2020-03-20,271,Highly Interested in Rent
+831,265,2019-11-09,77,Requires Significant Changes or Renovations
+832,794,2022-11-27,51,Highly Interested in Purchase
+833,344,2021-01-25,998,Interested but Price is a Concern
+834,142,2020-12-02,466,Interested but Needs More Information
+835,406,2023-09-15,733,Interested but Needs More Information
+836,601,2022-08-30,170,Requires Significant Changes or Renovations
+837,851,2022-08-10,983,Requires Significant Changes or Renovations
+838,770,2022-07-16,344,Interested but Price is a Concern
+839,13,2021-02-03,838,Requires Significant Changes or Renovations
+840,701,2020-11-13,487,Interested in a Different Type of Property
+841,506,2020-12-02,475,Waiting on External Factors
+842,680,2019-10-02,989,Requires Significant Changes or Renovations
+843,815,2020-10-14,513,Requires Significant Changes or Renovations
+844,451,2023-04-17,74,Highly Interested in Purchase
+845,528,2019-06-17,22,Not Interested in Property
+846,194,2019-05-09,705,Interested but Needs More Information
+847,447,2020-07-11,764,Not Interested in Property
+848,508,2023-01-28,302,Highly Interested in Purchase
+849,737,2020-06-13,11,Requires Significant Changes or Renovations
+850,685,2023-12-08,772,Not Interested in Property
+851,40,2021-09-16,986,Not Interested in Property
+852,6,2022-03-04,946,Interested but Price is a Concern
+853,64,2020-04-15,629,Interested but Needs More Information
+854,660,2023-04-03,173,Requires Significant Changes or Renovations
+855,374,2022-11-12,258,Moderately Interested in Rent
+856,474,2019-12-15,292,Highly Interested in Purchase
+857,386,2022-04-29,84,Interested but Needs More Information
+858,412,2022-02-16,172,Waiting on External Factors
+859,77,2021-07-08,543,Not Interested in Property
+860,450,2020-11-20,222,Interested in a Different Type of Property
+861,850,2023-02-15,728,Interested in a Different Type of Property
+862,974,2021-06-09,360,Highly Interested in Rent
+863,817,2019-05-15,776,Not Interested in Property
+864,523,2022-05-08,574,Waiting on External Factors
+865,673,2023-10-21,612,Interested but Price is a Concern
+866,560,2022-05-01,46,Interested in a Different Type of Property
+867,530,2022-05-26,2,Not Interested in Property
+868,666,2021-11-25,661,Interested in a Different Type of Property
+869,276,2022-06-20,805,Waiting on External Factors
+870,164,2020-05-30,594,Interested but Price is a Concern
+871,716,2021-03-13,940,Interested but Price is a Concern
+872,324,2023-04-14,37,Interested in a Different Type of Property
+873,154,2022-10-13,741,Moderately Interested in Purchase
+874,215,2021-12-20,636,Interested in a Different Type of Property
+875,587,2021-10-05,120,Not Interested in Property
+876,159,2021-10-19,926,Requires Significant Changes or Renovations
+877,104,2022-01-29,394,Interested but Needs More Information
+878,106,2021-11-20,378,Interested but Needs More Information
+879,989,2021-10-09,763,Waiting on External Factors
+880,878,2020-05-22,860,Waiting on External Factors
+881,987,2022-03-08,119,Interested but Needs More Information
+882,771,2023-06-27,549,Moderately Interested in Purchase
+883,583,2021-06-04,572,Requires Significant Changes or Renovations
+884,50,2022-03-19,721,Interested in a Different Type of Property
+885,513,2020-09-24,210,Highly Interested in Rent
+886,611,2022-12-23,876,Moderately Interested in Purchase
+887,1,2022-07-13,152,Highly Interested in Purchase
+888,993,2021-10-15,315,Interested but Price is a Concern
+889,999,2022-11-11,925,Moderately Interested in Rent
+890,240,2021-01-01,786,Interested in a Different Type of Property
+891,748,2019-07-21,626,Waiting on External Factors
+892,56,2022-06-05,233,Interested but Needs More Information
+893,889,2022-05-09,664,Interested but Price is a Concern
+894,481,2023-06-24,169,Highly Interested in Purchase
+895,87,2021-12-08,708,Highly Interested in Rent
+896,636,2023-12-27,982,Moderately Interested in Rent
+897,254,2021-02-13,505,Interested but Needs More Information
+898,957,2019-07-31,593,Waiting on External Factors
+899,742,2023-06-30,941,Not Interested in Property
+900,553,2021-11-20,204,Waiting on External Factors
+901,860,2023-07-07,967,Highly Interested in Purchase
+902,335,2021-01-31,820,Moderately Interested in Rent
+903,522,2023-11-11,462,Interested but Price is a Concern
+904,997,2023-03-20,602,Moderately Interested in Purchase
+905,328,2020-02-07,788,Not Interested in Property
+906,321,2023-06-11,296,Highly Interested in Purchase
+907,781,2019-04-26,177,Moderately Interested in Rent
+908,316,2019-06-06,618,Moderately Interested in Purchase
+909,467,2020-09-07,279,Moderately Interested in Purchase
+910,798,2023-03-14,563,Highly Interested in Purchase
+911,871,2019-09-19,334,Interested in a Different Type of Property
+912,760,2023-03-20,747,Interested but Price is a Concern
+913,714,2020-09-03,260,Moderately Interested in Rent
+914,784,2019-10-09,301,Moderately Interested in Purchase
+915,378,2019-09-27,630,Interested in a Different Type of Property
+916,582,2021-02-04,976,Requires Significant Changes or Renovations
+917,470,2021-03-14,82,Not Interested in Property
+918,2,2019-10-02,4,Moderately Interested in Rent
+919,96,2022-05-02,908,Interested in a Different Type of Property
+920,280,2023-11-28,328,Not Interested in Property
+921,300,2022-08-23,963,Highly Interested in Purchase
+922,969,2023-11-28,932,Interested but Needs More Information
+923,373,2021-07-26,232,Waiting on External Factors
+924,880,2019-10-06,118,Not Interested in Property
+925,554,2020-09-18,299,Highly Interested in Rent
+926,243,2020-07-28,320,Highly Interested in Rent
+927,364,2022-07-02,915,Interested in a Different Type of Property
+928,3,2022-01-17,257,Interested in a Different Type of Property
+929,633,2019-10-21,220,Moderately Interested in Rent
+930,548,2021-12-25,650,Moderately Interested in Rent
+931,491,2023-12-23,863,Moderately Interested in Purchase
+932,251,2021-11-11,489,Highly Interested in Rent
+933,574,2020-06-19,422,Moderately Interested in Rent
+934,663,2021-10-27,62,Waiting on External Factors
+935,459,2021-09-27,34,Interested in a Different Type of Property
+936,233,2023-10-22,624,Interested in a Different Type of Property
+937,896,2020-11-27,98,Interested but Price is a Concern
+938,975,2023-02-06,897,Interested in a Different Type of Property
+939,905,2020-06-21,856,Highly Interested in Purchase
+940,505,2023-12-06,126,Interested but Needs More Information
+941,393,2019-11-22,544,Requires Significant Changes or Renovations
+942,509,2019-11-14,355,Not Interested in Property
+943,151,2021-03-22,345,Waiting on External Factors
+944,242,2023-02-23,163,Waiting on External Factors
+945,462,2020-06-02,425,Moderately Interested in Rent
+946,205,2020-10-02,542,Interested in a Different Type of Property
+947,320,2023-04-15,238,Waiting on External Factors
+948,972,2020-09-27,749,Waiting on External Factors
+949,833,2020-05-31,228,Requires Significant Changes or Renovations
+950,479,2023-06-21,122,Interested but Price is a Concern
+951,699,2020-10-01,97,Highly Interested in Rent
+952,357,2020-01-12,748,Moderately Interested in Rent
+953,277,2022-09-13,175,Requires Significant Changes or Renovations
+954,659,2020-05-06,189,Moderately Interested in Rent
+955,392,2019-12-09,960,Interested but Price is a Concern
+956,353,2022-12-09,347,Waiting on External Factors
+957,492,2019-05-31,807,Waiting on External Factors
+958,842,2020-06-27,825,Moderately Interested in Rent
+959,178,2022-10-08,364,Moderately Interested in Purchase
+960,795,2020-03-14,958,Requires Significant Changes or Renovations
+961,273,2022-06-18,871,Waiting on External Factors
+962,326,2022-12-20,785,Requires Significant Changes or Renovations
+963,867,2022-09-03,531,Highly Interested in Rent
+964,786,2021-07-07,970,Moderately Interested in Purchase
+965,69,2022-03-09,492,Requires Significant Changes or Renovations
+966,524,2019-03-22,794,Moderately Interested in Purchase
+967,668,2022-10-11,284,Highly Interested in Rent
+968,731,2021-08-18,520,Moderately Interested in Purchase
+969,559,2019-11-22,251,Requires Significant Changes or Renovations
+970,464,2020-11-20,486,Requires Significant Changes or Renovations
+971,936,2020-02-11,267,Moderately Interested in Purchase
+972,167,2019-05-02,808,Waiting on External Factors
+973,902,2019-02-03,319,Waiting on External Factors
+974,421,2022-12-01,934,Interested but Needs More Information
+975,649,2022-07-08,161,Requires Significant Changes or Renovations
+976,145,2023-06-28,885,Highly Interested in Rent
+977,743,2022-09-24,205,Requires Significant Changes or Renovations
+978,959,2020-08-25,909,Moderately Interested in Rent
+979,228,2020-01-31,655,Moderately Interested in Purchase
+980,230,2020-09-03,677,Requires Significant Changes or Renovations
+981,400,2021-07-09,818,Interested in a Different Type of Property
+982,21,2019-12-26,750,Moderately Interested in Purchase
+983,550,2020-01-07,26,Highly Interested in Rent
+984,39,2023-08-19,928,Requires Significant Changes or Renovations
+985,139,2021-05-13,431,Moderately Interested in Purchase
+986,256,2023-05-12,796,Moderately Interested in Rent
+987,924,2019-12-20,879,Interested but Price is a Concern
+988,156,2019-03-19,159,Interested but Price is a Concern
+989,713,2019-09-28,456,Waiting on External Factors
+990,946,2022-01-07,383,Requires Significant Changes or Renovations
+991,419,2021-04-15,619,Requires Significant Changes or Renovations
+992,584,2020-03-22,216,Moderately Interested in Purchase
+993,556,2021-07-25,281,Interested but Needs More Information
+994,235,2020-05-11,517,Not Interested in Property
+995,19,2021-11-10,720,Moderately Interested in Rent
+996,801,2022-12-09,840,Interested but Price is a Concern
+997,623,2021-04-13,495,Highly Interested in Purchase
+998,697,2020-06-21,745,Not Interested in Property
+999,874,2023-03-25,607,Moderately Interested in Purchase
+1000,728,2022-05-11,443,Not Interested in Property
