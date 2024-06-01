@@ -1,1001 +1,1201 @@
 address_id,street_address,city,state,zip_code,latitude,longitude
-1,86471 Kensington Terrace,San Francisco,California,94142,37.7848,-122.7278
-2,269 Esch Avenue,Huntsville,Texas,77343,30.7813,-95.5953
-3,5 Atwood Trail,Oklahoma City,Oklahoma,73179,35.4242,-97.6547
-4,04 Moland Trail,Vero Beach,Florida,32969,27.709,-80.5726
-5,99611 Old Shore Crossing,Charlotte,North Carolina,28215,35.244,-80.7387
-6,653 Larry Terrace,Kingsport,Tennessee,37665,36.5799,-82.5733
-7,591 Duke Hill,Tulsa,Oklahoma,74108,36.1499,-95.7923
-8,702 Gulseth Court,Manassas,Virginia,22111,38.7202,-77.4391
-9,86 Randy Road,Los Angeles,California,90050,33.7866,-118.2987
-10,2 Superior Drive,Birmingham,Alabama,35242,33.3813,-86.7046
-11,9106 Welch Terrace,Young America,Minnesota,55573,45.0159,-93.4719
-12,66067 Fulton Avenue,Orlando,Florida,32803,28.5559,-81.3535
-13,5 Sunbrook Road,Dayton,Ohio,45454,39.7505,-84.2686
+1,86471 Kensington Terrace,San Francisco,California,94142.0,37.7848,-122.7278
+2,269 Esch Avenue,Huntsville,Texas,77343.0,30.7813,-95.5953
+3,5 Atwood Trail,Oklahoma City,Oklahoma,73179.0,35.4242,-97.6547
+4,04 Moland Trail,Vero Beach,Florida,32969.0,27.709,-80.5726
+5,99611 Old Shore Crossing,Charlotte,North Carolina,28215.0,35.244,-80.7387
+6,653 Larry Terrace,Kingsport,Tennessee,37665.0,36.5799,-82.5733
+7,591 Duke Hill,Tulsa,Oklahoma,74108.0,36.1499,-95.7923
+8,702 Gulseth Court,Manassas,Virginia,22111.0,38.7202,-77.4391
+9,86 Randy Road,Los Angeles,California,90050.0,33.7866,-118.2987
+10,2 Superior Drive,Birmingham,Alabama,35242.0,33.3813,-86.7046
+11,9106 Welch Terrace,Young America,Minnesota,55573.0,45.0159,-93.4719
+12,66067 Fulton Avenue,Orlando,Florida,32803.0,28.5559,-81.3535
+13,5 Sunbrook Road,Dayton,Ohio,45454.0,39.7505,-84.2686
 14,88301 Union Pass,Houston,Texas,,29.7971,-95.4958
-15,6 Arrowood Alley,Omaha,Nebraska,68105,41.2435,-95.9629
-16,0 East Alley,Lake Worth,Florida,33462,26.5747,-80.0794
-17,37 Corben Plaza,Utica,New York,13505,43.0872,-75.2603
-18,2 Quincy Pass,Cincinnati,Ohio,45296,39.1668,-84.5382
-19,9822 Hollow Ridge Court,Salem,Oregon,97306,44.8685,-123.0438
+15,6 Arrowood Alley,Omaha,Nebraska,68105.0,41.2435,-95.9629
+16,0 East Alley,Lake Worth,Florida,33462.0,26.5747,-80.0794
+17,37 Corben Plaza,Utica,New York,13505.0,43.0872,-75.2603
+18,2 Quincy Pass,Cincinnati,Ohio,45296.0,39.1668,-84.5382
+19,9822 Hollow Ridge Court,Salem,Oregon,97306.0,44.8685,-123.0438
 20,162 Morning Junction,Saint Petersburg,Florida,,27.8918,-82.7248
-21,6026 Ludington Park,Ogden,Utah,84403,41.1894,-111.9489
-22,0 Laurel Place,Albuquerque,New Mexico,87115,35.0549,-106.5461
-23,1 Tomscot Park,Green Bay,Wisconsin,54313,44.5463,-88.1021
-24,9 Carberry Center,Wichita,Kansas,67220,37.7667,-97.2805
+21,6026 Ludington Park,Ogden,Utah,84403.0,41.1894,-111.9489
+22,0 Laurel Place,Albuquerque,New Mexico,87115.0,35.0549,-106.5461
+23,1 Tomscot Park,Green Bay,Wisconsin,54313.0,44.5463,-88.1021
+24,9 Carberry Center,Wichita,Kansas,67220.0,37.7667,-97.2805
 25,431 Sachs Lane,Rochester,New York,,43.1558,-77.6142
-26,0055 Summer Ridge Lane,Ogden,Utah,84409,41.2553,-111.9567
+26,0055 Summer Ridge Lane,Ogden,Utah,84409.0,41.2553,-111.9567
 27,532 Scoville Terrace,Chattanooga,Tennessee,,35.2211,-85.2091
-28,60 Hanover Junction,Richmond,Virginia,23228,37.625,-77.4959
-29,1 Grim Court,Pasadena,California,91109,33.7866,-118.2987
-30,4 Buena Vista Alley,New Hyde Park,New York,11044,40.7548,-73.6018
-31,1089 Orin Pass,Odessa,Texas,79769,31.7466,-102.567
-32,0 Canary Crossing,Colorado Springs,Colorado,80945,38.8247,-104.562
-33,4257 Rowland Junction,Eugene,Oregon,97405,44.0185,-123.0998
-34,6 Ronald Regan Parkway,Philadelphia,Pennsylvania,19104,39.9597,-75.2024
-35,1 Messerschmidt Way,Tucson,Arizona,85754,31.9701,-111.8907
-36,58613 Mendota Court,Houston,Texas,77271,29.834,-95.4342
-37,81670 Sauthoff Plaza,New Orleans,Louisiana,70183,29.6779,-90.0901
-38,74 Delladonna Circle,Lynn,Massachusetts,01905,42.4694,-70.9728
-39,61658 Lakewood Road,Lexington,Kentucky,40510,38.0702,-84.591
-40,7 Thackeray Plaza,Tampa,Florida,33615,28.0081,-82.5805
-41,44 Beilfuss Parkway,Corpus Christi,Texas,78475,27.777,-97.4632
-42,00 Waubesa Pass,Akron,Ohio,44315,41.028,-81.4632
-43,8952 Merchant Way,Chicago,Illinois,60609,41.8097,-87.6533
-44,799 Fairview Center,Cumming,Georgia,30130,34.2216,-84.1537
+28,60 Hanover Junction,Richmond,Virginia,23228.0,37.625,-77.4959
+29,1 Grim Court,Pasadena,California,91109.0,33.7866,-118.2987
+30,4 Buena Vista Alley,New Hyde Park,New York,11044.0,40.7548,-73.6018
+31,1089 Orin Pass,Odessa,Texas,79769.0,31.7466,-102.567
+32,0 Canary Crossing,Colorado Springs,Colorado,80945.0,38.8247,-104.562
+33,4257 Rowland Junction,Eugene,Oregon,97405.0,44.0185,-123.0998
+34,6 Ronald Regan Parkway,Philadelphia,Pennsylvania,19104.0,39.9597,-75.2024
+35,1 Messerschmidt Way,Tucson,Arizona,85754.0,31.9701,-111.8907
+36,58613 Mendota Court,Houston,Texas,77271.0,29.834,-95.4342
+37,81670 Sauthoff Plaza,New Orleans,Louisiana,70183.0,29.6779,-90.0901
+38,74 Delladonna Circle,Lynn,Massachusetts,1905.0,42.4694,-70.9728
+39,61658 Lakewood Road,Lexington,Kentucky,40510.0,38.0702,-84.591
+40,7 Thackeray Plaza,Tampa,Florida,33615.0,28.0081,-82.5805
+41,44 Beilfuss Parkway,Corpus Christi,Texas,78475.0,27.777,-97.4632
+42,00 Waubesa Pass,Akron,Ohio,44315.0,41.028,-81.4632
+43,8952 Merchant Way,Chicago,Illinois,60609.0,41.8097,-87.6533
+44,799 Fairview Center,Cumming,Georgia,30130.0,34.2216,-84.1537
 45,7298 Bartelt Circle,Corona,California,,33.7541,-117.474
 46,420 Havey Plaza,Monroe,Louisiana,,32.4968,-92.0756
-47,60449 Knutson Crossing,Columbus,Ohio,43231,40.081,-82.9383
-48,9 Rockefeller Drive,Boulder,Colorado,80328,40.0878,-105.3735
-49,5332 Mockingbird Junction,San Francisco,California,94116,37.7441,-122.4863
-50,0 Washington Plaza,Paterson,New Jersey,07544,41.0114,-74.3048
-51,6687 Main Center,Denver,Colorado,80209,39.7074,-104.9686
-52,7977 Acker Circle,Roanoke,Virginia,24048,37.2742,-79.9579
-53,251 Oakridge Avenue,Corpus Christi,Texas,78405,27.7762,-97.4271
-54,8 Raven Terrace,Orlando,Florida,32835,28.5289,-81.4787
-55,0 Duke Parkway,Chattanooga,Tennessee,37405,35.0768,-85.3082
-56,47246 Hallows Hill,Cleveland,Ohio,44118,41.5008,-81.5516
-57,5 Prairie Rose Way,Greensboro,North Carolina,27499,36.0807,-80.0244
-58,77813 Monica Point,Hartford,Connecticut,06105,41.7691,-72.701
-59,39946 Mallard Hill,El Paso,Texas,88530,31.6948,-106.3
-60,8 Blaine Place,Hartford,Connecticut,06160,41.7665,-72.6933
-61,56641 Kings Terrace,Fort Lauderdale,Florida,33320,26.1625,-80.2582
-62,33 Forest Run Parkway,Lexington,Kentucky,40586,38.0283,-84.4715
-63,01379 Rigney Drive,Rochester,New York,14614,43.1558,-77.6142
-64,0386 Lyons Point,Sacramento,California,94280,38.3774,-121.4444
-65,8 Lien Pass,Norfolk,Virginia,23514,36.9312,-76.2397
+47,60449 Knutson Crossing,Columbus,Ohio,43231.0,40.081,-82.9383
+48,9 Rockefeller Drive,Boulder,Colorado,80328.0,40.0878,-105.3735
+49,5332 Mockingbird Junction,San Francisco,California,94116.0,37.7441,-122.4863
+50,0 Washington Plaza,Paterson,New Jersey,7544.0,41.0114,-74.3048
+51,6687 Main Center,Denver,Colorado,80209.0,39.7074,-104.9686
+52,7977 Acker Circle,Roanoke,Virginia,24048.0,37.2742,-79.9579
+53,251 Oakridge Avenue,Corpus Christi,Texas,78405.0,27.7762,-97.4271
+54,8 Raven Terrace,Orlando,Florida,32835.0,28.5289,-81.4787
+55,0 Duke Parkway,Chattanooga,Tennessee,37405.0,35.0768,-85.3082
+56,47246 Hallows Hill,Cleveland,Ohio,44118.0,41.5008,-81.5516
+57,5 Prairie Rose Way,Greensboro,North Carolina,27499.0,36.0807,-80.0244
+58,77813 Monica Point,Hartford,Connecticut,6105.0,41.7691,-72.701
+59,39946 Mallard Hill,El Paso,Texas,88530.0,31.6948,-106.3
+60,8 Blaine Place,Hartford,Connecticut,6160.0,41.7665,-72.6933
+61,56641 Kings Terrace,Fort Lauderdale,Florida,33320.0,26.1625,-80.2582
+62,33 Forest Run Parkway,Lexington,Kentucky,40586.0,38.0283,-84.4715
+63,01379 Rigney Drive,Rochester,New York,14614.0,43.1558,-77.6142
+64,0386 Lyons Point,Sacramento,California,94280.0,38.3774,-121.4444
+65,8 Lien Pass,Norfolk,Virginia,23514.0,36.9312,-76.2397
 66,62410 Northwestern Road,Pasadena,California,,34.1478,-118.1436
-67,38649 Gerald Alley,Aurora,Colorado,80044,39.7388,-104.4083
-68,05 Cody Road,Charlotte,North Carolina,28220,35.26,-80.8042
-69,405 Surrey Parkway,Amarillo,Texas,79118,35.0763,-101.8349
+67,38649 Gerald Alley,Aurora,Colorado,80044.0,39.7388,-104.4083
+68,05 Cody Road,Charlotte,North Carolina,28220.0,35.26,-80.8042
+69,405 Surrey Parkway,Amarillo,Texas,79118.0,35.0763,-101.8349
 70,137 Talmadge Park,Santa Fe,New Mexico,,35.6219,-105.8688
-71,51006 Bultman Junction,Abilene,Texas,79699,32.4665,-99.7117
-72,151 Jay Street,Green Bay,Wisconsin,54313,44.5463,-88.1021
-73,6 Corscot Avenue,Albany,New York,12205,42.7198,-73.8207
-74,707 Mallard Drive,Houston,Texas,77075,29.6223,-95.26
-75,2 Barnett Pass,Saginaw,Michigan,48609,43.3869,-84.0926
-76,75 Schmedeman Point,Kansas City,Missouri,64136,39.0187,-94.4008
-77,18 Oak Point,Mesa,Arizona,85210,33.3887,-111.8428
-78,610 Warrior Plaza,Tulsa,Oklahoma,74133,36.0467,-95.8841
-79,37 Pond Drive,Detroit,Michigan,48267,42.2399,-83.1508
-80,303 Blue Bill Park Pass,Rochester,New York,14624,43.1216,-77.7311
-81,3904 Meadow Ridge Pass,Worcester,Massachusetts,01605,42.2894,-71.7888
-82,076 Anhalt Court,Glendale,California,91205,34.1378,-118.2424
-83,15083 Cherokee Way,Terre Haute,Indiana,47812,39.4336,-87.4101
+71,51006 Bultman Junction,Abilene,Texas,79699.0,32.4665,-99.7117
+72,151 Jay Street,Green Bay,Wisconsin,54313.0,44.5463,-88.1021
+73,6 Corscot Avenue,Albany,New York,12205.0,42.7198,-73.8207
+74,707 Mallard Drive,Houston,Texas,77075.0,29.6223,-95.26
+75,2 Barnett Pass,Saginaw,Michigan,48609.0,43.3869,-84.0926
+76,75 Schmedeman Point,Kansas City,Missouri,64136.0,39.0187,-94.4008
+77,18 Oak Point,Mesa,Arizona,85210.0,33.3887,-111.8428
+78,610 Warrior Plaza,Tulsa,Oklahoma,74133.0,36.0467,-95.8841
+79,37 Pond Drive,Detroit,Michigan,48267.0,42.2399,-83.1508
+80,303 Blue Bill Park Pass,Rochester,New York,14624.0,43.1216,-77.7311
+81,3904 Meadow Ridge Pass,Worcester,Massachusetts,1605.0,42.2894,-71.7888
+82,076 Anhalt Court,Glendale,California,91205.0,34.1378,-118.2424
+83,15083 Cherokee Way,Terre Haute,Indiana,47812.0,39.4336,-87.4101
 84,7266 Eagan Crossing,Anderson,South Carolina,,34.5271,-82.7087
-85,08510 Bobwhite Lane,Newport News,Virginia,23612,37.1959,-76.5248
-86,73 Esker Court,Roanoke,Virginia,24029,37.2742,-79.9579
-87,2411 Kensington Alley,Washington,District of Columbia,20210,38.8933,-77.0146
-88,66 Summer Ridge Park,Tacoma,Washington,98411,47.0662,-122.1132
-89,2 Randy Parkway,Elizabeth,New Jersey,07208,40.6747,-74.2239
-90,237 Roxbury Road,San Antonio,Texas,78255,29.6701,-98.6873
-91,8728 Meadow Vale Park,Monticello,Minnesota,55590,45.2009,-93.8881
+85,08510 Bobwhite Lane,Newport News,Virginia,23612.0,37.1959,-76.5248
+86,73 Esker Court,Roanoke,Virginia,24029.0,37.2742,-79.9579
+87,2411 Kensington Alley,Washington,District of Columbia,20210.0,38.8933,-77.0146
+88,66 Summer Ridge Park,Tacoma,Washington,98411.0,47.0662,-122.1132
+89,2 Randy Parkway,Elizabeth,New Jersey,7208.0,40.6747,-74.2239
+90,237 Roxbury Road,San Antonio,Texas,78255.0,29.6701,-98.6873
+91,8728 Meadow Vale Park,Monticello,Minnesota,55590.0,45.2009,-93.8881
 92,0 Columbus Road,Glendale,Arizona,,33.2765,-112.1872
-93,44748 Jay Circle,Ashburn,Virginia,22093,39.0853,-77.6452
-94,79076 West Parkway,Mobile,Alabama,36641,30.6589,-88.178
-95,08 Northwestern Street,Palmdale,California,93591,34.6019,-117.8123
-96,67 Cardinal Court,New Orleans,Louisiana,70160,30.033,-89.8826
+93,44748 Jay Circle,Ashburn,Virginia,22093.0,39.0853,-77.6452
+94,79076 West Parkway,Mobile,Alabama,36641.0,30.6589,-88.178
+95,08 Northwestern Street,Palmdale,California,93591.0,34.6019,-117.8123
+96,67 Cardinal Court,New Orleans,Louisiana,70160.0,30.033,-89.8826
 97,2 Schiller Drive,Charlottesville,Virginia,,38.0401,-78.4851
-98,77 Mesta Point,Pinellas Park,Florida,34665,27.8402,-82.7125
-99,13545 Sachtjen Drive,Peoria,Arizona,85383,33.7169,-112.238
-100,47 Londonderry Circle,Austin,Texas,78754,30.3423,-97.6673
-101,68910 Heffernan Place,Columbus,Ohio,43220,40.0495,-83.0669
-102,07218 Atwood Place,Chicago,Illinois,60691,41.8119,-87.6873
-103,12 Bartillon Plaza,Killeen,Texas,76544,31.1282,-97.7469
-104,76546 Sunbrook Point,Scranton,Pennsylvania,18514,41.4019,-75.6376
-105,5 Killdeer Plaza,Maple Plain,Minnesota,55579,45.0159,-93.4719
-106,0 Monica Street,New Orleans,Louisiana,70160,30.033,-89.8826
-107,93 Homewood Circle,Phoenix,Arizona,85020,33.5623,-112.0559
-108,5 Loeprich Center,Fort Lauderdale,Florida,33345,26.1654,-80.2959
+98,77 Mesta Point,Pinellas Park,Florida,34665.0,27.8402,-82.7125
+99,13545 Sachtjen Drive,Peoria,Arizona,85383.0,33.7169,-112.238
+100,47 Londonderry Circle,Austin,Texas,78754.0,30.3423,-97.6673
+101,68910 Heffernan Place,Columbus,Ohio,43220.0,40.0495,-83.0669
+102,07218 Atwood Place,Chicago,Illinois,60691.0,41.8119,-87.6873
+103,12 Bartillon Plaza,Killeen,Texas,76544.0,31.1282,-97.7469
+104,76546 Sunbrook Point,Scranton,Pennsylvania,18514.0,41.4019,-75.6376
+105,5 Killdeer Plaza,Maple Plain,Minnesota,55579.0,45.0159,-93.4719
+106,0 Monica Street,New Orleans,Louisiana,70160.0,30.033,-89.8826
+107,93 Homewood Circle,Phoenix,Arizona,85020.0,33.5623,-112.0559
+108,5 Loeprich Center,Fort Lauderdale,Florida,33345.0,26.1654,-80.2959
 109,2576 Bobwhite Park,Tulsa,Oklahoma,,36.1398,-96.0297
-110,9 Village Pass,El Paso,Texas,79923,31.6948,-106.3
-111,278 Lake View Place,Las Vegas,Nevada,89110,36.173,-115.0669
-112,054 Summerview Avenue,Houston,Texas,77020,29.7758,-95.3121
+110,9 Village Pass,El Paso,Texas,79923.0,31.6948,-106.3
+111,278 Lake View Place,Las Vegas,Nevada,89110.0,36.173,-115.0669
+112,054 Summerview Avenue,Houston,Texas,77020.0,29.7758,-95.3121
 113,6030 Mitchell Avenue,Riverside,California,,33.7529,-116.0556
-114,1803 Calypso Plaza,Chicago,Illinois,60624,41.8804,-87.7223
-115,75 Hauk Court,Dallas,Texas,75392,32.7673,-96.7776
-116,81 Holy Cross Street,Salt Lake City,Utah,84120,40.695,-112.0001
-117,6 American Drive,Tacoma,Washington,98447,47.1441,-122.4434
-118,73 Toban Trail,San Bernardino,California,92415,34.84,-115.9671
-119,44 Cardinal Circle,Baltimore,Maryland,21203,39.2847,-76.6205
-120,163 Waxwing Drive,Abilene,Texas,79605,32.432,-99.7724
-121,5 Ronald Regan Park,Vero Beach,Florida,32969,27.709,-80.5726
-122,3257 Northland Way,Springfield,Massachusetts,01129,42.1223,-72.4876
-123,115 Golf Junction,Atlanta,Georgia,31136,33.7473,-84.3824
-124,00990 Mandrake Alley,Dallas,Texas,75277,32.7673,-96.7776
-125,0332 Bartelt Pass,Seattle,Washington,98148,47.4441,-122.3249
-126,627 Moose Parkway,Pittsburgh,Pennsylvania,15255,40.4344,-80.0248
-127,02589 Loomis Parkway,Chicago,Illinois,60681,41.8119,-87.6873
-128,1776 Loeprich Way,Sarasota,Florida,34276,27.1675,-82.381
-129,990 Eliot Way,Baltimore,Maryland,21239,39.361,-76.5891
-130,8292 Hoffman Point,Stockton,California,95298,37.9577,-121.2897
-131,97388 Bashford Crossing,Louisville,Kentucky,40287,38.189,-85.6768
-132,00 Raven Hill,Las Vegas,Nevada,89110,36.173,-115.0669
-133,3674 Susan Junction,San Antonio,Texas,78225,29.3875,-98.5245
-134,09019 Westridge Pass,South Bend,Indiana,46634,41.5968,-86.293
-135,24780 Leroy Junction,Wilmington,Delaware,19897,39.5645,-75.597
-136,201 Kingsford Avenue,Salt Lake City,Utah,84110,40.6681,-111.9083
-137,7097 Maple Place,Seattle,Washington,98158,47.4497,-122.3076
+114,1803 Calypso Plaza,Chicago,Illinois,60624.0,41.8804,-87.7223
+115,75 Hauk Court,Dallas,Texas,75392.0,32.7673,-96.7776
+116,81 Holy Cross Street,Salt Lake City,Utah,84120.0,40.695,-112.0001
+117,6 American Drive,Tacoma,Washington,98447.0,47.1441,-122.4434
+118,73 Toban Trail,San Bernardino,California,92415.0,34.84,-115.9671
+119,44 Cardinal Circle,Baltimore,Maryland,21203.0,39.2847,-76.6205
+120,163 Waxwing Drive,Abilene,Texas,79605.0,32.432,-99.7724
+121,5 Ronald Regan Park,Vero Beach,Florida,32969.0,27.709,-80.5726
+122,3257 Northland Way,Springfield,Massachusetts,1129.0,42.1223,-72.4876
+123,115 Golf Junction,Atlanta,Georgia,31136.0,33.7473,-84.3824
+124,00990 Mandrake Alley,Dallas,Texas,75277.0,32.7673,-96.7776
+125,0332 Bartelt Pass,Seattle,Washington,98148.0,47.4441,-122.3249
+126,627 Moose Parkway,Pittsburgh,Pennsylvania,15255.0,40.4344,-80.0248
+127,02589 Loomis Parkway,Chicago,Illinois,60681.0,41.8119,-87.6873
+128,1776 Loeprich Way,Sarasota,Florida,34276.0,27.1675,-82.381
+129,990 Eliot Way,Baltimore,Maryland,21239.0,39.361,-76.5891
+130,8292 Hoffman Point,Stockton,California,95298.0,37.9577,-121.2897
+131,97388 Bashford Crossing,Louisville,Kentucky,40287.0,38.189,-85.6768
+132,00 Raven Hill,Las Vegas,Nevada,89110.0,36.173,-115.0669
+133,3674 Susan Junction,San Antonio,Texas,78225.0,29.3875,-98.5245
+134,09019 Westridge Pass,South Bend,Indiana,46634.0,41.5968,-86.293
+135,24780 Leroy Junction,Wilmington,Delaware,19897.0,39.5645,-75.597
+136,201 Kingsford Avenue,Salt Lake City,Utah,84110.0,40.6681,-111.9083
+137,7097 Maple Place,Seattle,Washington,98158.0,47.4497,-122.3076
 138,5043 Merchant Pass,Modesto,California,,37.6409,-120.9749
-139,829 Sauthoff Way,Bradenton,Florida,34282,27.4272,-82.4387
-140,5369 Oakridge Plaza,Chattanooga,Tennessee,37416,35.0942,-85.1757
-141,4 Eagan Plaza,Honolulu,Hawaii,96850,21.3095,-157.863
-142,709 Hoffman Circle,Houston,Texas,77245,29.834,-95.4342
-143,426 Merry Center,Honolulu,Hawaii,96850,21.3095,-157.863
-144,63145 Iowa Park,Washington,District of Columbia,20016,38.9381,-77.086
-145,343 Melby Crossing,Las Vegas,Nevada,89120,36.0914,-115.0885
-146,71815 Golf View Plaza,Fort Smith,Arkansas,72916,35.2502,-94.3703
-147,43197 Ryan Terrace,Tallahassee,Florida,32304,30.4478,-84.3211
-148,011 Dahle Road,Oklahoma City,Oklahoma,73142,35.599,-97.6251
-149,6958 Park Meadow Terrace,Orange,California,92867,33.811,-117.8493
-150,76 Norway Maple Drive,Cedar Rapids,Iowa,52410,42.0794,-91.5992
-151,6712 Scofield Pass,Saint Paul,Minnesota,55188,45.0059,-93.1059
-152,3 Wayridge Alley,Shawnee Mission,Kansas,66220,38.9613,-94.8222
-153,88 Butternut Terrace,Portsmouth,Virginia,23705,36.8686,-76.3552
+139,829 Sauthoff Way,Bradenton,Florida,34282.0,27.4272,-82.4387
+140,5369 Oakridge Plaza,Chattanooga,Tennessee,37416.0,35.0942,-85.1757
+141,4 Eagan Plaza,Honolulu,Hawaii,96850.0,21.3095,-157.863
+142,709 Hoffman Circle,Houston,Texas,77245.0,29.834,-95.4342
+143,426 Merry Center,Honolulu,Hawaii,96850.0,21.3095,-157.863
+144,63145 Iowa Park,Washington,District of Columbia,20016.0,38.9381,-77.086
+145,343 Melby Crossing,Las Vegas,Nevada,89120.0,36.0914,-115.0885
+146,71815 Golf View Plaza,Fort Smith,Arkansas,72916.0,35.2502,-94.3703
+147,43197 Ryan Terrace,Tallahassee,Florida,32304.0,30.4478,-84.3211
+148,011 Dahle Road,Oklahoma City,Oklahoma,73142.0,35.599,-97.6251
+149,6958 Park Meadow Terrace,Orange,California,92867.0,33.811,-117.8493
+150,76 Norway Maple Drive,Cedar Rapids,Iowa,52410.0,42.0794,-91.5992
+151,6712 Scofield Pass,Saint Paul,Minnesota,55188.0,45.0059,-93.1059
+152,3 Wayridge Alley,Shawnee Mission,Kansas,66220.0,38.9613,-94.8222
+153,88 Butternut Terrace,Portsmouth,Virginia,23705.0,36.8686,-76.3552
 154,59 Golf Course Pass,Tucson,Arizona,,32.215,-110.7758
-155,11681 Old Gate Terrace,Washington,District of Columbia,20420,38.9035,-77.0276
-156,3 Bayside Parkway,Orlando,Florida,32819,28.4522,-81.4678
-157,16 Holmberg Circle,Nashville,Tennessee,37240,36.1866,-86.7852
-158,4661 Marquette Road,Springfield,Missouri,65810,37.1136,-93.2896
-159,348 Hoffman Park,Arlington,Virginia,22212,38.8808,-77.113
+155,11681 Old Gate Terrace,Washington,District of Columbia,20420.0,38.9035,-77.0276
+156,3 Bayside Parkway,Orlando,Florida,32819.0,28.4522,-81.4678
+157,16 Holmberg Circle,Nashville,Tennessee,37240.0,36.1866,-86.7852
+158,4661 Marquette Road,Springfield,Missouri,65810.0,37.1136,-93.2896
+159,348 Hoffman Park,Arlington,Virginia,22212.0,38.8808,-77.113
 160,03867 Loomis Place,Richmond,Virginia,,37.5242,-77.4932
-161,23 Hovde Terrace,Minneapolis,Minnesota,55407,44.9378,-93.2545
-162,8262 Hudson Road,Los Angeles,California,90045,33.9631,-118.3941
-163,951 Vermont Terrace,Orlando,Florida,32819,28.4522,-81.4678
-164,4523 Kennedy Point,South Bend,Indiana,46620,41.5968,-86.293
-165,1 Shoshone Street,Flint,Michigan,48505,43.0634,-83.7001
-166,2 Shelley Way,Washington,District of Columbia,20088,38.8933,-77.0146
-167,075 Saint Paul Street,Syracuse,New York,13217,43.0214,-76.1977
-168,989 Farwell Place,Irving,Texas,75037,32.7673,-96.7776
-169,49 Monica Hill,Clearwater,Florida,34615,27.9843,-82.7813
-170,97180 Mallard Plaza,Cape Coral,Florida,33915,26.6599,-81.8934
-171,99 Fisk Pass,Stamford,Connecticut,06912,41.3089,-73.3637
-172,498 Elka Park,Winston Salem,North Carolina,27150,36.0275,-80.2073
-173,6 Ilene Circle,San Antonio,Texas,78255,29.6701,-98.6873
+161,23 Hovde Terrace,Minneapolis,Minnesota,55407.0,44.9378,-93.2545
+162,8262 Hudson Road,Los Angeles,California,90045.0,33.9631,-118.3941
+163,951 Vermont Terrace,Orlando,Florida,32819.0,28.4522,-81.4678
+164,4523 Kennedy Point,South Bend,Indiana,46620.0,41.5968,-86.293
+165,1 Shoshone Street,Flint,Michigan,48505.0,43.0634,-83.7001
+166,2 Shelley Way,Washington,District of Columbia,20088.0,38.8933,-77.0146
+167,075 Saint Paul Street,Syracuse,New York,13217.0,43.0214,-76.1977
+168,989 Farwell Place,Irving,Texas,75037.0,32.7673,-96.7776
+169,49 Monica Hill,Clearwater,Florida,34615.0,27.9843,-82.7813
+170,97180 Mallard Plaza,Cape Coral,Florida,33915.0,26.6599,-81.8934
+171,99 Fisk Pass,Stamford,Connecticut,6912.0,41.3089,-73.3637
+172,498 Elka Park,Winston Salem,North Carolina,27150.0,36.0275,-80.2073
+173,6 Ilene Circle,San Antonio,Texas,78255.0,29.6701,-98.6873
 174,82 Algoma Place,Punta Gorda,Florida,,26.9668,-81.9545
-175,1955 Laurel Way,Atlanta,Georgia,30340,33.8932,-84.2539
-176,6 Cottonwood Pass,Cincinnati,Ohio,45228,39.0706,-84.4179
-177,46981 Eagan Way,Silver Spring,Maryland,20910,38.9982,-77.0338
-178,25 Monterey Parkway,Fresno,California,93726,36.7949,-119.7604
-179,090 Brown Road,Pittsburgh,Pennsylvania,15225,40.5051,-80.1155
-180,10 Brown Point,Tacoma,Washington,98405,47.2484,-122.4644
-181,24 Tomscot Road,El Paso,Texas,88589,31.6948,-106.3
-182,716 Nobel Plaza,Washington,District of Columbia,20041,38.8933,-77.0146
-183,79 Jenna Street,Akron,Ohio,44305,41.076,-81.4644
-184,3 Portage Street,Kansas City,Kansas,66105,39.085,-94.6356
-185,34 Michigan Circle,Kansas City,Missouri,64109,39.0663,-94.5674
-186,65 Loomis Junction,Gaithersburg,Maryland,20883,39.0883,-77.1568
-187,4 Lukken Drive,Los Angeles,California,90045,33.9631,-118.3941
-188,8 Green Court,Houston,Texas,77276,29.7575,-95.3668
-189,198 Nova Hill,New Haven,Connecticut,06520,41.3657,-72.9275
-190,071 Bonner Plaza,Washington,District of Columbia,56944,38.8952,-77.0365
-191,7911 Atwood Avenue,Indianapolis,Indiana,46231,39.7038,-86.3029
-192,5677 Vermont Alley,Boynton Beach,Florida,33436,26.5354,-80.1124
-193,56 Norway Maple Hill,Las Vegas,Nevada,89140,36.086,-115.1471
-194,63164 Maple Parkway,Los Angeles,California,90065,34.1073,-118.2266
-195,8 Oriole Drive,Virginia Beach,Virginia,23464,36.7978,-76.1759
-196,7499 Linden Way,Lexington,Kentucky,40596,38.0283,-84.4715
-197,59 Mcguire Road,Shawnee Mission,Kansas,66205,39.0312,-94.6308
-198,52535 David Street,Van Nuys,California,91406,34.2006,-118.4868
-199,20 Marcy Lane,Alexandria,Virginia,22313,38.8158,-77.09
-200,9521 Granby Street,Tacoma,Washington,98464,47.0662,-122.1132
-201,2 3rd Road,Fort Lauderdale,Florida,33310,26.1443,-80.2069
-202,93043 Sommers Point,Salt Lake City,Utah,84152,40.7286,-111.6627
+175,1955 Laurel Way,Atlanta,Georgia,30340.0,33.8932,-84.2539
+176,6 Cottonwood Pass,Cincinnati,Ohio,45228.0,39.0706,-84.4179
+177,46981 Eagan Way,Silver Spring,Maryland,20910.0,38.9982,-77.0338
+178,25 Monterey Parkway,Fresno,California,93726.0,36.7949,-119.7604
+179,090 Brown Road,Pittsburgh,Pennsylvania,15225.0,40.5051,-80.1155
+180,10 Brown Point,Tacoma,Washington,98405.0,47.2484,-122.4644
+181,24 Tomscot Road,El Paso,Texas,88589.0,31.6948,-106.3
+182,716 Nobel Plaza,Washington,District of Columbia,20041.0,38.8933,-77.0146
+183,79 Jenna Street,Akron,Ohio,44305.0,41.076,-81.4644
+184,3 Portage Street,Kansas City,Kansas,66105.0,39.085,-94.6356
+185,34 Michigan Circle,Kansas City,Missouri,64109.0,39.0663,-94.5674
+186,65 Loomis Junction,Gaithersburg,Maryland,20883.0,39.0883,-77.1568
+187,4 Lukken Drive,Los Angeles,California,90045.0,33.9631,-118.3941
+188,8 Green Court,Houston,Texas,77276.0,29.7575,-95.3668
+189,198 Nova Hill,New Haven,Connecticut,6520.0,41.3657,-72.9275
+190,071 Bonner Plaza,Washington,District of Columbia,56944.0,38.8952,-77.0365
+191,7911 Atwood Avenue,Indianapolis,Indiana,46231.0,39.7038,-86.3029
+192,5677 Vermont Alley,Boynton Beach,Florida,33436.0,26.5354,-80.1124
+193,56 Norway Maple Hill,Las Vegas,Nevada,89140.0,36.086,-115.1471
+194,63164 Maple Parkway,Los Angeles,California,90065.0,34.1073,-118.2266
+195,8 Oriole Drive,Virginia Beach,Virginia,23464.0,36.7978,-76.1759
+196,7499 Linden Way,Lexington,Kentucky,40596.0,38.0283,-84.4715
+197,59 Mcguire Road,Shawnee Mission,Kansas,66205.0,39.0312,-94.6308
+198,52535 David Street,Van Nuys,California,91406.0,34.2006,-118.4868
+199,20 Marcy Lane,Alexandria,Virginia,22313.0,38.8158,-77.09
+200,9521 Granby Street,Tacoma,Washington,98464.0,47.0662,-122.1132
+201,2 3rd Road,Fort Lauderdale,Florida,33310.0,26.1443,-80.2069
+202,93043 Sommers Point,Salt Lake City,Utah,84152.0,40.7286,-111.6627
 203,6 Milwaukee Crossing,San Antonio,Texas,,29.7026,-98.4759
-204,8 Twin Pines Alley,London,Kentucky,40745,37.1376,-84.1156
+204,8 Twin Pines Alley,London,Kentucky,40745.0,37.1376,-84.1156
 205,46 Stang Point,Gastonia,North Carolina,,35.284,-81.1897
-206,52755 Summer Ridge Lane,Lancaster,Pennsylvania,17622,40.0418,-76.3012
-207,830 Mitchell Court,Lubbock,Texas,79405,33.571,-101.8507
+206,52755 Summer Ridge Lane,Lancaster,Pennsylvania,17622.0,40.0418,-76.3012
+207,830 Mitchell Court,Lubbock,Texas,79405.0,33.571,-101.8507
 208,5339 Bobwhite Way,Ocala,Florida,,29.1565,-82.2095
-209,3 Banding Circle,Meridian,Mississippi,39305,32.4401,-88.6783
-210,6 Scott Park,Fort Wayne,Indiana,46862,41.0938,-85.0707
-211,7906 Twin Pines Circle,London,Kentucky,40745,37.1376,-84.1156
-212,5811 Summer Ridge Park,Baton Rouge,Louisiana,70810,30.3633,-91.0919
-213,7 Kim Point,Fairbanks,Alaska,99790,64.8561,-146.276
+209,3 Banding Circle,Meridian,Mississippi,39305.0,32.4401,-88.6783
+210,6 Scott Park,Fort Wayne,Indiana,46862.0,41.0938,-85.0707
+211,7906 Twin Pines Circle,London,Kentucky,40745.0,37.1376,-84.1156
+212,5811 Summer Ridge Park,Baton Rouge,Louisiana,70810.0,30.3633,-91.0919
+213,7 Kim Point,Fairbanks,Alaska,99790.0,64.8561,-146.276
 214,97 Heffernan Alley,Fresno,California,,36.7464,-119.6397
-215,9 Barnett Way,Oakland,California,94616,37.8044,-122.2698
-216,2 Lyons Point,Memphis,Tennessee,38150,35.2017,-89.9715
-217,3892 Fisk Trail,Waco,Texas,76711,31.5175,-97.1547
-218,1 Anzinger Junction,Columbus,Ohio,43268,39.969,-83.0114
-219,809 Oak Avenue,Phoenix,Arizona,85083,33.7352,-112.1294
-220,60 Pennsylvania Parkway,Baton Rouge,Louisiana,70820,30.3795,-91.1671
-221,29185 Cottonwood Center,Saint Louis,Missouri,63131,38.6171,-90.4504
-222,214 Summer Ridge Circle,Topeka,Kansas,66611,39.0142,-95.6982
-223,39 Forest Drive,Whittier,California,90605,33.9413,-118.0356
+215,9 Barnett Way,Oakland,California,94616.0,37.8044,-122.2698
+216,2 Lyons Point,Memphis,Tennessee,38150.0,35.2017,-89.9715
+217,3892 Fisk Trail,Waco,Texas,76711.0,31.5175,-97.1547
+218,1 Anzinger Junction,Columbus,Ohio,43268.0,39.969,-83.0114
+219,809 Oak Avenue,Phoenix,Arizona,85083.0,33.7352,-112.1294
+220,60 Pennsylvania Parkway,Baton Rouge,Louisiana,70820.0,30.3795,-91.1671
+221,29185 Cottonwood Center,Saint Louis,Missouri,63131.0,38.6171,-90.4504
+222,214 Summer Ridge Circle,Topeka,Kansas,66611.0,39.0142,-95.6982
+223,39 Forest Drive,Whittier,California,90605.0,33.9413,-118.0356
 224,74935 Nobel Road,Irving,Texas,,32.8479,-96.974
-225,1 Caliangt Drive,Topeka,Kansas,66606,39.0583,-95.7095
+225,1 Caliangt Drive,Topeka,Kansas,66606.0,39.0583,-95.7095
 226,68 Esker Point,Sacramento,California,,38.6157,-121.5053
-227,96 Vera Pass,Corpus Christi,Texas,78465,27.777,-97.4632
-228,99 Eggendart Road,Indianapolis,Indiana,46221,39.7509,-86.1924
-229,36 Bluestem Parkway,Brockton,Massachusetts,02305,41.9705,-70.7014
+227,96 Vera Pass,Corpus Christi,Texas,78465.0,27.777,-97.4632
+228,99 Eggendart Road,Indianapolis,Indiana,46221.0,39.7509,-86.1924
+229,36 Bluestem Parkway,Brockton,Massachusetts,2305.0,41.9705,-70.7014
 230,0557 3rd Drive,Memphis,Tennessee,,35.2017,-89.9715
-231,0 Blackbird Trail,Youngstown,Ohio,44555,41.1039,-80.6436
-232,1 New Castle Alley,Chicago,Illinois,60624,41.8804,-87.7223
-233,57122 1st Court,Kissimmee,Florida,34745,27.9953,-81.2593
-234,5 Redwing Street,Lansing,Michigan,48919,42.7286,-84.5517
-235,313 Nevada Crossing,Honolulu,Hawaii,96825,21.2987,-157.6985
-236,27 Lakeland Center,Rochester,New York,14646,43.286,-77.6843
-237,556 Hagan Place,Fort Lauderdale,Florida,33330,26.0663,-80.3339
-238,9 Burning Wood Plaza,Washington,District of Columbia,20591,38.8933,-77.0146
-239,75 Tony Trail,Baltimore,Maryland,21203,39.2847,-76.6205
-240,6606 Tennessee Point,Brooklyn,New York,11215,40.6669,-73.9828
-241,43 Schiller Center,Syracuse,New York,13224,43.0421,-76.1046
+231,0 Blackbird Trail,Youngstown,Ohio,44555.0,41.1039,-80.6436
+232,1 New Castle Alley,Chicago,Illinois,60624.0,41.8804,-87.7223
+233,57122 1st Court,Kissimmee,Florida,34745.0,27.9953,-81.2593
+234,5 Redwing Street,Lansing,Michigan,48919.0,42.7286,-84.5517
+235,313 Nevada Crossing,Honolulu,Hawaii,96825.0,21.2987,-157.6985
+236,27 Lakeland Center,Rochester,New York,14646.0,43.286,-77.6843
+237,556 Hagan Place,Fort Lauderdale,Florida,33330.0,26.0663,-80.3339
+238,9 Burning Wood Plaza,Washington,District of Columbia,20591.0,38.8933,-77.0146
+239,75 Tony Trail,Baltimore,Maryland,21203.0,39.2847,-76.6205
+240,6606 Tennessee Point,Brooklyn,New York,11215.0,40.6669,-73.9828
+241,43 Schiller Center,Syracuse,New York,13224.0,43.0421,-76.1046
 242,74114 Heath Circle,Philadelphia,Pennsylvania,,39.9473,-75.15
-243,082 Jenna Center,Mobile,Alabama,36616,30.671,-88.1267
+243,082 Jenna Center,Mobile,Alabama,36616.0,30.671,-88.1267
 244,3555 Prairie Rose Pass,Phoenix,Arizona,,33.2765,-112.1872
-245,2 Cottonwood Crossing,Fairbanks,Alaska,99790,64.8561,-146.276
-246,380 Badeau Crossing,Herndon,Virginia,22070,38.9776,-77.386
-247,3672 Thackeray Hill,Frankfort,Kentucky,40618,38.2341,-84.8748
-248,4040 Artisan Lane,Grand Junction,Colorado,81505,39.1071,-108.5968
-249,28 Grayhawk Parkway,Paterson,New Jersey,07544,41.0114,-74.3048
-250,9 Northwestern Terrace,Spring,Texas,77388,30.0505,-95.4695
-251,18149 Vidon Lane,Cleveland,Ohio,44197,41.6857,-81.6728
-252,3 Birchwood Alley,Bridgeport,Connecticut,06673,41.3089,-73.3637
-253,221 Orin Lane,Pasadena,California,91131,33.7866,-118.2987
-254,318 Kipling Plaza,San Diego,California,92115,32.7607,-117.0721
-255,98 Delladonna Court,El Paso,Texas,88535,31.6948,-106.3
-256,15844 Lakewood Point,Richmond,Virginia,23272,37.5242,-77.4932
-257,86707 Vahlen Pass,Charlotte,North Carolina,28235,35.26,-80.8042
-258,3731 Independence Court,Sacramento,California,94286,38.3774,-121.4444
-259,9509 Holmberg Court,Irving,Texas,75037,32.7673,-96.7776
-260,10819 Rowland Road,Omaha,Nebraska,68124,41.2338,-96.0495
-261,41394 Clarendon Trail,Detroit,Michigan,48258,42.2399,-83.1508
-262,6 Northfield Place,Dallas,Texas,75287,33.0005,-96.8314
-263,868 Del Mar Park,Dallas,Texas,75372,32.7673,-96.7776
-264,608 Darwin Junction,Cumming,Georgia,30130,34.2216,-84.1537
-265,90097 Tennyson Avenue,Saint Louis,Missouri,63126,38.5495,-90.3811
-266,24 Warner Alley,Charleston,West Virginia,25326,38.2968,-81.5547
-267,5 High Crossing Junction,Las Vegas,Nevada,89120,36.0914,-115.0885
-268,55349 Hanson Circle,Austin,Texas,78744,30.1876,-97.7472
-269,34866 Fieldstone Parkway,Port Saint Lucie,Florida,34985,27.3822,-80.409
-270,0812 Buhler Hill,Erie,Pennsylvania,16550,42.1827,-80.0649
-271,3 Clyde Gallagher Center,Lima,Ohio,45807,40.7955,-84.1383
-272,6 Old Gate Avenue,Arlington,Virginia,22244,38.8545,-77.052
-273,8093 Northport Parkway,Washington,District of Columbia,20051,38.8933,-77.0146
-274,961 Gina Place,Baltimore,Maryland,21275,39.2847,-76.6205
-275,77 Little Fleur Alley,Baton Rouge,Louisiana,70894,30.5159,-91.0804
-276,037 Southridge Alley,Fort Worth,Texas,76134,32.6469,-97.3325
-277,36235 Evergreen Crossing,Huntington,West Virginia,25711,38.4134,-82.2774
-278,111 Meadow Valley Point,Dayton,Ohio,45470,39.7505,-84.2686
-279,1 Glendale Street,Tucson,Arizona,85720,31.9701,-111.8907
-280,130 Straubel Alley,Charlotte,North Carolina,28247,35.0656,-80.8511
-281,251 Sheridan Avenue,South Lake Tahoe,California,96154,38.8753,-120.0188
-282,846 Declaration Park,Washington,District of Columbia,20557,38.8874,-77.0047
-283,8763 Calypso Circle,Washington,District of Columbia,20392,38.8933,-77.0146
-284,3641 Oriole Plaza,Anchorage,Alaska,99507,61.1535,-149.8289
-285,67387 Union Drive,Baton Rouge,Louisiana,70836,30.392,-91.0892
-286,740 Ridgeview Court,Harrisburg,Pennsylvania,17126,40.2618,-76.88
-287,604 Pond Crossing,Montgomery,Alabama,36104,32.373,-86.3081
-288,4682 Hoffman Alley,Atlanta,Georgia,30306,33.786,-84.3514
-289,5342 Ramsey Drive,Des Moines,Iowa,50936,41.6727,-93.5722
-290,20 Anniversary Point,Austin,Texas,78759,30.4036,-97.7526
-291,41347 Loomis Hill,Columbus,Mississippi,39705,33.5508,-88.4865
-292,855 Esch Avenue,Lansing,Michigan,48956,42.7325,-84.5587
-293,41372 Carpenter Road,Detroit,Michigan,48267,42.2399,-83.1508
-294,36798 Crescent Oaks Plaza,Jamaica,New York,11499,40.6514,-73.8708
-295,3 Elmside Parkway,Apache Junction,Arizona,85219,33.3616,-111.2795
-296,8 Sommers Drive,Cumming,Georgia,30130,34.2216,-84.1537
-297,4821 Heffernan Crossing,Jacksonville,Florida,32230,30.3449,-81.6831
-298,08 Bay Trail,Phoenix,Arizona,85010,33.2765,-112.1872
-299,937 Shasta Park,Newark,New Jersey,07188,40.7918,-74.2452
-300,17643 Di Loreto Road,Los Angeles,California,90071,34.0529,-118.2549
-301,11 Troy Center,Valley Forge,Pennsylvania,19495,39.9832,-75.7481
-302,71 Mockingbird Court,New York City,New York,10079,40.7808,-73.9772
-303,6178 Nobel Crossing,Richmond,Virginia,23220,37.5498,-77.4588
-304,81 Warrior Court,San Jose,California,95160,37.2187,-121.8601
-305,39463 Manufacturers Alley,Abilene,Texas,79699,32.4665,-99.7117
-306,097 Rigney Trail,Youngstown,Ohio,44511,41.0704,-80.6931
-307,7 Memorial Alley,El Paso,Texas,79984,31.6948,-106.3
-308,006 Vidon Park,Louisville,Kentucky,40225,38.189,-85.6768
-309,79 Burrows Center,Minneapolis,Minnesota,55417,44.9054,-93.2361
-310,3392 Service Plaza,San Antonio,Texas,78278,29.4375,-98.4616
-311,694 Carioca Trail,Allentown,Pennsylvania,18105,40.6934,-75.4712
-312,22 Columbus Trail,Florence,South Carolina,29505,34.1231,-79.6893
+245,2 Cottonwood Crossing,Fairbanks,Alaska,99790.0,64.8561,-146.276
+246,380 Badeau Crossing,Herndon,Virginia,22070.0,38.9776,-77.386
+247,3672 Thackeray Hill,Frankfort,Kentucky,40618.0,38.2341,-84.8748
+248,4040 Artisan Lane,Grand Junction,Colorado,81505.0,39.1071,-108.5968
+249,28 Grayhawk Parkway,Paterson,New Jersey,7544.0,41.0114,-74.3048
+250,9 Northwestern Terrace,Spring,Texas,77388.0,30.0505,-95.4695
+251,18149 Vidon Lane,Cleveland,Ohio,44197.0,41.6857,-81.6728
+252,3 Birchwood Alley,Bridgeport,Connecticut,6673.0,41.3089,-73.3637
+253,221 Orin Lane,Pasadena,California,91131.0,33.7866,-118.2987
+254,318 Kipling Plaza,San Diego,California,92115.0,32.7607,-117.0721
+255,98 Delladonna Court,El Paso,Texas,88535.0,31.6948,-106.3
+256,15844 Lakewood Point,Richmond,Virginia,23272.0,37.5242,-77.4932
+257,86707 Vahlen Pass,Charlotte,North Carolina,28235.0,35.26,-80.8042
+258,3731 Independence Court,Sacramento,California,94286.0,38.3774,-121.4444
+259,9509 Holmberg Court,Irving,Texas,75037.0,32.7673,-96.7776
+260,10819 Rowland Road,Omaha,Nebraska,68124.0,41.2338,-96.0495
+261,41394 Clarendon Trail,Detroit,Michigan,48258.0,42.2399,-83.1508
+262,6 Northfield Place,Dallas,Texas,75287.0,33.0005,-96.8314
+263,868 Del Mar Park,Dallas,Texas,75372.0,32.7673,-96.7776
+264,608 Darwin Junction,Cumming,Georgia,30130.0,34.2216,-84.1537
+265,90097 Tennyson Avenue,Saint Louis,Missouri,63126.0,38.5495,-90.3811
+266,24 Warner Alley,Charleston,West Virginia,25326.0,38.2968,-81.5547
+267,5 High Crossing Junction,Las Vegas,Nevada,89120.0,36.0914,-115.0885
+268,55349 Hanson Circle,Austin,Texas,78744.0,30.1876,-97.7472
+269,34866 Fieldstone Parkway,Port Saint Lucie,Florida,34985.0,27.3822,-80.409
+270,0812 Buhler Hill,Erie,Pennsylvania,16550.0,42.1827,-80.0649
+271,3 Clyde Gallagher Center,Lima,Ohio,45807.0,40.7955,-84.1383
+272,6 Old Gate Avenue,Arlington,Virginia,22244.0,38.8545,-77.052
+273,8093 Northport Parkway,Washington,District of Columbia,20051.0,38.8933,-77.0146
+274,961 Gina Place,Baltimore,Maryland,21275.0,39.2847,-76.6205
+275,77 Little Fleur Alley,Baton Rouge,Louisiana,70894.0,30.5159,-91.0804
+276,037 Southridge Alley,Fort Worth,Texas,76134.0,32.6469,-97.3325
+277,36235 Evergreen Crossing,Huntington,West Virginia,25711.0,38.4134,-82.2774
+278,111 Meadow Valley Point,Dayton,Ohio,45470.0,39.7505,-84.2686
+279,1 Glendale Street,Tucson,Arizona,85720.0,31.9701,-111.8907
+280,130 Straubel Alley,Charlotte,North Carolina,28247.0,35.0656,-80.8511
+281,251 Sheridan Avenue,South Lake Tahoe,California,96154.0,38.8753,-120.0188
+282,846 Declaration Park,Washington,District of Columbia,20557.0,38.8874,-77.0047
+283,8763 Calypso Circle,Washington,District of Columbia,20392.0,38.8933,-77.0146
+284,3641 Oriole Plaza,Anchorage,Alaska,99507.0,61.1535,-149.8289
+285,67387 Union Drive,Baton Rouge,Louisiana,70836.0,30.392,-91.0892
+286,740 Ridgeview Court,Harrisburg,Pennsylvania,17126.0,40.2618,-76.88
+287,604 Pond Crossing,Montgomery,Alabama,36104.0,32.373,-86.3081
+288,4682 Hoffman Alley,Atlanta,Georgia,30306.0,33.786,-84.3514
+289,5342 Ramsey Drive,Des Moines,Iowa,50936.0,41.6727,-93.5722
+290,20 Anniversary Point,Austin,Texas,78759.0,30.4036,-97.7526
+291,41347 Loomis Hill,Columbus,Mississippi,39705.0,33.5508,-88.4865
+292,855 Esch Avenue,Lansing,Michigan,48956.0,42.7325,-84.5587
+293,41372 Carpenter Road,Detroit,Michigan,48267.0,42.2399,-83.1508
+294,36798 Crescent Oaks Plaza,Jamaica,New York,11499.0,40.6514,-73.8708
+295,3 Elmside Parkway,Apache Junction,Arizona,85219.0,33.3616,-111.2795
+296,8 Sommers Drive,Cumming,Georgia,30130.0,34.2216,-84.1537
+297,4821 Heffernan Crossing,Jacksonville,Florida,32230.0,30.3449,-81.6831
+298,08 Bay Trail,Phoenix,Arizona,85010.0,33.2765,-112.1872
+299,937 Shasta Park,Newark,New Jersey,7188.0,40.7918,-74.2452
+300,17643 Di Loreto Road,Los Angeles,California,90071.0,34.0529,-118.2549
+301,11 Troy Center,Valley Forge,Pennsylvania,19495.0,39.9832,-75.7481
+302,71 Mockingbird Court,New York City,New York,10079.0,40.7808,-73.9772
+303,6178 Nobel Crossing,Richmond,Virginia,23220.0,37.5498,-77.4588
+304,81 Warrior Court,San Jose,California,95160.0,37.2187,-121.8601
+305,39463 Manufacturers Alley,Abilene,Texas,79699.0,32.4665,-99.7117
+306,097 Rigney Trail,Youngstown,Ohio,44511.0,41.0704,-80.6931
+307,7 Memorial Alley,El Paso,Texas,79984.0,31.6948,-106.3
+308,006 Vidon Park,Louisville,Kentucky,40225.0,38.189,-85.6768
+309,79 Burrows Center,Minneapolis,Minnesota,55417.0,44.9054,-93.2361
+310,3392 Service Plaza,San Antonio,Texas,78278.0,29.4375,-98.4616
+311,694 Carioca Trail,Allentown,Pennsylvania,18105.0,40.6934,-75.4712
+312,22 Columbus Trail,Florence,South Carolina,29505.0,34.1231,-79.6893
 313,3 Colorado Terrace,Lexington,Kentucky,,38.0283,-84.4715
-314,41727 Amoth Place,South Bend,Indiana,46699,41.5968,-86.293
+314,41727 Amoth Place,South Bend,Indiana,46699.0,41.5968,-86.293
 315,3437 Thackeray Parkway,Denver,Colorado,,39.6472,-105.0795
-316,3 Gulseth Circle,Houston,Texas,77281,29.834,-95.4342
-317,10 Meadow Valley Hill,Birmingham,Alabama,35231,33.5446,-86.9292
-318,5203 Hayes Place,Grand Rapids,Michigan,49560,43.0314,-85.5503
-319,10563 Packers Road,Sioux Falls,South Dakota,57198,43.6746,-96.7913
+316,3 Gulseth Circle,Houston,Texas,77281.0,29.834,-95.4342
+317,10 Meadow Valley Hill,Birmingham,Alabama,35231.0,33.5446,-86.9292
+318,5203 Hayes Place,Grand Rapids,Michigan,49560.0,43.0314,-85.5503
+319,10563 Packers Road,Sioux Falls,South Dakota,57198.0,43.6746,-96.7913
 320,7 Upham Alley,Houston,Texas,,29.834,-95.4342
-321,59 Texas Park,Akron,Ohio,44315,41.028,-81.4632
-322,932 Sherman Road,Washington,District of Columbia,20535,38.8941,-77.0251
-323,0 Vernon Way,Shawnee Mission,Kansas,66286,38.8999,-94.832
-324,501 Green Crossing,Richmond,Virginia,23203,37.5593,-77.4471
-325,4058 Jenifer Terrace,Albuquerque,New Mexico,87121,35.0512,-106.7269
-326,88121 Weeping Birch Parkway,North Hollywood,California,91616,33.7866,-118.2987
-327,920 Cascade Plaza,Dallas,Texas,75392,32.7673,-96.7776
-328,70 Ridge Oak Terrace,Charlotte,North Carolina,28210,35.1316,-80.8577
-329,8 Coolidge Hill,Riverside,California,92505,33.9228,-117.4867
-330,1781 North Avenue,Norwalk,Connecticut,06859,41.3089,-73.3637
-331,41 Pennsylvania Circle,Houston,Texas,77070,29.9781,-95.5803
-332,09064 Di Loreto Circle,Tucson,Arizona,85725,31.9701,-111.8907
-333,74 Havey Drive,Athens,Georgia,30610,33.9443,-83.3891
-334,4 Muir Park,Colorado Springs,Colorado,80945,38.8247,-104.562
-335,9295 American Ash Avenue,Brooksville,Florida,34605,28.5059,-82.4226
+321,59 Texas Park,Akron,Ohio,44315.0,41.028,-81.4632
+322,932 Sherman Road,Washington,District of Columbia,20535.0,38.8941,-77.0251
+323,0 Vernon Way,Shawnee Mission,Kansas,66286.0,38.8999,-94.832
+324,501 Green Crossing,Richmond,Virginia,23203.0,37.5593,-77.4471
+325,4058 Jenifer Terrace,Albuquerque,New Mexico,87121.0,35.0512,-106.7269
+326,88121 Weeping Birch Parkway,North Hollywood,California,91616.0,33.7866,-118.2987
+327,920 Cascade Plaza,Dallas,Texas,75392.0,32.7673,-96.7776
+328,70 Ridge Oak Terrace,Charlotte,North Carolina,28210.0,35.1316,-80.8577
+329,8 Coolidge Hill,Riverside,California,92505.0,33.9228,-117.4867
+330,1781 North Avenue,Norwalk,Connecticut,6859.0,41.3089,-73.3637
+331,41 Pennsylvania Circle,Houston,Texas,77070.0,29.9781,-95.5803
+332,09064 Di Loreto Circle,Tucson,Arizona,85725.0,31.9701,-111.8907
+333,74 Havey Drive,Athens,Georgia,30610.0,33.9443,-83.3891
+334,4 Muir Park,Colorado Springs,Colorado,80945.0,38.8247,-104.562
+335,9295 American Ash Avenue,Brooksville,Florida,34605.0,28.5059,-82.4226
 336,751 Barnett Terrace,Indianapolis,Indiana,,39.7509,-86.1924
-337,869 Fisk Place,Newark,Delaware,19725,39.5645,-75.597
-338,80273 Florence Avenue,Gadsden,Alabama,35905,33.9352,-85.9576
-339,07296 Southridge Park,Dallas,Texas,75342,32.7673,-96.7776
+337,869 Fisk Place,Newark,Delaware,19725.0,39.5645,-75.597
+338,80273 Florence Avenue,Gadsden,Alabama,35905.0,33.9352,-85.9576
+339,07296 Southridge Park,Dallas,Texas,75342.0,32.7673,-96.7776
 340,33905 Prentice Avenue,Huntsville,Alabama,,34.734,-86.5229
-341,6101 Hallows Point,Bonita Springs,Florida,34135,26.3771,-81.7334
-342,45549 Sage Drive,Spartanburg,South Carolina,29305,35.1114,-82.1055
-343,9963 Esker Point,Honolulu,Hawaii,96820,21.351,-157.8795
-344,6 Iowa Point,Los Angeles,California,90030,33.7866,-118.2987
-345,59 Hauk Plaza,Albuquerque,New Mexico,87105,35.0448,-106.6893
+341,6101 Hallows Point,Bonita Springs,Florida,34135.0,26.3771,-81.7334
+342,45549 Sage Drive,Spartanburg,South Carolina,29305.0,35.1114,-82.1055
+343,9963 Esker Point,Honolulu,Hawaii,96820.0,21.351,-157.8795
+344,6 Iowa Point,Los Angeles,California,90030.0,33.7866,-118.2987
+345,59 Hauk Plaza,Albuquerque,New Mexico,87105.0,35.0448,-106.6893
 346,67526 Hallows Road,Washington,District of Columbia,,38.8933,-77.0146
 347,94 Springview Drive,Los Angeles,California,,34.0515,-118.2559
-348,17 Briar Crest Pass,El Paso,Texas,88589,31.6948,-106.3
-349,87733 La Follette Street,Wilmington,North Carolina,28405,34.2651,-77.867
-350,82 Thackeray Plaza,Stamford,Connecticut,06922,41.0516,-73.5143
-351,800 Steensland Court,Topeka,Kansas,66622,39.0429,-95.7697
-352,445 Maywood Drive,San Antonio,Texas,78296,29.4375,-98.4616
+348,17 Briar Crest Pass,El Paso,Texas,88589.0,31.6948,-106.3
+349,87733 La Follette Street,Wilmington,North Carolina,28405.0,34.2651,-77.867
+350,82 Thackeray Plaza,Stamford,Connecticut,6922.0,41.0516,-73.5143
+351,800 Steensland Court,Topeka,Kansas,66622.0,39.0429,-95.7697
+352,445 Maywood Drive,San Antonio,Texas,78296.0,29.4375,-98.4616
 353,9407 Oakridge Avenue,Vancouver,Washington,,45.8016,-122.5203
-354,0 5th Junction,Norfolk,Virginia,23504,36.8586,-76.2686
-355,56355 Lien Point,San Diego,California,92137,32.8538,-117.1197
+354,0 5th Junction,Norfolk,Virginia,23504.0,36.8586,-76.2686
+355,56355 Lien Point,San Diego,California,92137.0,32.8538,-117.1197
 356,018 4th Way,Miami,Florida,,25.5584,-80.4582
 357,9263 Graceland Way,Edmond,Oklahoma,,35.6665,-97.4798
-358,54974 Myrtle Crossing,Bakersfield,California,93305,35.3855,-118.986
-359,261 Manitowish Pass,Fresno,California,93726,36.7949,-119.7604
+358,54974 Myrtle Crossing,Bakersfield,California,93305.0,35.3855,-118.986
+359,261 Manitowish Pass,Fresno,California,93726.0,36.7949,-119.7604
 360,9408 Cody Alley,Muncie,Indiana,,40.2023,-85.4082
 361,81 Mariners Cove Center,Wichita,Kansas,,37.6808,-97.1558
-362,1955 Corry Pass,Wilkes Barre,Pennsylvania,18706,41.2044,-75.9113
-363,18 Lunder Lane,Aurora,Illinois,60505,41.7582,-88.2971
-364,7 Superior Avenue,Green Bay,Wisconsin,54305,44.4601,-88.0074
-365,9752 Doe Crossing Court,Sacramento,California,95852,38.6026,-121.4475
-366,29347 Birchwood Road,Wichita,Kansas,67215,37.6333,-97.425
-367,793 Onsgard Avenue,Charleston,West Virginia,25362,38.2968,-81.5547
+362,1955 Corry Pass,Wilkes Barre,Pennsylvania,18706.0,41.2044,-75.9113
+363,18 Lunder Lane,Aurora,Illinois,60505.0,41.7582,-88.2971
+364,7 Superior Avenue,Green Bay,Wisconsin,54305.0,44.4601,-88.0074
+365,9752 Doe Crossing Court,Sacramento,California,95852.0,38.6026,-121.4475
+366,29347 Birchwood Road,Wichita,Kansas,67215.0,37.6333,-97.425
+367,793 Onsgard Avenue,Charleston,West Virginia,25362.0,38.2968,-81.5547
 368,182 Autumn Leaf Drive,Birmingham,Alabama,,33.5446,-86.9292
-369,494 Beilfuss Alley,Washington,District of Columbia,20392,38.8933,-77.0146
-370,984 Fallview Hill,Washington,District of Columbia,20244,38.8933,-77.0146
-371,7 Holmberg Trail,Philadelphia,Pennsylvania,19160,40.0018,-75.1179
+369,494 Beilfuss Alley,Washington,District of Columbia,20392.0,38.8933,-77.0146
+370,984 Fallview Hill,Washington,District of Columbia,20244.0,38.8933,-77.0146
+371,7 Holmberg Trail,Philadelphia,Pennsylvania,19160.0,40.0018,-75.1179
 372,04722 West Court,Newark,New Jersey,,40.7918,-74.2452
-373,44 Lukken Lane,Tyler,Texas,75710,32.3475,-95.3065
-374,191 Logan Lane,Saint Paul,Minnesota,55103,44.9608,-93.1216
-375,6915 Hayes Drive,Lubbock,Texas,79405,33.571,-101.8507
-376,0289 Bartillon Parkway,Stockton,California,95219,38.01,-121.3698
+373,44 Lukken Lane,Tyler,Texas,75710.0,32.3475,-95.3065
+374,191 Logan Lane,Saint Paul,Minnesota,55103.0,44.9608,-93.1216
+375,6915 Hayes Drive,Lubbock,Texas,79405.0,33.571,-101.8507
+376,0289 Bartillon Parkway,Stockton,California,95219.0,38.01,-121.3698
 377,3 Sullivan Street,Lubbock,Texas,,33.6021,-101.876
-378,8 Pepper Wood Parkway,Philadelphia,Pennsylvania,19104,39.9597,-75.2024
-379,5609 Thackeray Point,Boston,Massachusetts,02298,42.3823,-71.0323
-380,5345 Northwestern Terrace,El Paso,Texas,88514,31.6948,-106.3
-381,3229 Judy Street,Pasadena,California,91103,34.1669,-118.1551
-382,21 Pleasure Street,Pomona,California,91797,33.7866,-118.2987
-383,43437 Dahle Lane,Idaho Falls,Idaho,83405,43.3233,-111.7822
-384,05 Fuller Place,Bowie,Maryland,20719,38.8336,-76.8777
-385,156 Artisan Circle,Los Angeles,California,90060,33.7866,-118.2987
-386,0 Farragut Drive,Erie,Pennsylvania,16565,42.1827,-80.0649
-387,5702 Kingsford Hill,Fort Wayne,Indiana,46857,41.0938,-85.0707
-388,95 Muir Terrace,Minneapolis,Minnesota,55480,45.0159,-93.4719
-389,78034 Quincy Drive,Roanoke,Virginia,24029,37.2742,-79.9579
-390,32585 Talisman Trail,Dearborn,Michigan,48126,42.3349,-83.1801
-391,658 Lunder Place,Shreveport,Louisiana,71105,32.4589,-93.7143
-392,3546 La Follette Lane,Orlando,Florida,32854,28.5663,-81.2608
-393,3 Mifflin Court,Houston,Texas,77218,29.834,-95.4342
+378,8 Pepper Wood Parkway,Philadelphia,Pennsylvania,19104.0,39.9597,-75.2024
+379,5609 Thackeray Point,Boston,Massachusetts,2298.0,42.3823,-71.0323
+380,5345 Northwestern Terrace,El Paso,Texas,88514.0,31.6948,-106.3
+381,3229 Judy Street,Pasadena,California,91103.0,34.1669,-118.1551
+382,21 Pleasure Street,Pomona,California,91797.0,33.7866,-118.2987
+383,43437 Dahle Lane,Idaho Falls,Idaho,83405.0,43.3233,-111.7822
+384,05 Fuller Place,Bowie,Maryland,20719.0,38.8336,-76.8777
+385,156 Artisan Circle,Los Angeles,California,90060.0,33.7866,-118.2987
+386,0 Farragut Drive,Erie,Pennsylvania,16565.0,42.1827,-80.0649
+387,5702 Kingsford Hill,Fort Wayne,Indiana,46857.0,41.0938,-85.0707
+388,95 Muir Terrace,Minneapolis,Minnesota,55480.0,45.0159,-93.4719
+389,78034 Quincy Drive,Roanoke,Virginia,24029.0,37.2742,-79.9579
+390,32585 Talisman Trail,Dearborn,Michigan,48126.0,42.3349,-83.1801
+391,658 Lunder Place,Shreveport,Louisiana,71105.0,32.4589,-93.7143
+392,3546 La Follette Lane,Orlando,Florida,32854.0,28.5663,-81.2608
+393,3 Mifflin Court,Houston,Texas,77218.0,29.834,-95.4342
 394,03174 Mcguire Alley,Duluth,Minnesota,,46.7987,-92.0946
-395,61372 4th Alley,Winston Salem,North Carolina,27110,36.0275,-80.2073
-396,7480 Kenwood Crossing,Olympia,Washington,98506,47.1042,-122.87
-397,740 Riverside Court,Akron,Ohio,44329,41.0655,-81.5203
-398,2360 Graceland Center,Richmond,Virginia,23228,37.625,-77.4959
-399,54044 Redwing Way,Lawrenceville,Georgia,30245,33.9464,-83.9912
-400,01 Sage Hill,Reno,Nevada,89550,39.5387,-119.8225
-401,5363 Mesta Avenue,Alexandria,Virginia,22313,38.8158,-77.09
-402,02818 Troy Road,Norfolk,Virginia,23551,36.9312,-76.2397
-403,0 Almo Plaza,Washington,District of Columbia,20470,38.8933,-77.0146
-404,3 Reindahl Trail,Washington,District of Columbia,20073,38.897,-77.0251
-405,10924 Claremont Way,Austin,Texas,78769,30.3264,-97.7713
-406,40293 Westridge Trail,Lincoln,Nebraska,68510,40.8063,-96.6545
+395,61372 4th Alley,Winston Salem,North Carolina,27110.0,36.0275,-80.2073
+396,7480 Kenwood Crossing,Olympia,Washington,98506.0,47.1042,-122.87
+397,740 Riverside Court,Akron,Ohio,44329.0,41.0655,-81.5203
+398,2360 Graceland Center,Richmond,Virginia,23228.0,37.625,-77.4959
+399,54044 Redwing Way,Lawrenceville,Georgia,30245.0,33.9464,-83.9912
+400,01 Sage Hill,Reno,Nevada,89550.0,39.5387,-119.8225
+401,5363 Mesta Avenue,Alexandria,Virginia,22313.0,38.8158,-77.09
+402,02818 Troy Road,Norfolk,Virginia,23551.0,36.9312,-76.2397
+403,0 Almo Plaza,Washington,District of Columbia,20470.0,38.8933,-77.0146
+404,3 Reindahl Trail,Washington,District of Columbia,20073.0,38.897,-77.0251
+405,10924 Claremont Way,Austin,Texas,78769.0,30.3264,-97.7713
+406,40293 Westridge Trail,Lincoln,Nebraska,68510.0,40.8063,-96.6545
 407,17521 3rd Park,Los Angeles,California,,33.7866,-118.2987
-408,7 Lien Court,Chicago,Illinois,60636,41.776,-87.6674
-409,7993 Carberry Point,Worcester,Massachusetts,01610,42.2492,-71.8108
-410,0129 Talisman Parkway,Oakland,California,94627,37.6802,-121.9215
-411,54 Holy Cross Crossing,Fresno,California,93750,36.7464,-119.6397
-412,7 Jana Hill,Rockville,Maryland,20851,39.0763,-77.1234
-413,5391 Hintze Crossing,Columbia,South Carolina,29240,34.006,-80.9708
-414,220 Cardinal Trail,Chicago,Illinois,60609,41.8097,-87.6533
-415,26 International Street,Asheville,North Carolina,28805,35.6004,-82.4918
-416,1153 Forest Dale Junction,Beaumont,Texas,77705,30.0211,-94.1157
-417,0 Arapahoe Hill,Atlanta,Georgia,30336,33.7406,-84.5545
-418,3854 Hovde Hill,Schenectady,New York,12325,42.8333,-74.058
-419,5453 Hudson Hill,Washington,District of Columbia,20535,38.8941,-77.0251
-420,451 Shelley Crossing,Corpus Christi,Texas,78410,27.8458,-97.596
+408,7 Lien Court,Chicago,Illinois,60636.0,41.776,-87.6674
+409,7993 Carberry Point,Worcester,Massachusetts,1610.0,42.2492,-71.8108
+410,0129 Talisman Parkway,Oakland,California,94627.0,37.6802,-121.9215
+411,54 Holy Cross Crossing,Fresno,California,93750.0,36.7464,-119.6397
+412,7 Jana Hill,Rockville,Maryland,20851.0,39.0763,-77.1234
+413,5391 Hintze Crossing,Columbia,South Carolina,29240.0,34.006,-80.9708
+414,220 Cardinal Trail,Chicago,Illinois,60609.0,41.8097,-87.6533
+415,26 International Street,Asheville,North Carolina,28805.0,35.6004,-82.4918
+416,1153 Forest Dale Junction,Beaumont,Texas,77705.0,30.0211,-94.1157
+417,0 Arapahoe Hill,Atlanta,Georgia,30336.0,33.7406,-84.5545
+418,3854 Hovde Hill,Schenectady,New York,12325.0,42.8333,-74.058
+419,5453 Hudson Hill,Washington,District of Columbia,20535.0,38.8941,-77.0251
+420,451 Shelley Crossing,Corpus Christi,Texas,78410.0,27.8458,-97.596
 421,4 Nobel Plaza,Bakersfield,California,,35.2944,-118.9052
-422,668 Farragut Hill,Lexington,Kentucky,40510,38.0702,-84.591
+422,668 Farragut Hill,Lexington,Kentucky,40510.0,38.0702,-84.591
 423,11 Fisk Point,Norfolk,Virginia,,36.8787,-76.2604
-424,0613 Kingsford Point,Nashville,Tennessee,37235,36.1866,-86.7852
-425,3 Birchwood Street,Biloxi,Mississippi,39534,30.4067,-88.9211
-426,854 Trailsway Terrace,Boston,Massachusetts,02114,42.3611,-71.0682
-427,70 Ryan Park,San Diego,California,92186,33.0169,-116.846
-428,75796 Maple Park,Fort Smith,Arkansas,72916,35.2502,-94.3703
-429,94 Mayer Hill,Shawnee Mission,Kansas,66210,38.9273,-94.7143
-430,3397 Buell Hill,Hartford,Connecticut,06152,41.7918,-72.7188
+424,0613 Kingsford Point,Nashville,Tennessee,37235.0,36.1866,-86.7852
+425,3 Birchwood Street,Biloxi,Mississippi,39534.0,30.4067,-88.9211
+426,854 Trailsway Terrace,Boston,Massachusetts,2114.0,42.3611,-71.0682
+427,70 Ryan Park,San Diego,California,92186.0,33.0169,-116.846
+428,75796 Maple Park,Fort Smith,Arkansas,72916.0,35.2502,-94.3703
+429,94 Mayer Hill,Shawnee Mission,Kansas,66210.0,38.9273,-94.7143
+430,3397 Buell Hill,Hartford,Connecticut,6152.0,41.7918,-72.7188
 431,316 Warrior Terrace,Reno,Nevada,,39.5224,-119.8353
-432,09 Bashford Circle,Woburn,Massachusetts,01813,42.4464,-71.4594
-433,7 Mcbride Point,Richmond,Virginia,23213,37.5593,-77.4471
-434,99224 Esker Terrace,Lincoln,Nebraska,68505,40.8247,-96.6252
-435,9909 Eagle Crest Terrace,Minneapolis,Minnesota,55428,45.0632,-93.3811
-436,8 Buhler Center,San Antonio,Texas,78230,29.5407,-98.5521
-437,2304 Johnson Park,Austin,Texas,78789,30.3264,-97.7713
-438,9 Mesta Circle,Austin,Texas,78764,30.4455,-97.6595
-439,903 Lakewood Pass,Raleigh,North Carolina,27605,35.7908,-78.653
-440,16 Daystar Center,San Diego,California,92153,33.0169,-116.846
-441,00584 Scoville Street,Fresno,California,93762,36.7464,-119.6397
-442,7996 Linden Plaza,Chicago,Illinois,60619,41.7458,-87.6054
-443,71196 Anniversary Court,Richmond,Virginia,23225,37.5158,-77.5047
-444,41 2nd Plaza,Louisville,Kentucky,40220,38.2149,-85.6245
-445,04 Almo Plaza,Philadelphia,Pennsylvania,19104,39.9597,-75.2024
+432,09 Bashford Circle,Woburn,Massachusetts,1813.0,42.4464,-71.4594
+433,7 Mcbride Point,Richmond,Virginia,23213.0,37.5593,-77.4471
+434,99224 Esker Terrace,Lincoln,Nebraska,68505.0,40.8247,-96.6252
+435,9909 Eagle Crest Terrace,Minneapolis,Minnesota,55428.0,45.0632,-93.3811
+436,8 Buhler Center,San Antonio,Texas,78230.0,29.5407,-98.5521
+437,2304 Johnson Park,Austin,Texas,78789.0,30.3264,-97.7713
+438,9 Mesta Circle,Austin,Texas,78764.0,30.4455,-97.6595
+439,903 Lakewood Pass,Raleigh,North Carolina,27605.0,35.7908,-78.653
+440,16 Daystar Center,San Diego,California,92153.0,33.0169,-116.846
+441,00584 Scoville Street,Fresno,California,93762.0,36.7464,-119.6397
+442,7996 Linden Plaza,Chicago,Illinois,60619.0,41.7458,-87.6054
+443,71196 Anniversary Court,Richmond,Virginia,23225.0,37.5158,-77.5047
+444,41 2nd Plaza,Louisville,Kentucky,40220.0,38.2149,-85.6245
+445,04 Almo Plaza,Philadelphia,Pennsylvania,19104.0,39.9597,-75.2024
 446,05620 Surrey Hill,Miami,Florida,,25.5584,-80.4582
-447,5 Glendale Plaza,Annapolis,Maryland,21405,39.0305,-76.5515
-448,7 2nd Alley,Jamaica,New York,11407,40.6913,-73.8059
-449,6 Pawling Center,Fort Collins,Colorado,80525,40.5384,-105.0547
-450,716 Kings Circle,Flushing,New York,11388,40.6514,-73.8708
-451,1 Sunbrook Terrace,Reno,Nevada,89595,40.5412,-119.5869
-452,8974 Waubesa Center,El Paso,Texas,88514,31.6948,-106.3
-453,94 Delladonna Trail,Charleston,West Virginia,25336,38.2968,-81.5547
-454,18 Arapahoe Terrace,Jackson,Mississippi,39282,32.3113,-90.3972
-455,8848 Rigney Pass,Clearwater,Florida,34620,27.9139,-82.7157
-456,890 Lawn Park,Atlanta,Georgia,30311,33.723,-84.4702
-457,14 Fuller Court,Nashville,Tennessee,37245,36.1866,-86.7852
-458,95688 Clyde Gallagher Road,Wichita,Kansas,67205,37.7639,-97.4269
-459,5377 Northridge Park,Dallas,Texas,75358,32.7942,-96.7652
-460,26 Eagan Center,Tulsa,Oklahoma,74126,36.2383,-95.9931
-461,687 Mcguire Alley,Jacksonville,Florida,32255,30.287,-81.3893
+447,5 Glendale Plaza,Annapolis,Maryland,21405.0,39.0305,-76.5515
+448,7 2nd Alley,Jamaica,New York,11407.0,40.6913,-73.8059
+449,6 Pawling Center,Fort Collins,Colorado,80525.0,40.5384,-105.0547
+450,716 Kings Circle,Flushing,New York,11388.0,40.6514,-73.8708
+451,1 Sunbrook Terrace,Reno,Nevada,89595.0,40.5412,-119.5869
+452,8974 Waubesa Center,El Paso,Texas,88514.0,31.6948,-106.3
+453,94 Delladonna Trail,Charleston,West Virginia,25336.0,38.2968,-81.5547
+454,18 Arapahoe Terrace,Jackson,Mississippi,39282.0,32.3113,-90.3972
+455,8848 Rigney Pass,Clearwater,Florida,34620.0,27.9139,-82.7157
+456,890 Lawn Park,Atlanta,Georgia,30311.0,33.723,-84.4702
+457,14 Fuller Court,Nashville,Tennessee,37245.0,36.1866,-86.7852
+458,95688 Clyde Gallagher Road,Wichita,Kansas,67205.0,37.7639,-97.4269
+459,5377 Northridge Park,Dallas,Texas,75358.0,32.7942,-96.7652
+460,26 Eagan Center,Tulsa,Oklahoma,74126.0,36.2383,-95.9931
+461,687 Mcguire Alley,Jacksonville,Florida,32255.0,30.287,-81.3893
 462,14 Maywood Avenue,Merrifield,Virginia,,38.8318,-77.2888
-463,2 Mifflin Trail,Houston,Texas,77010,29.7543,-95.3609
-464,9 Cordelia Lane,Great Neck,New York,11024,40.8171,-73.7416
-465,6850 Mesta Park,Milwaukee,Wisconsin,53210,43.0685,-87.9715
-466,98666 Bonner Park,Odessa,Texas,79764,31.8767,-102.4375
-467,01323 Kipling Way,San Jose,California,95150,37.3866,-121.897
-468,7129 Saint Paul Place,Bellevue,Washington,98008,47.6115,-122.1162
-469,2059 Hayes Plaza,Washington,District of Columbia,20005,38.9067,-77.0312
-470,7 Union Road,Littleton,Colorado,80161,39.7388,-104.4083
-471,39 Hudson Lane,Detroit,Michigan,48295,42.2399,-83.1508
-472,32473 Macpherson Terrace,Tampa,Florida,33620,28.06,-82.4079
-473,766 Corscot Terrace,Port Charlotte,Florida,33954,27.0228,-82.1108
-474,9 Bashford Center,Hartford,Connecticut,06140,41.7918,-72.7188
-475,535 Laurel Street,Pasadena,California,91186,33.7866,-118.2987
-476,9170 Warbler Way,Arlington,Virginia,22205,38.8836,-77.1395
-477,43 Drewry Hill,Atlanta,Georgia,31196,33.8444,-84.474
-478,9982 Browning Plaza,Santa Barbara,California,93106,34.4329,-119.8371
-479,1 Brown Road,Corpus Christi,Texas,78405,27.7762,-97.4271
-480,11864 Transport Point,Sacramento,California,95818,38.5568,-121.4929
-481,28 Melvin Parkway,Fort Smith,Arkansas,72905,35.191,-94.2382
-482,68 Bunting Crossing,Washington,District of Columbia,20442,38.896,-77.0177
-483,142 Towne Plaza,Peoria,Arizona,85383,33.7169,-112.238
-484,55419 Clove Hill,Baton Rouge,Louisiana,70815,30.4558,-91.0596
-485,71708 Dakota Street,Houston,Texas,77080,29.8159,-95.523
-486,68505 Buhler Point,Loretto,Minnesota,55598,45.0159,-93.4719
-487,74215 Gateway Point,Trenton,New Jersey,08608,40.2204,-74.7622
-488,4724 Burrows Avenue,San Bernardino,California,92405,34.1446,-117.3013
-489,33 Knutson Trail,Minneapolis,Minnesota,55448,45.1907,-93.3021
-490,4116 Londonderry Court,Las Vegas,Nevada,89160,35.9279,-114.9721
-491,6 Amoth Way,Kansas City,Missouri,64136,39.0187,-94.4008
-492,2 Esker Street,Pittsburgh,Pennsylvania,15255,40.4344,-80.0248
+463,2 Mifflin Trail,Houston,Texas,77010.0,29.7543,-95.3609
+464,9 Cordelia Lane,Great Neck,New York,11024.0,40.8171,-73.7416
+465,6850 Mesta Park,Milwaukee,Wisconsin,53210.0,43.0685,-87.9715
+466,98666 Bonner Park,Odessa,Texas,79764.0,31.8767,-102.4375
+467,01323 Kipling Way,San Jose,California,95150.0,37.3866,-121.897
+468,7129 Saint Paul Place,Bellevue,Washington,98008.0,47.6115,-122.1162
+469,2059 Hayes Plaza,Washington,District of Columbia,20005.0,38.9067,-77.0312
+470,7 Union Road,Littleton,Colorado,80161.0,39.7388,-104.4083
+471,39 Hudson Lane,Detroit,Michigan,48295.0,42.2399,-83.1508
+472,32473 Macpherson Terrace,Tampa,Florida,33620.0,28.06,-82.4079
+473,766 Corscot Terrace,Port Charlotte,Florida,33954.0,27.0228,-82.1108
+474,9 Bashford Center,Hartford,Connecticut,6140.0,41.7918,-72.7188
+475,535 Laurel Street,Pasadena,California,91186.0,33.7866,-118.2987
+476,9170 Warbler Way,Arlington,Virginia,22205.0,38.8836,-77.1395
+477,43 Drewry Hill,Atlanta,Georgia,31196.0,33.8444,-84.474
+478,9982 Browning Plaza,Santa Barbara,California,93106.0,34.4329,-119.8371
+479,1 Brown Road,Corpus Christi,Texas,78405.0,27.7762,-97.4271
+480,11864 Transport Point,Sacramento,California,95818.0,38.5568,-121.4929
+481,28 Melvin Parkway,Fort Smith,Arkansas,72905.0,35.191,-94.2382
+482,68 Bunting Crossing,Washington,District of Columbia,20442.0,38.896,-77.0177
+483,142 Towne Plaza,Peoria,Arizona,85383.0,33.7169,-112.238
+484,55419 Clove Hill,Baton Rouge,Louisiana,70815.0,30.4558,-91.0596
+485,71708 Dakota Street,Houston,Texas,77080.0,29.8159,-95.523
+486,68505 Buhler Point,Loretto,Minnesota,55598.0,45.0159,-93.4719
+487,74215 Gateway Point,Trenton,New Jersey,8608.0,40.2204,-74.7622
+488,4724 Burrows Avenue,San Bernardino,California,92405.0,34.1446,-117.3013
+489,33 Knutson Trail,Minneapolis,Minnesota,55448.0,45.1907,-93.3021
+490,4116 Londonderry Court,Las Vegas,Nevada,89160.0,35.9279,-114.9721
+491,6 Amoth Way,Kansas City,Missouri,64136.0,39.0187,-94.4008
+492,2 Esker Street,Pittsburgh,Pennsylvania,15255.0,40.4344,-80.0248
 493,4 Fairview Point,Washington,District of Columbia,,38.8933,-77.0146
-494,7 Hoffman Avenue,Peoria,Illinois,61605,40.6775,-89.6263
-495,5235 Miller Alley,Buffalo,New York,14233,42.7684,-78.8871
-496,61 Schiller Circle,Dallas,Texas,75372,32.7673,-96.7776
-497,7 Rieder Way,Mobile,Alabama,36628,30.6589,-88.178
-498,07027 Hooker Street,Abilene,Texas,79605,32.432,-99.7724
-499,9479 Messerschmidt Alley,Los Angeles,California,90040,33.9909,-118.1532
-500,1 Rockefeller Plaza,Indianapolis,Indiana,46216,39.8647,-86.0136
-501,350 Bellgrove Crossing,El Paso,Texas,88553,31.6948,-106.3
-502,30 Homewood Center,Brooklyn,New York,11210,40.6281,-73.9467
+494,7 Hoffman Avenue,Peoria,Illinois,61605.0,40.6775,-89.6263
+495,5235 Miller Alley,Buffalo,New York,14233.0,42.7684,-78.8871
+496,61 Schiller Circle,Dallas,Texas,75372.0,32.7673,-96.7776
+497,7 Rieder Way,Mobile,Alabama,36628.0,30.6589,-88.178
+498,07027 Hooker Street,Abilene,Texas,79605.0,32.432,-99.7724
+499,9479 Messerschmidt Alley,Los Angeles,California,90040.0,33.9909,-118.1532
+500,1 Rockefeller Plaza,Indianapolis,Indiana,46216.0,39.8647,-86.0136
+501,350 Bellgrove Crossing,El Paso,Texas,88553.0,31.6948,-106.3
+502,30 Homewood Center,Brooklyn,New York,11210.0,40.6281,-73.9467
 503,2294 Barnett Park,Augusta,Georgia,,33.386,-82.091
-504,003 Chive Parkway,Levittown,Pennsylvania,19058,40.3286,-75.1028
-505,94633 Hazelcrest Place,Norfolk,Virginia,23509,36.8787,-76.2604
-506,9 Northport Junction,Washington,District of Columbia,20041,38.8933,-77.0146
-507,480 Parkside Drive,Moreno Valley,California,92555,33.9377,-117.1851
-508,49 Hoffman Alley,Atlanta,Georgia,30351,33.8444,-84.474
-509,78013 Loeprich Parkway,Asheville,North Carolina,28805,35.6004,-82.4918
-510,27559 Pankratz Pass,Denver,Colorado,80217,39.7388,-104.4083
-511,9020 Sutherland Drive,Greensboro,North Carolina,27499,36.0807,-80.0244
-512,6835 Upham Circle,San Antonio,Texas,78225,29.3875,-98.5245
-513,4 Shopko Trail,Sacramento,California,95833,38.6157,-121.5053
-514,60433 Gulseth Center,Tyler,Texas,75710,32.3475,-95.3065
-515,83 Rowland Pass,Kalamazoo,Michigan,49006,42.2922,-85.633
-516,405 Lindbergh Trail,Minneapolis,Minnesota,55470,45.0159,-93.4719
-517,84654 Novick Center,Fort Lauderdale,Florida,33345,26.1654,-80.2959
-518,42027 Division Lane,Seminole,Florida,34642,27.8444,-82.7963
-519,853 Pond Junction,Dallas,Texas,75216,32.7086,-96.7955
-520,783 Bay Way,Saint Paul,Minnesota,55188,45.0059,-93.1059
-521,5220 Arrowood Alley,Anchorage,Alaska,99512,61.204,-149.8084
-522,3 Carey Parkway,New Haven,Connecticut,06505,41.3057,-72.7799
-523,690 8th Street,Dulles,Virginia,20189,39.009,-77.4422
-524,2365 North Junction,Shawnee Mission,Kansas,66225,38.8999,-94.832
-525,9454 Merchant Plaza,North Little Rock,Arkansas,72199,34.8272,-92.2847
-526,5996 Westridge Circle,Dallas,Texas,75379,32.7673,-96.7776
-527,44 Sunfield Terrace,San Antonio,Texas,78285,29.4375,-98.4616
-528,70679 Elmside Court,Washington,District of Columbia,20041,38.8933,-77.0146
-529,25321 Dwight Avenue,Midland,Texas,79710,31.8693,-102.0317
-530,1449 Main Crossing,Minneapolis,Minnesota,55402,44.9762,-93.2759
-531,24887 Russell Terrace,Southfield,Michigan,48076,42.4981,-83.2058
-532,67782 Mendota Junction,Memphis,Tennessee,38126,35.1255,-90.0424
-533,01 Comanche Alley,West Palm Beach,Florida,33411,26.6644,-80.1741
+504,003 Chive Parkway,Levittown,Pennsylvania,19058.0,40.3286,-75.1028
+505,94633 Hazelcrest Place,Norfolk,Virginia,23509.0,36.8787,-76.2604
+506,9 Northport Junction,Washington,District of Columbia,20041.0,38.8933,-77.0146
+507,480 Parkside Drive,Moreno Valley,California,92555.0,33.9377,-117.1851
+508,49 Hoffman Alley,Atlanta,Georgia,30351.0,33.8444,-84.474
+509,78013 Loeprich Parkway,Asheville,North Carolina,28805.0,35.6004,-82.4918
+510,27559 Pankratz Pass,Denver,Colorado,80217.0,39.7388,-104.4083
+511,9020 Sutherland Drive,Greensboro,North Carolina,27499.0,36.0807,-80.0244
+512,6835 Upham Circle,San Antonio,Texas,78225.0,29.3875,-98.5245
+513,4 Shopko Trail,Sacramento,California,95833.0,38.6157,-121.5053
+514,60433 Gulseth Center,Tyler,Texas,75710.0,32.3475,-95.3065
+515,83 Rowland Pass,Kalamazoo,Michigan,49006.0,42.2922,-85.633
+516,405 Lindbergh Trail,Minneapolis,Minnesota,55470.0,45.0159,-93.4719
+517,84654 Novick Center,Fort Lauderdale,Florida,33345.0,26.1654,-80.2959
+518,42027 Division Lane,Seminole,Florida,34642.0,27.8444,-82.7963
+519,853 Pond Junction,Dallas,Texas,75216.0,32.7086,-96.7955
+520,783 Bay Way,Saint Paul,Minnesota,55188.0,45.0059,-93.1059
+521,5220 Arrowood Alley,Anchorage,Alaska,99512.0,61.204,-149.8084
+522,3 Carey Parkway,New Haven,Connecticut,6505.0,41.3057,-72.7799
+523,690 8th Street,Dulles,Virginia,20189.0,39.009,-77.4422
+524,2365 North Junction,Shawnee Mission,Kansas,66225.0,38.8999,-94.832
+525,9454 Merchant Plaza,North Little Rock,Arkansas,72199.0,34.8272,-92.2847
+526,5996 Westridge Circle,Dallas,Texas,75379.0,32.7673,-96.7776
+527,44 Sunfield Terrace,San Antonio,Texas,78285.0,29.4375,-98.4616
+528,70679 Elmside Court,Washington,District of Columbia,20041.0,38.8933,-77.0146
+529,25321 Dwight Avenue,Midland,Texas,79710.0,31.8693,-102.0317
+530,1449 Main Crossing,Minneapolis,Minnesota,55402.0,44.9762,-93.2759
+531,24887 Russell Terrace,Southfield,Michigan,48076.0,42.4981,-83.2058
+532,67782 Mendota Junction,Memphis,Tennessee,38126.0,35.1255,-90.0424
+533,01 Comanche Alley,West Palm Beach,Florida,33411.0,26.6644,-80.1741
 534,86 Eagle Crest Drive,Lees Summit,Missouri,,38.8518,-94.3944
-535,01460 Pearson Park,Bloomington,Illinois,61709,40.4614,-88.953
-536,05771 Lillian Crossing,Atlanta,Georgia,31196,33.8444,-84.474
-537,3847 Oak Avenue,North Las Vegas,Nevada,89036,35.9279,-114.9721
-538,0 Calypso Junction,Dallas,Texas,75205,32.826,-96.7843
-539,71 Rowland Park,Huntington Beach,California,92648,33.6773,-118.0051
-540,2 Longview Alley,Flushing,New York,11388,40.6514,-73.8708
-541,19 Eastwood Point,Berkeley,California,94712,37.6802,-121.9215
-542,822 Main Pass,Minneapolis,Minnesota,55448,45.1907,-93.3021
-543,9 Vernon Place,Los Angeles,California,90076,33.7866,-118.2987
-544,608 Jana Hill,Chicago,Illinois,60657,41.9399,-87.6528
-545,48 Forest Dale Street,Washington,District of Columbia,20420,38.9035,-77.0276
-546,594 Straubel Way,College Station,Texas,77844,30.6521,-96.341
-547,4504 Summer Ridge Street,El Paso,Texas,88525,31.6948,-106.3
-548,3 Maple Wood Center,Dallas,Texas,75367,32.7673,-96.7776
-549,183 Scott Lane,Montgomery,Alabama,36104,32.373,-86.3081
-550,254 Homewood Parkway,Boston,Massachusetts,02119,42.3231,-71.0846
-551,7883 Crest Line Place,Davenport,Iowa,52804,41.5386,-90.6115
-552,58259 Ridge Oak Way,Charlotte,North Carolina,28247,35.0656,-80.8511
-553,6141 Daystar Place,Springfield,Massachusetts,01114,42.1707,-72.6048
-554,1 Melrose Hill,Lexington,Kentucky,40505,38.0612,-84.4583
-555,4717 Crownhardt Parkway,Charlotte,North Carolina,28215,35.244,-80.7387
-556,68923 Arapahoe Hill,Colorado Springs,Colorado,80935,38.8247,-104.562
-557,114 Ruskin Circle,Tucson,Arizona,85705,32.2691,-110.9845
-558,27 Vahlen Street,Denton,Texas,76205,33.1903,-97.1282
-559,89 Brickson Park Drive,Battle Creek,Michigan,49018,42.2464,-85.0045
+535,01460 Pearson Park,Bloomington,Illinois,61709.0,40.4614,-88.953
+536,05771 Lillian Crossing,Atlanta,Georgia,31196.0,33.8444,-84.474
+537,3847 Oak Avenue,North Las Vegas,Nevada,89036.0,35.9279,-114.9721
+538,0 Calypso Junction,Dallas,Texas,75205.0,32.826,-96.7843
+539,71 Rowland Park,Huntington Beach,California,92648.0,33.6773,-118.0051
+540,2 Longview Alley,Flushing,New York,11388.0,40.6514,-73.8708
+541,19 Eastwood Point,Berkeley,California,94712.0,37.6802,-121.9215
+542,822 Main Pass,Minneapolis,Minnesota,55448.0,45.1907,-93.3021
+543,9 Vernon Place,Los Angeles,California,90076.0,33.7866,-118.2987
+544,608 Jana Hill,Chicago,Illinois,60657.0,41.9399,-87.6528
+545,48 Forest Dale Street,Washington,District of Columbia,20420.0,38.9035,-77.0276
+546,594 Straubel Way,College Station,Texas,77844.0,30.6521,-96.341
+547,4504 Summer Ridge Street,El Paso,Texas,88525.0,31.6948,-106.3
+548,3 Maple Wood Center,Dallas,Texas,75367.0,32.7673,-96.7776
+549,183 Scott Lane,Montgomery,Alabama,36104.0,32.373,-86.3081
+550,254 Homewood Parkway,Boston,Massachusetts,2119.0,42.3231,-71.0846
+551,7883 Crest Line Place,Davenport,Iowa,52804.0,41.5386,-90.6115
+552,58259 Ridge Oak Way,Charlotte,North Carolina,28247.0,35.0656,-80.8511
+553,6141 Daystar Place,Springfield,Massachusetts,1114.0,42.1707,-72.6048
+554,1 Melrose Hill,Lexington,Kentucky,40505.0,38.0612,-84.4583
+555,4717 Crownhardt Parkway,Charlotte,North Carolina,28215.0,35.244,-80.7387
+556,68923 Arapahoe Hill,Colorado Springs,Colorado,80935.0,38.8247,-104.562
+557,114 Ruskin Circle,Tucson,Arizona,85705.0,32.2691,-110.9845
+558,27 Vahlen Street,Denton,Texas,76205.0,33.1903,-97.1282
+559,89 Brickson Park Drive,Battle Creek,Michigan,49018.0,42.2464,-85.0045
 560,87560 Glacier Hill Trail,Orlando,Florida,,28.4429,-81.4026
-561,49550 Center Court,Omaha,Nebraska,68197,41.249,-96.0274
-562,64 Florence Park,Morgantown,West Virginia,26505,39.6505,-79.944
-563,52286 Mallory Terrace,College Station,Texas,77844,30.6521,-96.341
-564,38078 New Castle Hill,North Port,Florida,34290,27.0459,-82.2491
-565,992 Lawn Point,Minneapolis,Minnesota,55423,44.8756,-93.2553
-566,9259 Clemons Point,Charlotte,North Carolina,28272,35.26,-80.8042
-567,0 Spaight Junction,Garland,Texas,75049,32.7673,-96.7776
-568,84 Katie Street,New Orleans,Louisiana,70183,29.6779,-90.0901
-569,2488 Lakeland Drive,Washington,District of Columbia,20029,38.8933,-77.0146
-570,6 Pond Plaza,Humble,Texas,77346,30.0042,-95.1728
-571,7920 Kinsman Junction,Roanoke,Virginia,24040,37.2742,-79.9579
+561,49550 Center Court,Omaha,Nebraska,68197.0,41.249,-96.0274
+562,64 Florence Park,Morgantown,West Virginia,26505.0,39.6505,-79.944
+563,52286 Mallory Terrace,College Station,Texas,77844.0,30.6521,-96.341
+564,38078 New Castle Hill,North Port,Florida,34290.0,27.0459,-82.2491
+565,992 Lawn Point,Minneapolis,Minnesota,55423.0,44.8756,-93.2553
+566,9259 Clemons Point,Charlotte,North Carolina,28272.0,35.26,-80.8042
+567,0 Spaight Junction,Garland,Texas,75049.0,32.7673,-96.7776
+568,84 Katie Street,New Orleans,Louisiana,70183.0,29.6779,-90.0901
+569,2488 Lakeland Drive,Washington,District of Columbia,20029.0,38.8933,-77.0146
+570,6 Pond Plaza,Humble,Texas,77346.0,30.0042,-95.1728
+571,7920 Kinsman Junction,Roanoke,Virginia,24040.0,37.2742,-79.9579
 572,699 South Lane,Cleveland,Ohio,,41.6857,-81.6728
-573,0200 Hallows Avenue,Portland,Oregon,97221,45.4918,-122.7267
-574,34099 Emmet Circle,Charlotte,North Carolina,28225,35.26,-80.8042
-575,4379 Tomscot Parkway,New York City,New York,10029,40.7918,-73.9448
-576,2 Elka Avenue,Prescott,Arizona,86305,34.8185,-112.9584
-577,323 Northfield Plaza,Washington,District of Columbia,20067,38.8933,-77.0146
-578,13805 Caliangt Lane,Kansas City,Missouri,64144,39.2829,-94.409
-579,491 Vera Pass,New York City,New York,10014,40.7339,-74.0054
-580,4428 Stang Crossing,Roanoke,Virginia,24024,37.2742,-79.9579
-581,193 Autumn Leaf Junction,Saint Louis,Missouri,63110,38.6185,-90.2564
-582,74 Roxbury Court,Houston,Texas,77288,29.834,-95.4342
-583,44410 Gerald Trail,El Paso,Texas,79989,31.6948,-106.3
-584,04 Hansons Drive,Washington,District of Columbia,20088,38.8933,-77.0146
-585,47407 Banding Terrace,Philadelphia,Pennsylvania,19178,40.0018,-75.1179
-586,950 Di Loreto Parkway,Santa Rosa,California,95405,38.4386,-122.6727
+573,0200 Hallows Avenue,Portland,Oregon,97221.0,45.4918,-122.7267
+574,34099 Emmet Circle,Charlotte,North Carolina,28225.0,35.26,-80.8042
+575,4379 Tomscot Parkway,New York City,New York,10029.0,40.7918,-73.9448
+576,2 Elka Avenue,Prescott,Arizona,86305.0,34.8185,-112.9584
+577,323 Northfield Plaza,Washington,District of Columbia,20067.0,38.8933,-77.0146
+578,13805 Caliangt Lane,Kansas City,Missouri,64144.0,39.2829,-94.409
+579,491 Vera Pass,New York City,New York,10014.0,40.7339,-74.0054
+580,4428 Stang Crossing,Roanoke,Virginia,24024.0,37.2742,-79.9579
+581,193 Autumn Leaf Junction,Saint Louis,Missouri,63110.0,38.6185,-90.2564
+582,74 Roxbury Court,Houston,Texas,77288.0,29.834,-95.4342
+583,44410 Gerald Trail,El Paso,Texas,79989.0,31.6948,-106.3
+584,04 Hansons Drive,Washington,District of Columbia,20088.0,38.8933,-77.0146
+585,47407 Banding Terrace,Philadelphia,Pennsylvania,19178.0,40.0018,-75.1179
+586,950 Di Loreto Parkway,Santa Rosa,California,95405.0,38.4386,-122.6727
 587,9 Leroy Circle,New York City,New York,,40.7808,-73.9772
-588,671 Jana Park,Montgomery,Alabama,36119,32.2334,-86.2085
-589,35891 Eggendart Center,Amarillo,Texas,79188,35.1885,-101.8165
-590,8 Sherman Plaza,Huntington,West Virginia,25721,38.4134,-82.2774
-591,394 Doe Crossing Court,Columbus,Ohio,43204,39.9523,-83.078
-592,7465 Grim Court,Saint Petersburg,Florida,33715,27.6705,-82.7119
-593,44605 Melrose Park,Knoxville,Tennessee,37995,35.9901,-83.9622
-594,404 Melby Way,New York City,New York,10024,40.7864,-73.9764
-595,364 Cambridge Street,Los Angeles,California,90094,33.9754,-118.417
-596,59 Springs Parkway,Augusta,Georgia,30905,33.413,-82.1337
+588,671 Jana Park,Montgomery,Alabama,36119.0,32.2334,-86.2085
+589,35891 Eggendart Center,Amarillo,Texas,79188.0,35.1885,-101.8165
+590,8 Sherman Plaza,Huntington,West Virginia,25721.0,38.4134,-82.2774
+591,394 Doe Crossing Court,Columbus,Ohio,43204.0,39.9523,-83.078
+592,7465 Grim Court,Saint Petersburg,Florida,33715.0,27.6705,-82.7119
+593,44605 Melrose Park,Knoxville,Tennessee,37995.0,35.9901,-83.9622
+594,404 Melby Way,New York City,New York,10024.0,40.7864,-73.9764
+595,364 Cambridge Street,Los Angeles,California,90094.0,33.9754,-118.417
+596,59 Springs Parkway,Augusta,Georgia,30905.0,33.413,-82.1337
 597,07 Magdeline Court,Saint Paul,Minnesota,,45.071,-92.9391
-598,2 Myrtle Park,Saint Louis,Missouri,63158,38.6531,-90.2435
-599,3639 Golf Course Trail,Hicksville,New York,11854,40.7548,-73.6018
-600,39635 Westport Point,Albuquerque,New Mexico,87201,35.0443,-106.6729
-601,639 Gateway Avenue,Glendale,Arizona,85311,33.2765,-112.1872
-602,57560 Jana Park,Amarillo,Texas,79165,35.4015,-101.8951
-603,155 Porter Place,Salt Lake City,Utah,84120,40.695,-112.0001
-604,0718 Swallow Alley,Aiken,South Carolina,29805,33.6993,-81.6465
+598,2 Myrtle Park,Saint Louis,Missouri,63158.0,38.6531,-90.2435
+599,3639 Golf Course Trail,Hicksville,New York,11854.0,40.7548,-73.6018
+600,39635 Westport Point,Albuquerque,New Mexico,87201.0,35.0443,-106.6729
+601,639 Gateway Avenue,Glendale,Arizona,85311.0,33.2765,-112.1872
+602,57560 Jana Park,Amarillo,Texas,79165.0,35.4015,-101.8951
+603,155 Porter Place,Salt Lake City,Utah,84120.0,40.695,-112.0001
+604,0718 Swallow Alley,Aiken,South Carolina,29805.0,33.6993,-81.6465
 605,7748 Kedzie Point,Amarillo,Texas,,35.216,-102.0714
-606,54 Packers Alley,Memphis,Tennessee,38143,35.2017,-89.9715
-607,0644 Buena Vista Center,Los Angeles,California,90065,34.1073,-118.2266
-608,4 Sunfield Avenue,Honolulu,Hawaii,96825,21.2987,-157.6985
+606,54 Packers Alley,Memphis,Tennessee,38143.0,35.2017,-89.9715
+607,0644 Buena Vista Center,Los Angeles,California,90065.0,34.1073,-118.2266
+608,4 Sunfield Avenue,Honolulu,Hawaii,96825.0,21.2987,-157.6985
 609,796 Jackson Trail,New York City,New York,,40.7808,-73.9772
-610,2101 Golden Leaf Parkway,Mesquite,Texas,75185,32.7403,-96.5618
+610,2101 Golden Leaf Parkway,Mesquite,Texas,75185.0,32.7403,-96.5618
 611,8 Utah Drive,North Little Rock,Arkansas,,34.8272,-92.2847
-612,6915 Darwin Street,Des Moines,Iowa,50330,41.6727,-93.5722
-613,8349 Duke Center,Albany,New York,12210,42.6568,-73.7605
-614,88 Novick Circle,North Las Vegas,Nevada,89036,35.9279,-114.9721
-615,06 Morningstar Street,Dallas,Texas,75241,32.6722,-96.7774
-616,591 Kensington Place,Marietta,Georgia,30066,34.0378,-84.5038
-617,54888 Swallow Center,New York City,New York,10014,40.7339,-74.0054
-618,6 Dovetail Street,Denver,Colorado,80223,39.7002,-105.0028
-619,6236 Sycamore Street,Berkeley,California,94712,37.6802,-121.9215
-620,5690 Lunder Road,Evansville,Indiana,47719,37.9971,-87.575
-621,3 Ludington Junction,Fort Pierce,Florida,34949,27.3896,-80.2615
-622,581 Twin Pines Hill,Lake Worth,Florida,33467,26.6104,-80.1683
-623,072 Northfield Trail,Memphis,Tennessee,38197,35.2017,-89.9715
-624,8211 Derek Place,Albany,New York,12262,42.6149,-73.9708
-625,96633 Loftsgordon Alley,Providence,Rhode Island,02905,41.7845,-71.3959
+612,6915 Darwin Street,Des Moines,Iowa,50330.0,41.6727,-93.5722
+613,8349 Duke Center,Albany,New York,12210.0,42.6568,-73.7605
+614,88 Novick Circle,North Las Vegas,Nevada,89036.0,35.9279,-114.9721
+615,06 Morningstar Street,Dallas,Texas,75241.0,32.6722,-96.7774
+616,591 Kensington Place,Marietta,Georgia,30066.0,34.0378,-84.5038
+617,54888 Swallow Center,New York City,New York,10014.0,40.7339,-74.0054
+618,6 Dovetail Street,Denver,Colorado,80223.0,39.7002,-105.0028
+619,6236 Sycamore Street,Berkeley,California,94712.0,37.6802,-121.9215
+620,5690 Lunder Road,Evansville,Indiana,47719.0,37.9971,-87.575
+621,3 Ludington Junction,Fort Pierce,Florida,34949.0,27.3896,-80.2615
+622,581 Twin Pines Hill,Lake Worth,Florida,33467.0,26.6104,-80.1683
+623,072 Northfield Trail,Memphis,Tennessee,38197.0,35.2017,-89.9715
+624,8211 Derek Place,Albany,New York,12262.0,42.6149,-73.9708
+625,96633 Loftsgordon Alley,Providence,Rhode Island,2905.0,41.7845,-71.3959
 626,86562 Tony Road,Dayton,Ohio,,39.7982,-84.3211
-627,8105 Knutson Road,Hattiesburg,Mississippi,39404,31.1721,-89.2948
-628,303 Dixon Park,Washington,District of Columbia,20099,38.8933,-77.0146
-629,87 Haas Crossing,Charleston,South Carolina,29424,32.7831,-79.937
-630,3732 Monica Point,San Jose,California,95128,37.3163,-121.9356
-631,75832 Evergreen Plaza,Tallahassee,Florida,32304,30.4478,-84.3211
-632,82443 Schiller Road,Dallas,Texas,75236,32.69,-96.9177
-633,6935 Rusk Terrace,Johnson City,Tennessee,37605,36.3158,-82.3838
-634,27 Cardinal Junction,Sacramento,California,95852,38.6026,-121.4475
-635,9319 Farragut Court,Washington,District of Columbia,20010,38.9327,-77.0322
-636,143 Barby Trail,Laredo,Texas,78044,27.3637,-99.4819
-637,5 Lakeland Point,Colorado Springs,Colorado,80935,38.8247,-104.562
-638,7651 Eastwood Junction,Littleton,Colorado,80126,39.5437,-104.9691
-639,8 Forest Run Plaza,Denver,Colorado,80243,39.7388,-104.4083
-640,9339 Arapahoe Terrace,Houston,Texas,77025,29.6889,-95.4341
-641,2 Miller Place,Kansas City,Missouri,64144,39.2829,-94.409
-642,0847 Artisan Terrace,Fort Wayne,Indiana,46852,41.0938,-85.0707
-643,50850 Oak Pass,Springfield,Illinois,62764,39.7495,-89.606
-644,33579 Walton Circle,Fresno,California,93750,36.7464,-119.6397
-645,9628 Banding Center,White Plains,New York,10633,41.119,-73.733
-646,230 Dorton Drive,Fort Myers,Florida,33913,26.5228,-81.7065
-647,1751 Thackeray Center,Chicago,Illinois,60624,41.8804,-87.7223
-648,40224 Kropf Place,Fort Worth,Texas,76134,32.6469,-97.3325
-649,144 Arkansas Court,Pocatello,Idaho,83206,42.6395,-112.3138
-650,102 Heath Parkway,Seattle,Washington,98166,47.4511,-122.353
-651,636 Sutteridge Park,Clearwater,Florida,34620,27.9139,-82.7157
-652,243 Kenwood Alley,Charlotte,North Carolina,28299,35.26,-80.8042
-653,89296 Daystar Parkway,Bonita Springs,Florida,34135,26.3771,-81.7334
-654,776 Kropf Street,Columbia,South Carolina,29220,34.006,-80.9708
-655,27 2nd Center,Cedar Rapids,Iowa,52405,41.9804,-91.7098
-656,2309 Ronald Regan Lane,Scranton,Pennsylvania,18505,41.3914,-75.6657
+627,8105 Knutson Road,Hattiesburg,Mississippi,39404.0,31.1721,-89.2948
+628,303 Dixon Park,Washington,District of Columbia,20099.0,38.8933,-77.0146
+629,87 Haas Crossing,Charleston,South Carolina,29424.0,32.7831,-79.937
+630,3732 Monica Point,San Jose,California,95128.0,37.3163,-121.9356
+631,75832 Evergreen Plaza,Tallahassee,Florida,32304.0,30.4478,-84.3211
+632,82443 Schiller Road,Dallas,Texas,75236.0,32.69,-96.9177
+633,6935 Rusk Terrace,Johnson City,Tennessee,37605.0,36.3158,-82.3838
+634,27 Cardinal Junction,Sacramento,California,95852.0,38.6026,-121.4475
+635,9319 Farragut Court,Washington,District of Columbia,20010.0,38.9327,-77.0322
+636,143 Barby Trail,Laredo,Texas,78044.0,27.3637,-99.4819
+637,5 Lakeland Point,Colorado Springs,Colorado,80935.0,38.8247,-104.562
+638,7651 Eastwood Junction,Littleton,Colorado,80126.0,39.5437,-104.9691
+639,8 Forest Run Plaza,Denver,Colorado,80243.0,39.7388,-104.4083
+640,9339 Arapahoe Terrace,Houston,Texas,77025.0,29.6889,-95.4341
+641,2 Miller Place,Kansas City,Missouri,64144.0,39.2829,-94.409
+642,0847 Artisan Terrace,Fort Wayne,Indiana,46852.0,41.0938,-85.0707
+643,50850 Oak Pass,Springfield,Illinois,62764.0,39.7495,-89.606
+644,33579 Walton Circle,Fresno,California,93750.0,36.7464,-119.6397
+645,9628 Banding Center,White Plains,New York,10633.0,41.119,-73.733
+646,230 Dorton Drive,Fort Myers,Florida,33913.0,26.5228,-81.7065
+647,1751 Thackeray Center,Chicago,Illinois,60624.0,41.8804,-87.7223
+648,40224 Kropf Place,Fort Worth,Texas,76134.0,32.6469,-97.3325
+649,144 Arkansas Court,Pocatello,Idaho,83206.0,42.6395,-112.3138
+650,102 Heath Parkway,Seattle,Washington,98166.0,47.4511,-122.353
+651,636 Sutteridge Park,Clearwater,Florida,34620.0,27.9139,-82.7157
+652,243 Kenwood Alley,Charlotte,North Carolina,28299.0,35.26,-80.8042
+653,89296 Daystar Parkway,Bonita Springs,Florida,34135.0,26.3771,-81.7334
+654,776 Kropf Street,Columbia,South Carolina,29220.0,34.006,-80.9708
+655,27 2nd Center,Cedar Rapids,Iowa,52405.0,41.9804,-91.7098
+656,2309 Ronald Regan Lane,Scranton,Pennsylvania,18505.0,41.3914,-75.6657
 657,30698 Blue Bill Park Circle,West Palm Beach,Florida,,26.6654,-80.0929
-658,5302 Springview Avenue,Harrisburg,Pennsylvania,17140,40.3086,-76.8464
-659,559 Amoth Plaza,Oklahoma City,Oklahoma,73190,35.5514,-97.4075
-660,42180 Sheridan Street,Gulfport,Mississippi,39505,30.4158,-89.0684
-661,06668 Clyde Gallagher Street,Tacoma,Washington,98442,47.3081,-122.4185
+658,5302 Springview Avenue,Harrisburg,Pennsylvania,17140.0,40.3086,-76.8464
+659,559 Amoth Plaza,Oklahoma City,Oklahoma,73190.0,35.5514,-97.4075
+660,42180 Sheridan Street,Gulfport,Mississippi,39505.0,30.4158,-89.0684
+661,06668 Clyde Gallagher Street,Tacoma,Washington,98442.0,47.3081,-122.4185
 662,0 Cody Trail,Laredo,Texas,,27.3637,-99.4819
-663,19541 Oneill Circle,Cheyenne,Wyoming,82007,41.1084,-104.8107
-664,384 Mosinee Center,Wichita Falls,Texas,76310,33.8581,-98.5755
-665,1 Stoughton Junction,Glendale,Arizona,85311,33.2765,-112.1872
-666,96 Rowland Lane,Sacramento,California,95823,38.4797,-121.4438
-667,77 Vermont Crossing,Chicago,Illinois,60697,41.8119,-87.6873
-668,82956 Debs Way,Conroe,Texas,77305,30.2906,-95.3832
-669,0 Gina Street,Tacoma,Washington,98417,47.2061,-122.4822
+663,19541 Oneill Circle,Cheyenne,Wyoming,82007.0,41.1084,-104.8107
+664,384 Mosinee Center,Wichita Falls,Texas,76310.0,33.8581,-98.5755
+665,1 Stoughton Junction,Glendale,Arizona,85311.0,33.2765,-112.1872
+666,96 Rowland Lane,Sacramento,California,95823.0,38.4797,-121.4438
+667,77 Vermont Crossing,Chicago,Illinois,60697.0,41.8119,-87.6873
+668,82956 Debs Way,Conroe,Texas,77305.0,30.2906,-95.3832
+669,0 Gina Street,Tacoma,Washington,98417.0,47.2061,-122.4822
 670,038 Sycamore Pass,Lincoln,Nebraska,,40.9317,-96.6045
-671,1 Prentice Hill,Atlanta,Georgia,30311,33.723,-84.4702
-672,1 Old Shore Plaza,Wilmington,Delaware,19805,39.7434,-75.5827
-673,0 6th Road,New York City,New York,10014,40.7339,-74.0054
-674,89514 Eastlawn Hill,Manchester,New Hampshire,03105,42.9521,-71.6539
-675,804 Thompson Drive,Falls Church,Virginia,22047,38.8318,-77.2888
-676,03 Jana Avenue,San Antonio,Texas,78260,29.7026,-98.4759
-677,42223 Westend Pass,San Diego,California,92191,33.0169,-116.846
-678,52 Dapin Lane,Cleveland,Ohio,44130,41.3826,-81.7964
-679,73381 Farragut Road,Charlotte,North Carolina,28247,35.0656,-80.8511
-680,232 Beilfuss Lane,Merrifield,Virginia,22119,38.8318,-77.2888
-681,0 Warbler Alley,Jackson,Mississippi,39282,32.3113,-90.3972
-682,2276 Kensington Alley,Jackson,Mississippi,39282,32.3113,-90.3972
-683,73559 Gale Hill,Rochester,New York,14619,43.1367,-77.6481
-684,41700 Portage Parkway,Berkeley,California,94712,37.6802,-121.9215
-685,3 Warner Street,Albany,New York,12262,42.6149,-73.9708
-686,13247 Coolidge Junction,Minneapolis,Minnesota,55458,45.0159,-93.4719
-687,2 Pennsylvania Plaza,Chicago,Illinois,60630,41.9699,-87.7603
-688,2120 Waxwing Plaza,Seattle,Washington,98148,47.4441,-122.3249
-689,47 Prairie Rose Hill,Pittsburgh,Pennsylvania,15210,40.4072,-79.9839
-690,63 Kensington Junction,Bronx,New York,10474,40.8139,-73.8841
-691,75644 Macpherson Way,Topeka,Kansas,66617,39.1271,-95.6384
-692,77 Hauk Point,Chicago,Illinois,60691,41.8119,-87.6873
-693,8235 Hallows Avenue,San Diego,California,92160,33.0169,-116.846
-694,37516 Old Gate Alley,Durham,North Carolina,27717,36.0512,-78.8577
-695,052 Pennsylvania Way,Montgomery,Alabama,36134,32.2334,-86.2085
-696,0607 Lakewood Gardens Lane,San Diego,California,92115,32.7607,-117.0721
-697,9 Canary Hill,Syracuse,New York,13217,43.0214,-76.1977
-698,1 Moose Terrace,Charlotte,North Carolina,28278,35.2072,-80.9568
-699,6 Shoshone Way,Bronx,New York,10474,40.8139,-73.8841
-700,631 Commercial Hill,Dallas,Texas,75392,32.7673,-96.7776
-701,660 Tennyson Parkway,Brooklyn,New York,11225,40.6628,-73.9546
-702,3720 Heath Court,Louisville,Kentucky,40256,38.189,-85.6768
-703,79021 Southridge Avenue,Los Angeles,California,90071,34.0529,-118.2549
+671,1 Prentice Hill,Atlanta,Georgia,30311.0,33.723,-84.4702
+672,1 Old Shore Plaza,Wilmington,Delaware,19805.0,39.7434,-75.5827
+673,0 6th Road,New York City,New York,10014.0,40.7339,-74.0054
+674,89514 Eastlawn Hill,Manchester,New Hampshire,3105.0,42.9521,-71.6539
+675,804 Thompson Drive,Falls Church,Virginia,22047.0,38.8318,-77.2888
+676,03 Jana Avenue,San Antonio,Texas,78260.0,29.7026,-98.4759
+677,42223 Westend Pass,San Diego,California,92191.0,33.0169,-116.846
+678,52 Dapin Lane,Cleveland,Ohio,44130.0,41.3826,-81.7964
+679,73381 Farragut Road,Charlotte,North Carolina,28247.0,35.0656,-80.8511
+680,232 Beilfuss Lane,Merrifield,Virginia,22119.0,38.8318,-77.2888
+681,0 Warbler Alley,Jackson,Mississippi,39282.0,32.3113,-90.3972
+682,2276 Kensington Alley,Jackson,Mississippi,39282.0,32.3113,-90.3972
+683,73559 Gale Hill,Rochester,New York,14619.0,43.1367,-77.6481
+684,41700 Portage Parkway,Berkeley,California,94712.0,37.6802,-121.9215
+685,3 Warner Street,Albany,New York,12262.0,42.6149,-73.9708
+686,13247 Coolidge Junction,Minneapolis,Minnesota,55458.0,45.0159,-93.4719
+687,2 Pennsylvania Plaza,Chicago,Illinois,60630.0,41.9699,-87.7603
+688,2120 Waxwing Plaza,Seattle,Washington,98148.0,47.4441,-122.3249
+689,47 Prairie Rose Hill,Pittsburgh,Pennsylvania,15210.0,40.4072,-79.9839
+690,63 Kensington Junction,Bronx,New York,10474.0,40.8139,-73.8841
+691,75644 Macpherson Way,Topeka,Kansas,66617.0,39.1271,-95.6384
+692,77 Hauk Point,Chicago,Illinois,60691.0,41.8119,-87.6873
+693,8235 Hallows Avenue,San Diego,California,92160.0,33.0169,-116.846
+694,37516 Old Gate Alley,Durham,North Carolina,27717.0,36.0512,-78.8577
+695,052 Pennsylvania Way,Montgomery,Alabama,36134.0,32.2334,-86.2085
+696,0607 Lakewood Gardens Lane,San Diego,California,92115.0,32.7607,-117.0721
+697,9 Canary Hill,Syracuse,New York,13217.0,43.0214,-76.1977
+698,1 Moose Terrace,Charlotte,North Carolina,28278.0,35.2072,-80.9568
+699,6 Shoshone Way,Bronx,New York,10474.0,40.8139,-73.8841
+700,631 Commercial Hill,Dallas,Texas,75392.0,32.7673,-96.7776
+701,660 Tennyson Parkway,Brooklyn,New York,11225.0,40.6628,-73.9546
+702,3720 Heath Court,Louisville,Kentucky,40256.0,38.189,-85.6768
+703,79021 Southridge Avenue,Los Angeles,California,90071.0,34.0529,-118.2549
 704,4304 Parkside Road,San Jose,California,,37.2568,-121.8896
-705,14491 Westridge Crossing,Amarillo,Texas,79165,35.4015,-101.8951
-706,68 Valley Edge Lane,Atlanta,Georgia,30311,33.723,-84.4702
-707,9 Granby Place,Tucson,Arizona,85743,32.3366,-111.1771
+705,14491 Westridge Crossing,Amarillo,Texas,79165.0,35.4015,-101.8951
+706,68 Valley Edge Lane,Atlanta,Georgia,30311.0,33.723,-84.4702
+707,9 Granby Place,Tucson,Arizona,85743.0,32.3366,-111.1771
 708,1 Meadow Vale Court,Fairbanks,Alaska,,64.8544,-147.8469
-709,441 Oxford Drive,El Paso,Texas,88558,31.6948,-106.3
+709,441 Oxford Drive,El Paso,Texas,88558.0,31.6948,-106.3
 710,99694 Charing Cross Parkway,Washington,District of Columbia,,38.8933,-77.0146
-711,6607 Melody Junction,Charlotte,North Carolina,28272,35.26,-80.8042
-712,504 Gulseth Plaza,Savannah,Georgia,31416,32.0053,-81.0477
-713,32124 Steensland Street,Baton Rouge,Louisiana,70883,30.5159,-91.0804
-714,9733 Montana Way,Las Vegas,Nevada,89145,36.1693,-115.2828
-715,6 Summer Ridge Junction,Columbia,South Carolina,29215,34.006,-80.9708
-716,39 Chive Place,Portland,Oregon,97221,45.4918,-122.7267
+711,6607 Melody Junction,Charlotte,North Carolina,28272.0,35.26,-80.8042
+712,504 Gulseth Plaza,Savannah,Georgia,31416.0,32.0053,-81.0477
+713,32124 Steensland Street,Baton Rouge,Louisiana,70883.0,30.5159,-91.0804
+714,9733 Montana Way,Las Vegas,Nevada,89145.0,36.1693,-115.2828
+715,6 Summer Ridge Junction,Columbia,South Carolina,29215.0,34.006,-80.9708
+716,39 Chive Place,Portland,Oregon,97221.0,45.4918,-122.7267
 717,1 Northwestern Court,Littleton,Colorado,,39.5437,-104.9691
 718,88193 Little Fleur Pass,Pittsburgh,Pennsylvania,,40.4181,-80.0526
-719,857 Boyd Way,Charleston,West Virginia,25356,38.2968,-81.5547
-720,2 Main Park,Springfield,Virginia,22156,38.8318,-77.2888
-721,965 Eggendart Terrace,Albuquerque,New Mexico,87190,35.0443,-106.6729
-722,5 Pepper Wood Place,Youngstown,Ohio,44511,41.0704,-80.6931
-723,161 Sutteridge Park,Houston,Texas,77030,29.7041,-95.401
-724,196 Onsgard Parkway,Irvine,California,92717,33.6462,-117.8398
-725,4 Washington Parkway,Charleston,West Virginia,25313,38.4142,-81.7582
-726,774 Springs Way,Los Angeles,California,90094,33.9754,-118.417
-727,181 High Crossing Court,Gainesville,Florida,32610,29.6813,-82.3539
-728,8 Springs Way,Wilmington,Delaware,19897,39.5645,-75.597
-729,53311 Mcguire Trail,Colorado Springs,Colorado,80995,38.8247,-104.562
-730,9614 Parkside Trail,Dearborn,Michigan,48126,42.3349,-83.1801
-731,006 Hauk Pass,Montgomery,Alabama,36125,32.2334,-86.2085
-732,3339 Jenna Center,Lake Charles,Louisiana,70616,30.2642,-93.3265
-733,01216 Oak Valley Alley,Richmond,Virginia,23203,37.5593,-77.4471
-734,663 Bayside Way,El Paso,Texas,88519,31.6948,-106.3
+719,857 Boyd Way,Charleston,West Virginia,25356.0,38.2968,-81.5547
+720,2 Main Park,Springfield,Virginia,22156.0,38.8318,-77.2888
+721,965 Eggendart Terrace,Albuquerque,New Mexico,87190.0,35.0443,-106.6729
+722,5 Pepper Wood Place,Youngstown,Ohio,44511.0,41.0704,-80.6931
+723,161 Sutteridge Park,Houston,Texas,77030.0,29.7041,-95.401
+724,196 Onsgard Parkway,Irvine,California,92717.0,33.6462,-117.8398
+725,4 Washington Parkway,Charleston,West Virginia,25313.0,38.4142,-81.7582
+726,774 Springs Way,Los Angeles,California,90094.0,33.9754,-118.417
+727,181 High Crossing Court,Gainesville,Florida,32610.0,29.6813,-82.3539
+728,8 Springs Way,Wilmington,Delaware,19897.0,39.5645,-75.597
+729,53311 Mcguire Trail,Colorado Springs,Colorado,80995.0,38.8247,-104.562
+730,9614 Parkside Trail,Dearborn,Michigan,48126.0,42.3349,-83.1801
+731,006 Hauk Pass,Montgomery,Alabama,36125.0,32.2334,-86.2085
+732,3339 Jenna Center,Lake Charles,Louisiana,70616.0,30.2642,-93.3265
+733,01216 Oak Valley Alley,Richmond,Virginia,23203.0,37.5593,-77.4471
+734,663 Bayside Way,El Paso,Texas,88519.0,31.6948,-106.3
 735,9838 Chinook Parkway,Washington,District of Columbia,,38.9164,-76.9948
-736,5099 Shelley Center,Mesa,Arizona,85210,33.3887,-111.8428
-737,4652 Coleman Crossing,Philadelphia,Pennsylvania,19191,40.0018,-75.1179
-738,433 Luster Place,Cincinnati,Ohio,45233,39.111,-84.6594
+736,5099 Shelley Center,Mesa,Arizona,85210.0,33.3887,-111.8428
+737,4652 Coleman Crossing,Philadelphia,Pennsylvania,19191.0,40.0018,-75.1179
+738,433 Luster Place,Cincinnati,Ohio,45233.0,39.111,-84.6594
 739,411 Hanover Junction,New York City,New York,,40.7808,-73.9772
-740,34 Pennsylvania Place,Clearwater,Florida,34615,27.9843,-82.7813
+740,34 Pennsylvania Place,Clearwater,Florida,34615.0,27.9843,-82.7813
 741,67680 Hauk Parkway,Boston,Massachusetts,,42.3615,-71.0604
-742,12852 Macpherson Place,Lakeland,Florida,33811,27.9865,-82.0139
-743,3 Lerdahl Pass,Erie,Pennsylvania,16565,42.1827,-80.0649
+742,12852 Macpherson Place,Lakeland,Florida,33811.0,27.9865,-82.0139
+743,3 Lerdahl Pass,Erie,Pennsylvania,16565.0,42.1827,-80.0649
 744,2300 Larry Court,Inglewood,California,,33.7866,-118.2987
-745,67 Schiller Terrace,Miami,Florida,33283,25.5584,-80.4582
+745,67 Schiller Terrace,Miami,Florida,33283.0,25.5584,-80.4582
 746,48 Armistice Hill,Baltimore,Maryland,,39.2933,-76.6238
-747,315 Hansons Alley,Philadelphia,Pennsylvania,19093,40.0018,-75.1179
-748,082 Boyd Way,Concord,California,94522,37.7772,-121.9554
-749,7598 Vera Drive,Tampa,Florida,33673,27.872,-82.4388
-750,268 Miller Street,Greensboro,North Carolina,27455,36.1824,-79.806
-751,82578 Nobel Trail,Wichita,Kansas,67205,37.7639,-97.4269
-752,75 Corscot Place,New York City,New York,10079,40.7808,-73.9772
-753,557 Mcguire Trail,Dallas,Texas,75287,33.0005,-96.8314
-754,6757 Schlimgen Avenue,Port Saint Lucie,Florida,34985,27.3822,-80.409
-755,708 Marquette Point,Lakewood,Washington,98498,47.1591,-122.5485
-756,76 Meadow Vale Crossing,Memphis,Tennessee,38168,35.2017,-89.9715
-757,42 Corben Circle,Richmond,Virginia,23289,37.5313,-77.4161
-758,502 Ruskin Street,Columbus,Ohio,43284,39.969,-83.0114
-759,9694 Butternut Parkway,Memphis,Tennessee,38131,35.0664,-89.9921
-760,47943 Susan Lane,Charleston,West Virginia,25362,38.2968,-81.5547
-761,19287 Old Gate Court,Madison,Wisconsin,53726,43.0696,-89.4239
-762,0413 Crowley Hill,Killeen,Texas,76544,31.1282,-97.7469
+747,315 Hansons Alley,Philadelphia,Pennsylvania,19093.0,40.0018,-75.1179
+748,082 Boyd Way,Concord,California,94522.0,37.7772,-121.9554
+749,7598 Vera Drive,Tampa,Florida,33673.0,27.872,-82.4388
+750,268 Miller Street,Greensboro,North Carolina,27455.0,36.1824,-79.806
+751,82578 Nobel Trail,Wichita,Kansas,67205.0,37.7639,-97.4269
+752,75 Corscot Place,New York City,New York,10079.0,40.7808,-73.9772
+753,557 Mcguire Trail,Dallas,Texas,75287.0,33.0005,-96.8314
+754,6757 Schlimgen Avenue,Port Saint Lucie,Florida,34985.0,27.3822,-80.409
+755,708 Marquette Point,Lakewood,Washington,98498.0,47.1591,-122.5485
+756,76 Meadow Vale Crossing,Memphis,Tennessee,38168.0,35.2017,-89.9715
+757,42 Corben Circle,Richmond,Virginia,23289.0,37.5313,-77.4161
+758,502 Ruskin Street,Columbus,Ohio,43284.0,39.969,-83.0114
+759,9694 Butternut Parkway,Memphis,Tennessee,38131.0,35.0664,-89.9921
+760,47943 Susan Lane,Charleston,West Virginia,25362.0,38.2968,-81.5547
+761,19287 Old Gate Court,Madison,Wisconsin,53726.0,43.0696,-89.4239
+762,0413 Crowley Hill,Killeen,Texas,76544.0,31.1282,-97.7469
 763,0468 Mariners Cove Circle,Abilene,Texas,,32.432,-99.7724
-764,12301 Corben Circle,Chicago,Illinois,60624,41.8804,-87.7223
-765,45754 Northwestern Alley,Amarillo,Texas,79165,35.4015,-101.8951
+764,12301 Corben Circle,Chicago,Illinois,60624.0,41.8804,-87.7223
+765,45754 Northwestern Alley,Amarillo,Texas,79165.0,35.4015,-101.8951
 766,8871 Barby Road,Detroit,Michigan,,42.2399,-83.1508
-767,172 Hollow Ridge Drive,Charleston,West Virginia,25389,38.354,-81.6394
-768,74 Meadow Ridge Lane,Washington,District of Columbia,20244,38.8933,-77.0146
-769,99693 Stuart Road,Lubbock,Texas,79452,33.61,-101.8213
-770,6 Mcguire Plaza,Fort Lauderdale,Florida,33330,26.0663,-80.3339
-771,0111 Mosinee Trail,Arlington,Virginia,22205,38.8836,-77.1395
-772,46 Tennessee Junction,San Francisco,California,94159,37.7848,-122.7278
-773,59 La Follette Pass,Nashville,Tennessee,37245,36.1866,-86.7852
-774,88 Fuller Plaza,Hyattsville,Maryland,20784,38.9513,-76.8958
-775,74 Ludington Circle,Detroit,Michigan,48242,42.2166,-83.3532
-776,562 Goodland Hill,Fort Myers,Florida,33994,26.5529,-81.9486
-777,9 Fairview Avenue,El Paso,Texas,79923,31.6948,-106.3
-778,070 West Terrace,Wilmington,North Carolina,28410,34.0881,-77.8526
-779,621 Mallory Street,Albuquerque,New Mexico,87110,35.1104,-106.5781
-780,5 Summer Ridge Street,Melbourne,Florida,32941,27.9246,-80.5235
-781,7169 Petterle Court,El Paso,Texas,79923,31.6948,-106.3
-782,29974 Merchant Plaza,Springfield,Massachusetts,01152,42.1707,-72.6048
-783,8 Bobwhite Plaza,Detroit,Michigan,48295,42.2399,-83.1508
-784,09638 Bunting Plaza,Lafayette,Louisiana,70593,30.2081,-92.0951
-785,3 Gina Trail,Seattle,Washington,98121,47.6151,-122.3447
-786,96179 Continental Terrace,Houston,Texas,77040,29.8744,-95.5278
-787,806 Magdeline Circle,Roanoke,Virginia,24029,37.2742,-79.9579
-788,61 Bowman Avenue,Macon,Georgia,31210,32.8926,-83.7455
-789,1 Victoria Trail,Miami,Florida,33190,25.5593,-80.3483
-790,3048 Mayfield Crossing,Birmingham,Alabama,35254,33.5446,-86.9292
-791,02 Arizona Park,Jamaica,New York,11470,40.6914,-73.8061
-792,5746 Bunting Center,Fort Lauderdale,Florida,33330,26.0663,-80.3339
-793,64555 Sutherland Court,Houston,Texas,77240,29.834,-95.4342
-794,594 Duke Parkway,Erie,Pennsylvania,16565,42.1827,-80.0649
-795,50 Crownhardt Alley,Anderson,Indiana,46015,40.0938,-85.6578
-796,8474 Fieldstone Court,Richmond,Virginia,23208,37.5593,-77.4471
-797,4348 Steensland Center,Tampa,Florida,33661,27.872,-82.4388
-798,162 Little Fleur Court,Jacksonville,Florida,32230,30.3449,-81.6831
-799,36486 Waubesa Drive,Oakland,California,94616,37.8044,-122.2698
-800,490 Hayes Road,Longview,Texas,75605,32.5547,-94.7767
+767,172 Hollow Ridge Drive,Charleston,West Virginia,25389.0,38.354,-81.6394
+768,74 Meadow Ridge Lane,Washington,District of Columbia,20244.0,38.8933,-77.0146
+769,99693 Stuart Road,Lubbock,Texas,79452.0,33.61,-101.8213
+770,6 Mcguire Plaza,Fort Lauderdale,Florida,33330.0,26.0663,-80.3339
+771,0111 Mosinee Trail,Arlington,Virginia,22205.0,38.8836,-77.1395
+772,46 Tennessee Junction,San Francisco,California,94159.0,37.7848,-122.7278
+773,59 La Follette Pass,Nashville,Tennessee,37245.0,36.1866,-86.7852
+774,88 Fuller Plaza,Hyattsville,Maryland,20784.0,38.9513,-76.8958
+775,74 Ludington Circle,Detroit,Michigan,48242.0,42.2166,-83.3532
+776,562 Goodland Hill,Fort Myers,Florida,33994.0,26.5529,-81.9486
+777,9 Fairview Avenue,El Paso,Texas,79923.0,31.6948,-106.3
+778,070 West Terrace,Wilmington,North Carolina,28410.0,34.0881,-77.8526
+779,621 Mallory Street,Albuquerque,New Mexico,87110.0,35.1104,-106.5781
+780,5 Summer Ridge Street,Melbourne,Florida,32941.0,27.9246,-80.5235
+781,7169 Petterle Court,El Paso,Texas,79923.0,31.6948,-106.3
+782,29974 Merchant Plaza,Springfield,Massachusetts,1152.0,42.1707,-72.6048
+783,8 Bobwhite Plaza,Detroit,Michigan,48295.0,42.2399,-83.1508
+784,09638 Bunting Plaza,Lafayette,Louisiana,70593.0,30.2081,-92.0951
+785,3 Gina Trail,Seattle,Washington,98121.0,47.6151,-122.3447
+786,96179 Continental Terrace,Houston,Texas,77040.0,29.8744,-95.5278
+787,806 Magdeline Circle,Roanoke,Virginia,24029.0,37.2742,-79.9579
+788,61 Bowman Avenue,Macon,Georgia,31210.0,32.8926,-83.7455
+789,1 Victoria Trail,Miami,Florida,33190.0,25.5593,-80.3483
+790,3048 Mayfield Crossing,Birmingham,Alabama,35254.0,33.5446,-86.9292
+791,02 Arizona Park,Jamaica,New York,11470.0,40.6914,-73.8061
+792,5746 Bunting Center,Fort Lauderdale,Florida,33330.0,26.0663,-80.3339
+793,64555 Sutherland Court,Houston,Texas,77240.0,29.834,-95.4342
+794,594 Duke Parkway,Erie,Pennsylvania,16565.0,42.1827,-80.0649
+795,50 Crownhardt Alley,Anderson,Indiana,46015.0,40.0938,-85.6578
+796,8474 Fieldstone Court,Richmond,Virginia,23208.0,37.5593,-77.4471
+797,4348 Steensland Center,Tampa,Florida,33661.0,27.872,-82.4388
+798,162 Little Fleur Court,Jacksonville,Florida,32230.0,30.3449,-81.6831
+799,36486 Waubesa Drive,Oakland,California,94616.0,37.8044,-122.2698
+800,490 Hayes Road,Longview,Texas,75605.0,32.5547,-94.7767
 801,44741 Parkside Circle,Phoenix,Arizona,,33.3022,-112.1226
 802,32133 Coleman Plaza,Palo Alto,California,,37.1894,-121.7053
-803,72841 Mayfield Pass,Young America,Minnesota,55573,45.0159,-93.4719
-804,135 Debs Hill,Allentown,Pennsylvania,18105,40.6934,-75.4712
+803,72841 Mayfield Pass,Young America,Minnesota,55573.0,45.0159,-93.4719
+804,135 Debs Hill,Allentown,Pennsylvania,18105.0,40.6934,-75.4712
 805,331 Jackson Circle,El Paso,Texas,,31.9386,-106.4073
-806,59854 Carioca Lane,Daytona Beach,Florida,32128,29.0838,-81.0336
-807,46063 Westend Place,Toledo,Ohio,43699,41.6538,-83.6589
-808,5234 Ruskin Parkway,Sioux Falls,South Dakota,57105,43.524,-96.7341
-809,20 Blackbird Center,Jacksonville,Florida,32215,30.2407,-81.893
-810,3200 Grayhawk Hill,Wichita,Kansas,67215,37.6333,-97.425
-811,74169 Knutson Junction,Carson City,Nevada,89706,39.2025,-119.7526
-812,8358 Lake View Hill,Santa Barbara,California,93111,34.4453,-119.8025
-813,3 Cordelia Trail,Portsmouth,New Hampshire,03804,43.0059,-71.0132
-814,63 Bultman Center,Kansas City,Missouri,64136,39.0187,-94.4008
-815,956 Westerfield Point,San Antonio,Texas,78215,29.4413,-98.4793
+806,59854 Carioca Lane,Daytona Beach,Florida,32128.0,29.0838,-81.0336
+807,46063 Westend Place,Toledo,Ohio,43699.0,41.6538,-83.6589
+808,5234 Ruskin Parkway,Sioux Falls,South Dakota,57105.0,43.524,-96.7341
+809,20 Blackbird Center,Jacksonville,Florida,32215.0,30.2407,-81.893
+810,3200 Grayhawk Hill,Wichita,Kansas,67215.0,37.6333,-97.425
+811,74169 Knutson Junction,Carson City,Nevada,89706.0,39.2025,-119.7526
+812,8358 Lake View Hill,Santa Barbara,California,93111.0,34.4453,-119.8025
+813,3 Cordelia Trail,Portsmouth,New Hampshire,3804.0,43.0059,-71.0132
+814,63 Bultman Center,Kansas City,Missouri,64136.0,39.0187,-94.4008
+815,956 Westerfield Point,San Antonio,Texas,78215.0,29.4413,-98.4793
 816,4 Onsgard Crossing,Aurora,Illinois,,41.7582,-88.2971
-817,39 Havey Street,Pensacola,Florida,32575,30.6143,-87.2758
-818,38132 Monica Avenue,Baton Rouge,Louisiana,70805,30.486,-91.1481
-819,2 Buell Junction,Baltimore,Maryland,21239,39.361,-76.5891
-820,51890 5th Way,Lake Charles,Louisiana,70607,30.1244,-93.1835
-821,253 Milwaukee Road,Houston,Texas,77040,29.8744,-95.5278
-822,571 Redwing Road,Pasadena,California,91186,33.7866,-118.2987
-823,6882 Lerdahl Trail,Augusta,Georgia,30911,33.386,-82.091
-824,9 Hoard Terrace,Saint Paul,Minnesota,55108,44.9806,-93.1771
-825,99 Esker Hill,Reno,Nevada,89519,39.4814,-119.8591
-826,4586 Waywood Crossing,Kansas City,Missouri,64193,39.035,-94.3567
-827,61 Ramsey Plaza,Lubbock,Texas,79452,33.61,-101.8213
-828,81 Shelley Drive,Pensacola,Florida,32575,30.6143,-87.2758
-829,64 John Wall Court,Milwaukee,Wisconsin,53210,43.0685,-87.9715
-830,58198 Tennessee Point,Kansas City,Missouri,64136,39.0187,-94.4008
-831,8219 Rieder Alley,Irvine,California,92717,33.6462,-117.8398
-832,46524 Goodland Crossing,Fort Worth,Texas,76105,32.7233,-97.269
-833,968 6th Parkway,Evansville,Indiana,47705,37.9971,-87.575
-834,62124 Bartelt Park,Sacramento,California,94245,38.3774,-121.4444
-835,46 Hintze Pass,Charleston,South Carolina,29411,32.8715,-79.9947
-836,149 Kedzie Hill,North Hollywood,California,91616,33.7866,-118.2987
-837,792 Northfield Pass,Memphis,Tennessee,38143,35.2017,-89.9715
-838,42 Macpherson Terrace,Durham,North Carolina,27717,36.0512,-78.8577
+817,39 Havey Street,Pensacola,Florida,32575.0,30.6143,-87.2758
+818,38132 Monica Avenue,Baton Rouge,Louisiana,70805.0,30.486,-91.1481
+819,2 Buell Junction,Baltimore,Maryland,21239.0,39.361,-76.5891
+820,51890 5th Way,Lake Charles,Louisiana,70607.0,30.1244,-93.1835
+821,253 Milwaukee Road,Houston,Texas,77040.0,29.8744,-95.5278
+822,571 Redwing Road,Pasadena,California,91186.0,33.7866,-118.2987
+823,6882 Lerdahl Trail,Augusta,Georgia,30911.0,33.386,-82.091
+824,9 Hoard Terrace,Saint Paul,Minnesota,55108.0,44.9806,-93.1771
+825,99 Esker Hill,Reno,Nevada,89519.0,39.4814,-119.8591
+826,4586 Waywood Crossing,Kansas City,Missouri,64193.0,39.035,-94.3567
+827,61 Ramsey Plaza,Lubbock,Texas,79452.0,33.61,-101.8213
+828,81 Shelley Drive,Pensacola,Florida,32575.0,30.6143,-87.2758
+829,64 John Wall Court,Milwaukee,Wisconsin,53210.0,43.0685,-87.9715
+830,58198 Tennessee Point,Kansas City,Missouri,64136.0,39.0187,-94.4008
+831,8219 Rieder Alley,Irvine,California,92717.0,33.6462,-117.8398
+832,46524 Goodland Crossing,Fort Worth,Texas,76105.0,32.7233,-97.269
+833,968 6th Parkway,Evansville,Indiana,47705.0,37.9971,-87.575
+834,62124 Bartelt Park,Sacramento,California,94245.0,38.3774,-121.4444
+835,46 Hintze Pass,Charleston,South Carolina,29411.0,32.8715,-79.9947
+836,149 Kedzie Hill,North Hollywood,California,91616.0,33.7866,-118.2987
+837,792 Northfield Pass,Memphis,Tennessee,38143.0,35.2017,-89.9715
+838,42 Macpherson Terrace,Durham,North Carolina,27717.0,36.0512,-78.8577
 839,84530 Park Meadow Avenue,Boca Raton,Florida,,26.4116,-80.0928
-840,8663 Mesta Junction,Omaha,Nebraska,68144,41.2335,-96.1188
-841,559 Dapin Plaza,Omaha,Nebraska,68110,41.2933,-95.9361
-842,486 Fairfield Center,Arlington,Virginia,22244,38.8545,-77.052
-843,49518 Myrtle Parkway,Charlotte,North Carolina,28278,35.2072,-80.9568
-844,1522 Tennessee Point,Spokane,Washington,99220,47.6536,-117.4317
-845,32 Texas Center,Merrifield,Virginia,22119,38.8318,-77.2888
-846,72272 Dovetail Street,Knoxville,Tennessee,37924,36.032,-83.8021
-847,160 Mitchell Pass,Madison,Wisconsin,53710,43.0696,-89.4239
-848,632 Browning Park,Lubbock,Texas,79405,33.571,-101.8507
-849,073 Manufacturers Junction,El Paso,Texas,88530,31.6948,-106.3
-850,72 Hanover Junction,Fort Pierce,Florida,34981,27.4049,-80.3623
-851,8486 Ilene Road,Charleston,West Virginia,25313,38.4142,-81.7582
-852,5 Sunnyside Pass,Stockton,California,95298,37.9577,-121.2897
-853,6527 Scoville Lane,Portland,Oregon,97229,45.5483,-122.8276
-854,3219 Ronald Regan Court,Saint Louis,Missouri,63169,38.6531,-90.2435
-855,4 Mccormick Road,Salt Lake City,Utah,84199,40.7259,-111.9394
-856,4922 Spaight Point,Pensacola,Florida,32595,30.6143,-87.2758
-857,5 Mockingbird Way,West Palm Beach,Florida,33411,26.6644,-80.1741
+840,8663 Mesta Junction,Omaha,Nebraska,68144.0,41.2335,-96.1188
+841,559 Dapin Plaza,Omaha,Nebraska,68110.0,41.2933,-95.9361
+842,486 Fairfield Center,Arlington,Virginia,22244.0,38.8545,-77.052
+843,49518 Myrtle Parkway,Charlotte,North Carolina,28278.0,35.2072,-80.9568
+844,1522 Tennessee Point,Spokane,Washington,99220.0,47.6536,-117.4317
+845,32 Texas Center,Merrifield,Virginia,22119.0,38.8318,-77.2888
+846,72272 Dovetail Street,Knoxville,Tennessee,37924.0,36.032,-83.8021
+847,160 Mitchell Pass,Madison,Wisconsin,53710.0,43.0696,-89.4239
+848,632 Browning Park,Lubbock,Texas,79405.0,33.571,-101.8507
+849,073 Manufacturers Junction,El Paso,Texas,88530.0,31.6948,-106.3
+850,72 Hanover Junction,Fort Pierce,Florida,34981.0,27.4049,-80.3623
+851,8486 Ilene Road,Charleston,West Virginia,25313.0,38.4142,-81.7582
+852,5 Sunnyside Pass,Stockton,California,95298.0,37.9577,-121.2897
+853,6527 Scoville Lane,Portland,Oregon,97229.0,45.5483,-122.8276
+854,3219 Ronald Regan Court,Saint Louis,Missouri,63169.0,38.6531,-90.2435
+855,4 Mccormick Road,Salt Lake City,Utah,84199.0,40.7259,-111.9394
+856,4922 Spaight Point,Pensacola,Florida,32595.0,30.6143,-87.2758
+857,5 Mockingbird Way,West Palm Beach,Florida,33411.0,26.6644,-80.1741
 858,9644 Saint Paul Road,Fort Smith,Arkansas,,35.2502,-94.3703
-859,0228 Reindahl Pass,Buffalo,New York,14263,42.7684,-78.8871
-860,65276 Corben Terrace,Mobile,Alabama,36641,30.6589,-88.178
-861,8 Scott Center,Evansville,Indiana,47737,37.9971,-87.575
-862,8 Karstens Drive,Raleigh,North Carolina,27626,35.7977,-78.6253
-863,9535 Packers Street,Jamaica,New York,11407,40.6913,-73.8059
-864,12 Crescent Oaks Street,Duluth,Georgia,30195,34.0047,-84.1532
+859,0228 Reindahl Pass,Buffalo,New York,14263.0,42.7684,-78.8871
+860,65276 Corben Terrace,Mobile,Alabama,36641.0,30.6589,-88.178
+861,8 Scott Center,Evansville,Indiana,47737.0,37.9971,-87.575
+862,8 Karstens Drive,Raleigh,North Carolina,27626.0,35.7977,-78.6253
+863,9535 Packers Street,Jamaica,New York,11407.0,40.6913,-73.8059
+864,12 Crescent Oaks Street,Duluth,Georgia,30195.0,34.0047,-84.1532
 865,09416 Karstens Court,Jeffersonville,Indiana,,38.2868,-85.7321
-866,286 Forest Dale Alley,Albany,New York,12242,42.6149,-73.9708
-867,92 Helena Pass,Wilmington,North Carolina,28410,34.0881,-77.8526
-868,7941 Saint Paul Drive,Oklahoma City,Oklahoma,73179,35.4242,-97.6547
-869,204 Independence Way,Memphis,Tennessee,38161,35.2017,-89.9715
-870,16 Upham Street,Trenton,New Jersey,08603,40.2805,-74.712
-871,78 Lake View Hill,Kalamazoo,Michigan,49006,42.2922,-85.633
-872,8762 Menomonie Court,Austin,Texas,78749,30.2166,-97.8508
-873,231 Coleman Drive,Joliet,Illinois,60435,41.5454,-88.1299
-874,41969 Independence Road,Atlanta,Georgia,30386,33.8444,-84.474
-875,14532 Oxford Trail,Erie,Pennsylvania,16534,42.1827,-80.0649
-876,94294 Leroy Parkway,Shawnee Mission,Kansas,66276,38.8999,-94.832
-877,6091 Hagan Hill,Saint Paul,Minnesota,55166,45.0059,-93.1059
-878,7 Cardinal Court,Montpelier,Vermont,05609,44.2595,-72.585
-879,40 Service Court,Jacksonville,Florida,32244,30.2231,-81.7556
-880,64 Bluestem Road,Phoenix,Arizona,85077,33.2765,-112.1872
-881,99668 Eliot Court,Kansas City,Missouri,64179,39.035,-94.3567
-882,703 Summer Ridge Way,Dayton,Ohio,45403,39.7617,-84.1498
+866,286 Forest Dale Alley,Albany,New York,12242.0,42.6149,-73.9708
+867,92 Helena Pass,Wilmington,North Carolina,28410.0,34.0881,-77.8526
+868,7941 Saint Paul Drive,Oklahoma City,Oklahoma,73179.0,35.4242,-97.6547
+869,204 Independence Way,Memphis,Tennessee,38161.0,35.2017,-89.9715
+870,16 Upham Street,Trenton,New Jersey,8603.0,40.2805,-74.712
+871,78 Lake View Hill,Kalamazoo,Michigan,49006.0,42.2922,-85.633
+872,8762 Menomonie Court,Austin,Texas,78749.0,30.2166,-97.8508
+873,231 Coleman Drive,Joliet,Illinois,60435.0,41.5454,-88.1299
+874,41969 Independence Road,Atlanta,Georgia,30386.0,33.8444,-84.474
+875,14532 Oxford Trail,Erie,Pennsylvania,16534.0,42.1827,-80.0649
+876,94294 Leroy Parkway,Shawnee Mission,Kansas,66276.0,38.8999,-94.832
+877,6091 Hagan Hill,Saint Paul,Minnesota,55166.0,45.0059,-93.1059
+878,7 Cardinal Court,Montpelier,Vermont,5609.0,44.2595,-72.585
+879,40 Service Court,Jacksonville,Florida,32244.0,30.2231,-81.7556
+880,64 Bluestem Road,Phoenix,Arizona,85077.0,33.2765,-112.1872
+881,99668 Eliot Court,Kansas City,Missouri,64179.0,39.035,-94.3567
+882,703 Summer Ridge Way,Dayton,Ohio,45403.0,39.7617,-84.1498
 883,2 Northport Road,Round Rock,Texas,,30.6568,-97.6026
-884,01 Bunker Hill Alley,Chicago,Illinois,60641,41.9453,-87.7474
-885,23 Lawn Road,Indianapolis,Indiana,46247,39.7795,-86.1328
-886,9 Granby Alley,El Paso,Texas,79994,31.6948,-106.3
-887,63639 Bashford Hill,Phoenix,Arizona,85077,33.2765,-112.1872
-888,79 5th Pass,Columbus,Mississippi,39705,33.5508,-88.4865
+884,01 Bunker Hill Alley,Chicago,Illinois,60641.0,41.9453,-87.7474
+885,23 Lawn Road,Indianapolis,Indiana,46247.0,39.7795,-86.1328
+886,9 Granby Alley,El Paso,Texas,79994.0,31.6948,-106.3
+887,63639 Bashford Hill,Phoenix,Arizona,85077.0,33.2765,-112.1872
+888,79 5th Pass,Columbus,Mississippi,39705.0,33.5508,-88.4865
 889,62383 Dexter Drive,Lima,Ohio,,40.7955,-84.1383
-890,68 Golf View Plaza,Tampa,Florida,33615,28.0081,-82.5805
-891,7478 Oriole Pass,El Paso,Texas,88541,31.6948,-106.3
-892,0770 Esker Road,Dallas,Texas,75287,33.0005,-96.8314
-893,38877 Bobwhite Pass,Bradenton,Florida,34210,27.4544,-82.6358
-894,2783 Knutson Lane,Cheyenne,Wyoming,82007,41.1084,-104.8107
-895,14 3rd Pass,Pensacola,Florida,32520,30.4124,-87.2035
-896,0942 Delladonna Trail,Phoenix,Arizona,85077,33.2765,-112.1872
-897,64407 Dapin Drive,Roanoke,Virginia,24029,37.2742,-79.9579
-898,2412 Holmberg Crossing,Sandy,Utah,84093,40.5927,-111.831
-899,5804 Upham Street,Columbus,Georgia,31998,32.491,-84.8741
-900,827 Goodland Place,Austin,Texas,78769,30.3264,-97.7713
+890,68 Golf View Plaza,Tampa,Florida,33615.0,28.0081,-82.5805
+891,7478 Oriole Pass,El Paso,Texas,88541.0,31.6948,-106.3
+892,0770 Esker Road,Dallas,Texas,75287.0,33.0005,-96.8314
+893,38877 Bobwhite Pass,Bradenton,Florida,34210.0,27.4544,-82.6358
+894,2783 Knutson Lane,Cheyenne,Wyoming,82007.0,41.1084,-104.8107
+895,14 3rd Pass,Pensacola,Florida,32520.0,30.4124,-87.2035
+896,0942 Delladonna Trail,Phoenix,Arizona,85077.0,33.2765,-112.1872
+897,64407 Dapin Drive,Roanoke,Virginia,24029.0,37.2742,-79.9579
+898,2412 Holmberg Crossing,Sandy,Utah,84093.0,40.5927,-111.831
+899,5804 Upham Street,Columbus,Georgia,31998.0,32.491,-84.8741
+900,827 Goodland Place,Austin,Texas,78769.0,30.3264,-97.7713
 901,19 Steensland Park,Lubbock,Texas,,33.5693,-101.8904
-902,9055 Corscot Road,Dayton,Ohio,45426,39.7982,-84.3211
-903,58352 Sauthoff Crossing,San Jose,California,95173,37.3352,-121.8938
-904,05 Superior Plaza,San Francisco,California,94154,37.7848,-122.7278
-905,73 4th Parkway,Houston,Texas,77055,29.7971,-95.4958
-906,3 Farragut Junction,Salt Lake City,Utah,84199,40.7259,-111.9394
-907,87352 Dovetail Court,Hagerstown,Maryland,21747,39.5207,-77.9162
-908,739 Nevada Pass,Cincinnati,Ohio,45238,39.1092,-84.6108
+902,9055 Corscot Road,Dayton,Ohio,45426.0,39.7982,-84.3211
+903,58352 Sauthoff Crossing,San Jose,California,95173.0,37.3352,-121.8938
+904,05 Superior Plaza,San Francisco,California,94154.0,37.7848,-122.7278
+905,73 4th Parkway,Houston,Texas,77055.0,29.7971,-95.4958
+906,3 Farragut Junction,Salt Lake City,Utah,84199.0,40.7259,-111.9394
+907,87352 Dovetail Court,Hagerstown,Maryland,21747.0,39.5207,-77.9162
+908,739 Nevada Pass,Cincinnati,Ohio,45238.0,39.1092,-84.6108
 909,7166 Towne Terrace,Springfield,Massachusetts,,42.0999,-72.5783
-910,0 Monument Pass,Philadelphia,Pennsylvania,19151,39.9772,-75.2545
-911,925 3rd Park,El Paso,Texas,79911,31.8925,-106.5426
-912,27238 Kenwood Drive,Petaluma,California,94975,38.4631,-122.99
-913,14705 Raven Drive,Sacramento,California,94207,38.3774,-121.4444
-914,19 Charing Cross Parkway,Marietta,Georgia,30061,33.9328,-84.556
-915,6 Lawn Avenue,Brooklyn,New York,11231,40.6794,-74.0014
-916,06600 Starling Hill,White Plains,New York,10606,41.0247,-73.7781
-917,09963 Utah Place,Orange,California,92867,33.811,-117.8493
-918,29033 Mariners Cove Terrace,Kansas City,Missouri,64114,38.9621,-94.5959
-919,42974 Paget Circle,Brooksville,Florida,34605,28.5059,-82.4226
-920,4 Hagan Hill,Albuquerque,New Mexico,87201,35.0443,-106.6729
-921,8741 Anhalt Junction,Boulder,Colorado,80310,40.0878,-105.3735
-922,02 Gerald Pass,Maple Plain,Minnesota,55572,45.0159,-93.4719
+910,0 Monument Pass,Philadelphia,Pennsylvania,19151.0,39.9772,-75.2545
+911,925 3rd Park,El Paso,Texas,79911.0,31.8925,-106.5426
+912,27238 Kenwood Drive,Petaluma,California,94975.0,38.4631,-122.99
+913,14705 Raven Drive,Sacramento,California,94207.0,38.3774,-121.4444
+914,19 Charing Cross Parkway,Marietta,Georgia,30061.0,33.9328,-84.556
+915,6 Lawn Avenue,Brooklyn,New York,11231.0,40.6794,-74.0014
+916,06600 Starling Hill,White Plains,New York,10606.0,41.0247,-73.7781
+917,09963 Utah Place,Orange,California,92867.0,33.811,-117.8493
+918,29033 Mariners Cove Terrace,Kansas City,Missouri,64114.0,38.9621,-94.5959
+919,42974 Paget Circle,Brooksville,Florida,34605.0,28.5059,-82.4226
+920,4 Hagan Hill,Albuquerque,New Mexico,87201.0,35.0443,-106.6729
+921,8741 Anhalt Junction,Boulder,Colorado,80310.0,40.0878,-105.3735
+922,02 Gerald Pass,Maple Plain,Minnesota,55572.0,45.0159,-93.4719
 923,81 Hooker Pass,Minneapolis,Minnesota,,45.0058,-93.4193
-924,617 Oak Plaza,Jamaica,New York,11407,40.6913,-73.8059
-925,40 Homewood Place,New York City,New York,10125,40.7808,-73.9772
-926,086 Blue Bill Park Drive,Sacramento,California,94273,38.3774,-121.4444
-927,09717 Badeau Circle,San Antonio,Texas,78215,29.4413,-98.4793
-928,41 Sachs Place,Los Angeles,California,90076,33.7866,-118.2987
-929,1717 Springview Place,Chicago,Illinois,60619,41.7458,-87.6054
-930,8192 Commercial Street,Los Angeles,California,90101,33.7866,-118.2987
-931,40 Scoville Way,Edmond,Oklahoma,73034,35.6665,-97.4798
-932,2 Tony Plaza,Pasadena,Texas,77505,29.6518,-95.1464
-933,8 Warbler Road,Richmond,Virginia,23289,37.5313,-77.4161
+924,617 Oak Plaza,Jamaica,New York,11407.0,40.6913,-73.8059
+925,40 Homewood Place,New York City,New York,10125.0,40.7808,-73.9772
+926,086 Blue Bill Park Drive,Sacramento,California,94273.0,38.3774,-121.4444
+927,09717 Badeau Circle,San Antonio,Texas,78215.0,29.4413,-98.4793
+928,41 Sachs Place,Los Angeles,California,90076.0,33.7866,-118.2987
+929,1717 Springview Place,Chicago,Illinois,60619.0,41.7458,-87.6054
+930,8192 Commercial Street,Los Angeles,California,90101.0,33.7866,-118.2987
+931,40 Scoville Way,Edmond,Oklahoma,73034.0,35.6665,-97.4798
+932,2 Tony Plaza,Pasadena,Texas,77505.0,29.6518,-95.1464
+933,8 Warbler Road,Richmond,Virginia,23289.0,37.5313,-77.4161
 934,9482 Magdeline Center,Saint Paul,Minnesota,,45.0803,-93.0875
-935,73 Eagle Crest Crossing,Beaufort,South Carolina,29905,32.3401,-80.689
-936,69146 Sutteridge Pass,Raleigh,North Carolina,27690,35.7977,-78.6253
-937,27 Cambridge Alley,Washington,District of Columbia,20238,38.8933,-77.0146
-938,49 Vernon Pass,Philadelphia,Pennsylvania,19141,40.0365,-75.1451
+935,73 Eagle Crest Crossing,Beaufort,South Carolina,29905.0,32.3401,-80.689
+936,69146 Sutteridge Pass,Raleigh,North Carolina,27690.0,35.7977,-78.6253
+937,27 Cambridge Alley,Washington,District of Columbia,20238.0,38.8933,-77.0146
+938,49 Vernon Pass,Philadelphia,Pennsylvania,19141.0,40.0365,-75.1451
 939,7965 Kingsford Point,Rochester,New York,,43.286,-77.6843
-940,8 Ridgeway Center,Mansfield,Ohio,44905,40.7779,-82.4613
+940,8 Ridgeway Center,Mansfield,Ohio,44905.0,40.7779,-82.4613
 941,94 Gina Avenue,Monticello,Minnesota,,45.2009,-93.8881
-942,42929 Oak Trail,Evansville,Indiana,47747,37.9971,-87.575
-943,0159 Surrey Pass,Macon,Georgia,31217,32.8118,-83.565
-944,583 Boyd Hill,Chula Vista,California,91913,32.6513,-116.9852
-945,16 Donald Place,Roanoke,Virginia,24040,37.2742,-79.9579
-946,34891 Thackeray Circle,Topeka,Kansas,66617,39.1271,-95.6384
+942,42929 Oak Trail,Evansville,Indiana,47747.0,37.9971,-87.575
+943,0159 Surrey Pass,Macon,Georgia,31217.0,32.8118,-83.565
+944,583 Boyd Hill,Chula Vista,California,91913.0,32.6513,-116.9852
+945,16 Donald Place,Roanoke,Virginia,24040.0,37.2742,-79.9579
+946,34891 Thackeray Circle,Topeka,Kansas,66617.0,39.1271,-95.6384
 947,401 Monica Street,Glendale,Arizona,,33.2765,-112.1872
-948,61820 Clyde Gallagher Circle,Englewood,Colorado,80150,39.7388,-104.4083
-949,89859 West Center,Tulsa,Oklahoma,74116,36.175,-95.8477
-950,5371 Sage Plaza,San Diego,California,92115,32.7607,-117.0721
-951,99595 Hollow Ridge Crossing,New York City,New York,10280,40.7105,-74.0163
-952,434 Shasta Street,Rockford,Illinois,61110,42.3254,-89.1705
+948,61820 Clyde Gallagher Circle,Englewood,Colorado,80150.0,39.7388,-104.4083
+949,89859 West Center,Tulsa,Oklahoma,74116.0,36.175,-95.8477
+950,5371 Sage Plaza,San Diego,California,92115.0,32.7607,-117.0721
+951,99595 Hollow Ridge Crossing,New York City,New York,10280.0,40.7105,-74.0163
+952,434 Shasta Street,Rockford,Illinois,61110.0,42.3254,-89.1705
 953,26954 Oak Valley Lane,Duluth,Minnesota,,46.8147,-92.1998
-954,21730 Eastlawn Lane,Savannah,Georgia,31405,32.0391,-81.1242
-955,628 Bunker Hill Lane,Redwood City,California,94064,37.3811,-122.3348
-956,554 Bluestem Trail,Dayton,Ohio,45403,39.7617,-84.1498
+954,21730 Eastlawn Lane,Savannah,Georgia,31405.0,32.0391,-81.1242
+955,628 Bunker Hill Lane,Redwood City,California,94064.0,37.3811,-122.3348
+956,554 Bluestem Trail,Dayton,Ohio,45403.0,39.7617,-84.1498
 957,2 Schurz Place,San Antonio,Texas,,29.3875,-98.5245
-958,0 Mallard Crossing,Seattle,Washington,98127,47.6063,-122.3308
-959,8263 Maryland Terrace,Youngstown,Ohio,44511,41.0704,-80.6931
-960,00 Towne Parkway,Ogden,Utah,84409,41.2553,-111.9567
-961,685 Annamark Way,Salt Lake City,Utah,84130,40.6681,-111.9083
-962,4 Farragut Street,Knoxville,Tennessee,37919,35.9244,-84.0015
-963,82353 Vernon Terrace,Houston,Texas,77266,29.834,-95.4342
-964,072 Lien Park,Tampa,Florida,33633,27.872,-82.4388
-965,7976 Crest Line Way,Billings,Montana,59105,45.9497,-108.599
-966,8 Oakridge Way,Los Angeles,California,90030,33.7866,-118.2987
-967,652 Schlimgen Plaza,Washington,District of Columbia,20370,38.8933,-77.0146
-968,48 Holmberg Court,Austin,Texas,78721,30.2721,-97.6868
-969,94295 Lien Road,Cincinnati,Ohio,45264,39.1668,-84.5382
-970,554 Hudson Street,Anderson,South Carolina,29625,34.5271,-82.7087
-971,44 Crowley Lane,Greensboro,North Carolina,27415,36.0807,-80.0244
-972,6 Fairview Circle,San Jose,California,95194,37.3894,-121.8868
-973,4 Anniversary Terrace,Valdosta,Georgia,31605,30.946,-83.2474
-974,77 Manitowish Plaza,Winston Salem,North Carolina,27116,36.0275,-80.2073
-975,2 Transport Court,Portland,Oregon,97229,45.5483,-122.8276
-976,1572 Rusk Drive,Shreveport,Louisiana,71115,32.3401,-93.6092
-977,95252 Stuart Junction,Carson City,Nevada,89706,39.2025,-119.7526
-978,05624 Bartelt Parkway,New Orleans,Louisiana,70142,30.033,-89.8826
-979,9850 Waxwing Street,Waco,Texas,76711,31.5175,-97.1547
-980,401 Montana Place,Jamaica,New York,11431,40.6869,-73.8501
+958,0 Mallard Crossing,Seattle,Washington,98127.0,47.6063,-122.3308
+959,8263 Maryland Terrace,Youngstown,Ohio,44511.0,41.0704,-80.6931
+960,00 Towne Parkway,Ogden,Utah,84409.0,41.2553,-111.9567
+961,685 Annamark Way,Salt Lake City,Utah,84130.0,40.6681,-111.9083
+962,4 Farragut Street,Knoxville,Tennessee,37919.0,35.9244,-84.0015
+963,82353 Vernon Terrace,Houston,Texas,77266.0,29.834,-95.4342
+964,072 Lien Park,Tampa,Florida,33633.0,27.872,-82.4388
+965,7976 Crest Line Way,Billings,Montana,59105.0,45.9497,-108.599
+966,8 Oakridge Way,Los Angeles,California,90030.0,33.7866,-118.2987
+967,652 Schlimgen Plaza,Washington,District of Columbia,20370.0,38.8933,-77.0146
+968,48 Holmberg Court,Austin,Texas,78721.0,30.2721,-97.6868
+969,94295 Lien Road,Cincinnati,Ohio,45264.0,39.1668,-84.5382
+970,554 Hudson Street,Anderson,South Carolina,29625.0,34.5271,-82.7087
+971,44 Crowley Lane,Greensboro,North Carolina,27415.0,36.0807,-80.0244
+972,6 Fairview Circle,San Jose,California,95194.0,37.3894,-121.8868
+973,4 Anniversary Terrace,Valdosta,Georgia,31605.0,30.946,-83.2474
+974,77 Manitowish Plaza,Winston Salem,North Carolina,27116.0,36.0275,-80.2073
+975,2 Transport Court,Portland,Oregon,97229.0,45.5483,-122.8276
+976,1572 Rusk Drive,Shreveport,Louisiana,71115.0,32.3401,-93.6092
+977,95252 Stuart Junction,Carson City,Nevada,89706.0,39.2025,-119.7526
+978,05624 Bartelt Parkway,New Orleans,Louisiana,70142.0,30.033,-89.8826
+979,9850 Waxwing Street,Waco,Texas,76711.0,31.5175,-97.1547
+980,401 Montana Place,Jamaica,New York,11431.0,40.6869,-73.8501
 981,6 Prairieview Center,Garland,Texas,,32.7673,-96.7776
-982,828 Shopko Court,Sacramento,California,94297,38.3774,-121.4444
-983,896 Northview Pass,Honolulu,Hawaii,96805,21.3062,-157.8585
-984,4673 Hollow Ridge Plaza,Houston,Texas,77095,29.8941,-95.6481
-985,451 Michigan Road,Des Moines,Iowa,50310,41.6255,-93.6736
-986,88316 Quincy Court,Oklahoma City,Oklahoma,73129,35.4312,-97.4913
-987,663 Orin Pass,Fort Worth,Texas,76121,32.7714,-97.2915
-988,7 Merry Trail,Anchorage,Alaska,99599,61.1872,-149.8804
-989,56392 Saint Paul Crossing,Wichita,Kansas,67215,37.6333,-97.425
-990,55 Arizona Circle,Washington,District of Columbia,20442,38.896,-77.0177
-991,1 Grayhawk Trail,Dayton,Ohio,45414,39.8285,-84.2024
-992,940 Calypso Point,Van Nuys,California,91406,34.2006,-118.4868
-993,750 Birchwood Court,Oxnard,California,93034,34.0324,-119.1343
-994,9001 Kinsman Center,Springfield,Illinois,62718,39.778,-89.6466
-995,2 Portage Hill,Lincoln,Nebraska,68524,40.8529,-96.7943
-996,993 Raven Crossing,Midland,Michigan,48670,43.6375,-84.2568
-997,54 Tomscot Street,Rochester,New York,14604,43.1577,-77.608
-998,2802 Stephen Park,Charlotte,North Carolina,28247,35.0656,-80.8511
-999,06546 Melvin Point,Newark,New Jersey,07188,40.7918,-74.2452
+982,828 Shopko Court,Sacramento,California,94297.0,38.3774,-121.4444
+983,896 Northview Pass,Honolulu,Hawaii,96805.0,21.3062,-157.8585
+984,4673 Hollow Ridge Plaza,Houston,Texas,77095.0,29.8941,-95.6481
+985,451 Michigan Road,Des Moines,Iowa,50310.0,41.6255,-93.6736
+986,88316 Quincy Court,Oklahoma City,Oklahoma,73129.0,35.4312,-97.4913
+987,663 Orin Pass,Fort Worth,Texas,76121.0,32.7714,-97.2915
+988,7 Merry Trail,Anchorage,Alaska,99599.0,61.1872,-149.8804
+989,56392 Saint Paul Crossing,Wichita,Kansas,67215.0,37.6333,-97.425
+990,55 Arizona Circle,Washington,District of Columbia,20442.0,38.896,-77.0177
+991,1 Grayhawk Trail,Dayton,Ohio,45414.0,39.8285,-84.2024
+992,940 Calypso Point,Van Nuys,California,91406.0,34.2006,-118.4868
+993,750 Birchwood Court,Oxnard,California,93034.0,34.0324,-119.1343
+994,9001 Kinsman Center,Springfield,Illinois,62718.0,39.778,-89.6466
+995,2 Portage Hill,Lincoln,Nebraska,68524.0,40.8529,-96.7943
+996,993 Raven Crossing,Midland,Michigan,48670.0,43.6375,-84.2568
+997,54 Tomscot Street,Rochester,New York,14604.0,43.1577,-77.608
+998,2802 Stephen Park,Charlotte,North Carolina,28247.0,35.0656,-80.8511
+999,06546 Melvin Point,Newark,New Jersey,7188.0,40.7918,-74.2452
 1000,19289 Nevada Alley,Katy,Texas,,29.8678,-95.8298
+1001,5 Becker Place,Los Angeles,California,90094.0,33.9754,-118.417
+1002,9748 Victoria Park,Staten Island,New York,10305.0,40.5973,-74.0768
+1003,7 Wayridge Pass,New York City,New York,10060.0,40.7808,-73.9772
+1004,088 Manley Avenue,Chandler,Arizona,85246.0,33.2765,-112.1872
+1005,03807 Sage Place,Pittsburgh,Pennsylvania,15240.0,40.4344,-80.0248
+1006,7887 Ilene Plaza,Salt Lake City,Utah,84140.0,40.7713,-111.9309
+1007,333 Roxbury Junction,Iowa City,Iowa,52245.0,41.6649,-91.5151
+1008,73 Stoughton Lane,Dallas,Texas,75260.0,32.7673,-96.7776
+1009,31742 Comanche Street,Tucson,Arizona,,31.9701,-111.8907
+1010,76 Crowley Way,Lexington,Kentucky,40586.0,38.0283,-84.4715
+1011,430 Hanover Drive,Washington,District of Columbia,20420.0,38.9035,-77.0276
+1012,769 Oakridge Drive,Huntsville,Texas,77343.0,30.7813,-95.5953
+1013,66 Mesta Drive,Huntsville,Alabama,35815.0,34.734,-86.5229
+1014,2 Nelson Point,Cleveland,Ohio,,41.6857,-81.6728
+1015,7922 Quincy Alley,Washington,District of Columbia,20425.0,38.8933,-77.0146
+1016,97 Holy Cross Crossing,San Antonio,Texas,78210.0,29.3977,-98.4658
+1017,73817 Marquette Lane,Cincinnati,Ohio,45254.0,39.1668,-84.5382
+1018,07 Oak Valley Center,Port Saint Lucie,Florida,34985.0,27.3822,-80.409
+1019,019 Prairie Rose Circle,Cincinnati,Ohio,45218.0,39.2663,-84.5221
+1020,28 Butternut Plaza,Lynn,Massachusetts,1905.0,42.4694,-70.9728
+1021,0 Weeping Birch Terrace,Joliet,Illinois,60435.0,41.5454,-88.1299
+1022,9892 Browning Street,Cincinnati,Ohio,45271.0,39.1668,-84.5382
+1023,95 Hazelcrest Street,Grand Rapids,Michigan,49510.0,43.0314,-85.5503
+1024,351 Mcguire Circle,Wilmington,North Carolina,28410.0,34.0881,-77.8526
+1025,0263 Barnett Court,Miami,Florida,33169.0,25.9441,-80.2144
+1026,5878 Bobwhite Alley,Riverside,California,92519.0,33.7529,-116.0556
+1027,941 Mcbride Terrace,Dallas,Texas,75226.0,32.7887,-96.7676
+1028,5 Mandrake Parkway,Washington,District of Columbia,20420.0,38.9035,-77.0276
+1029,7 Sauthoff Terrace,Boulder,Colorado,80305.0,39.9807,-105.2531
+1030,03152 Sutherland Lane,Cleveland,Ohio,44111.0,41.4571,-81.7844
+1031,20 Green Alley,New York City,New York,10115.0,40.8111,-73.9642
+1032,159 Lien Circle,Edmond,Oklahoma,73034.0,35.6665,-97.4798
+1033,565 Stephen Pass,West Palm Beach,Florida,33421.0,26.6459,-80.4303
+1034,4 Eastlawn Trail,Minneapolis,Minnesota,,44.9054,-93.2361
+1035,4233 Heath Junction,Orange,California,92862.0,33.7915,-117.714
+1036,91 Transport Lane,Houston,Texas,77060.0,29.9335,-95.3981
+1037,99 Orin Avenue,Detroit,Michigan,48267.0,42.2399,-83.1508
+1038,24 Pawling Pass,El Paso,Texas,79934.0,31.9386,-106.4073
+1039,43 Donald Alley,Salt Lake City,Utah,84120.0,40.695,-112.0001
+1040,9 Birchwood Lane,Texarkana,Texas,,33.3934,-94.3404
+1041,9 Weeping Birch Trail,El Paso,Texas,79928.0,31.6631,-106.1401
+1042,0324 Old Shore Circle,Hyattsville,Maryland,20784.0,38.9513,-76.8958
+1043,155 Sachs Plaza,Schenectady,New York,12325.0,42.8333,-74.058
+1044,3 Westridge Way,Metairie,Louisiana,70033.0,29.6779,-90.0901
+1045,12119 La Follette Parkway,Washington,District of Columbia,20073.0,38.897,-77.0251
+1046,06769 Fair Oaks Street,Saint Louis,Missouri,63158.0,38.6531,-90.2435
+1047,39449 Golden Leaf Point,Port Washington,New York,11054.0,40.7548,-73.6018
+1048,195 Debs Center,Charleston,South Carolina,29416.0,32.8488,-79.8577
+1049,33 Sommers Place,Birmingham,Alabama,35295.0,33.5446,-86.9292
+1050,2 Division Way,Kansas City,Missouri,64144.0,39.2829,-94.409
+1051,12 Weeping Birch Pass,Houston,Texas,77045.0,29.6297,-95.4382
+1052,3044 Riverside Road,Houston,Texas,,29.834,-95.4342
+1053,9481 Kennedy Hill,Canton,Ohio,44720.0,40.8956,-81.433
+1054,87 Fisk Alley,Metairie,Louisiana,70005.0,30.0005,-90.1331
+1055,3 Morningstar Parkway,Baltimore,Maryland,21216.0,39.3093,-76.6699
+1056,72 Warrior Point,Saint Louis,Missouri,63143.0,38.6111,-90.3225
+1057,04 Heffernan Road,San Francisco,California,94147.0,37.7848,-122.7278
+1058,7678 Northport Terrace,Cambridge,Massachusetts,2142.0,42.362,-71.083
+1059,60044 Del Sol Plaza,Mobile,Alabama,36616.0,30.671,-88.1267
+1060,4 Morrow Pass,Cumming,Georgia,30130.0,34.2216,-84.1537
+1061,4 Nova Hill,Washington,District of Columbia,20099.0,38.8933,-77.0146
+1062,6 Donald Way,Corona,California,92883.0,33.7541,-117.474
+1063,310 Susan Pass,Topeka,Kansas,66667.0,39.0429,-95.7697
+1064,495 Meadow Ridge Lane,Portland,Oregon,97216.0,45.5137,-122.5569
+1065,497 Hanson Point,Lubbock,Texas,79405.0,33.571,-101.8507
+1066,89628 Bunker Hill Way,Columbus,Ohio,43268.0,39.969,-83.0114
+1067,93544 Cardinal Lane,New York City,New York,10131.0,40.7808,-73.9772
+1068,22376 Claremont Way,Idaho Falls,Idaho,83405.0,43.3233,-111.7822
+1069,2 Burrows Junction,Huntington,West Virginia,25721.0,38.4134,-82.2774
+1070,1344 Westport Point,Duluth,Minnesota,55805.0,46.7987,-92.0946
+1071,3930 Bayside Parkway,El Paso,Texas,88574.0,31.6948,-106.3
+1072,69 Atwood Hill,Apache Junction,Arizona,85219.0,33.3616,-111.2795
+1073,4745 Sauthoff Alley,Louisville,Kentucky,40233.0,38.189,-85.6768
+1074,0 Main Junction,Van Nuys,California,,33.7866,-118.2987
+1075,1162 Kingsford Way,Memphis,Tennessee,38136.0,35.2017,-89.9715
+1076,16141 Hovde Center,Amarillo,Texas,79105.0,35.4015,-101.8951
+1077,9525 Hanson Avenue,Richmond,Virginia,23203.0,37.5593,-77.4471
+1078,8786 Jenna Park,Amarillo,Texas,79188.0,35.1885,-101.8165
+1079,3 Portage Pass,Anchorage,Alaska,99507.0,61.1535,-149.8289
+1080,6 Monterey Drive,Honolulu,Hawaii,96840.0,21.3068,-157.8607
+1081,96639 Kinsman Crossing,San Francisco,California,,37.7848,-122.7278
+1082,79314 Colorado Hill,Lexington,Kentucky,40586.0,38.0283,-84.4715
+1083,0282 Shasta Hill,Kansas City,Missouri,64130.0,39.0351,-94.5467
+1084,63640 Jana Lane,Springfield,Illinois,62718.0,39.778,-89.6466
+1085,05 Badeau Drive,Richmond,Virginia,23242.0,37.5313,-77.4161
+1086,05783 Florence Alley,Roanoke,Virginia,24004.0,37.2742,-79.9579
+1087,44 Moland Street,College Station,Texas,,30.6521,-96.341
+1088,6 Gina Terrace,Long Beach,California,90810.0,33.8193,-118.2325
+1089,0 Crescent Oaks Street,Denver,Colorado,80243.0,39.7388,-104.4083
+1090,47279 Autumn Leaf Plaza,Trenton,New Jersey,8603.0,40.2805,-74.712
+1091,38 Buell Lane,New York City,New York,10105.0,40.7628,-73.9785
+1092,7487 Farwell Way,El Paso,Texas,88546.0,31.6948,-106.3
+1093,59744 Northview Trail,Shawnee Mission,Kansas,66210.0,38.9273,-94.7143
+1094,8824 Oakridge Parkway,Waco,Texas,76796.0,31.5915,-97.0823
+1095,3848 Messerschmidt Hill,San Jose,California,95128.0,37.3163,-121.9356
+1096,13713 Hanover Way,Des Moines,Iowa,50347.0,41.6727,-93.5722
+1097,05815 Bunting Point,Warren,Ohio,44485.0,41.2405,-80.8441
+1098,48 Ridge Oak Way,Phoenix,Arizona,85040.0,33.4061,-112.0265
+1099,4574 Myrtle Center,Fort Smith,Arkansas,72905.0,35.191,-94.2382
+1100,6 Hansons Plaza,Colorado Springs,Colorado,,38.9497,-104.767
+1101,77520 Red Cloud Hill,Cleveland,Ohio,44185.0,41.6857,-81.6728
+1102,30407 6th Alley,Pocatello,Idaho,83206.0,42.6395,-112.3138
+1103,6551 Sutherland Junction,Birmingham,Alabama,35263.0,33.5225,-86.8094
+1104,757 4th Plaza,Houston,Texas,77271.0,29.834,-95.4342
+1105,38389 Mitchell Center,Green Bay,Wisconsin,,44.5463,-88.1021
+1106,93404 Eggendart Plaza,Buffalo,New York,14205.0,42.7684,-78.8871
+1107,7778 Porter Court,Davenport,Iowa,52804.0,41.5386,-90.6115
+1108,4 South Way,Omaha,Nebraska,68197.0,41.249,-96.0274
+1109,64 Sachs Park,San Francisco,California,94137.0,37.7848,-122.7278
+1110,6810 Jenna Hill,Washington,District of Columbia,20425.0,38.8933,-77.0146
+1111,410 5th Junction,Levittown,Pennsylvania,19058.0,40.3286,-75.1028
+1112,770 Mandrake Pass,Kansas City,Kansas,66160.0,39.0966,-94.7495
+1113,00 Harbort Way,Sioux City,Iowa,51105.0,42.5032,-96.3829
+1114,7250 Vera Lane,Lancaster,Pennsylvania,17605.0,40.0185,-76.2976
+1115,3664 Twin Pines Terrace,Salt Lake City,Utah,84145.0,40.6681,-111.9083
+1116,03007 Nevada Circle,Pasadena,California,91117.0,33.7866,-118.2987
+1117,82952 Waxwing Way,Roanoke,Virginia,24004.0,37.2742,-79.9579
+1118,0 Mitchell Junction,Hartford,Connecticut,,41.7918,-72.7188
+1119,68 Sachtjen Parkway,Brooklyn,New York,11205.0,40.6924,-73.9666
+1120,9 Prentice Hill,Buffalo,New York,14225.0,42.9255,-78.7481
+1121,46 Summer Ridge Hill,Saint Louis,Missouri,63104.0,38.6128,-90.2185
+1122,5 Arkansas Point,Young America,Minnesota,55551.0,44.8055,-93.7665
+1123,6823 Rutledge Parkway,Mobile,Alabama,36605.0,30.6341,-88.0846
+1124,22 Hudson Place,Grand Forks,North Dakota,58207.0,47.9335,-97.3944
+1125,1960 Nobel Parkway,Kansas City,Missouri,64101.0,39.1024,-94.5986
+1126,62118 Hovde Road,Terre Haute,Indiana,47805.0,39.5327,-87.3255
+1127,864 Lighthouse Bay Park,Colorado Springs,Colorado,80915.0,38.8558,-104.7134
+1128,214 Swallow Lane,Syracuse,New York,13210.0,43.0354,-76.1282
+1129,97 Graedel Trail,Arlington,Virginia,22244.0,38.8545,-77.052
+1130,6494 Hanson Circle,San Antonio,Texas,78260.0,29.7026,-98.4759
+1131,2 Golf Course Circle,Kansas City,Missouri,64199.0,39.035,-94.3567
+1132,041 Del Sol Way,Migrate,Kentucky,,38.0638,-84.5027
+1133,4 Anthes Street,Jamaica,New York,11499.0,40.6514,-73.8708
+1134,7 Delaware Way,Trenton,New Jersey,8638.0,40.251,-74.7627
+1135,5358 Welch Terrace,Pittsburgh,Pennsylvania,15250.0,40.4344,-80.0248
+1136,91876 4th Park,Cincinnati,Ohio,45228.0,39.0706,-84.4179
+1137,63724 Fallview Avenue,Asheville,North Carolina,28805.0,35.6004,-82.4918
+1138,9 Forest Dale Junction,Hartford,Connecticut,6105.0,41.7691,-72.701
+1139,40 Lotheville Hill,San Bernardino,California,92415.0,34.84,-115.9671
+1140,1666 Independence Circle,Silver Spring,Maryland,20904.0,39.0668,-76.9969
+1141,18 Hagan Place,Detroit,Michigan,48275.0,42.2399,-83.1508
+1142,90712 Arkansas Terrace,Houston,Texas,77266.0,29.834,-95.4342
+1143,4601 Reindahl Crossing,Evansville,Indiana,47747.0,37.9971,-87.575
+1144,7395 Haas Center,Saint Paul,Minnesota,55115.0,45.071,-92.9391
+1145,3 Clyde Gallagher Trail,San Jose,California,95160.0,37.2187,-121.8601
+1146,3 Claremont Avenue,Pasadena,California,91199.0,34.1478,-118.1436
+1147,0 Burning Wood Place,Oklahoma City,Oklahoma,73135.0,35.411,-97.4388
+1148,335 Dahle Point,San Francisco,California,94159.0,37.7848,-122.7278
+1149,350 Mccormick Lane,Grand Rapids,Michigan,,43.0314,-85.5503
+1150,432 Leroy Pass,Corpus Christi,Texas,78475.0,27.777,-97.4632
+1151,398 Colorado Drive,San Rafael,California,94913.0,38.068,-122.741
+1152,4373 Steensland Center,Boston,Massachusetts,2163.0,42.3253,-71.1122
+1153,29 3rd Junction,Lehigh Acres,Florida,33972.0,26.6492,-81.6167
+1154,16 Dawn Terrace,Chicago,Illinois,,41.8119,-87.6873
+1155,4 Roxbury Alley,Hartford,Connecticut,6120.0,41.786,-72.6758
+1156,523 Trailsway Plaza,Jacksonville,Florida,32225.0,30.351,-81.5061
+1157,15074 Springview Crossing,Fort Lauderdale,Florida,33315.0,26.0989,-80.1541
+1158,4238 Forest Dale Avenue,Phoenix,Arizona,85005.0,33.2765,-112.1872
+1159,10559 Mockingbird Pass,Danbury,Connecticut,6816.0,41.3089,-73.3637
+1160,0341 Ryan Way,Lake Charles,Louisiana,70616.0,30.2642,-93.3265
+1161,3 Knutson Avenue,Los Angeles,California,90087.0,33.7866,-118.2987
+1162,7818 Darwin Court,Orlando,Florida,32803.0,28.5559,-81.3535
+1163,8068 Shoshone Parkway,Riverside,California,92505.0,33.9228,-117.4867
+1164,33782 Hoffman Pass,El Paso,Texas,88569.0,31.6948,-106.3
+1165,5684 Morning Circle,Scranton,Pennsylvania,18514.0,41.4019,-75.6376
+1166,4 Hauk Junction,Harrisburg,Pennsylvania,17110.0,40.303,-76.8862
+1167,9 Muir Way,Rockford,Illinois,61105.0,42.3254,-89.1705
+1168,2267 School Junction,Los Angeles,California,90020.0,34.0665,-118.3022
+1169,616 Melrose Way,Atlanta,Georgia,31132.0,33.7488,-84.3883
+1170,9213 Morrow Parkway,Spokane,Washington,99205.0,47.6964,-117.4399
+1171,89 Carey Hill,Brockton,Massachusetts,2405.0,41.9705,-70.7014
+1172,6118 Forest Court,Washington,District of Columbia,20370.0,38.8933,-77.0146
+1173,4 Barnett Place,Richmond,Virginia,23293.0,37.5242,-77.4932
+1174,9051 David Center,Oklahoma City,Oklahoma,73179.0,35.4242,-97.6547
+1175,7948 Toban Place,Rochester,New York,14683.0,43.286,-77.6843
+1176,80 Sutteridge Crossing,San Antonio,Texas,78285.0,29.4375,-98.4616
+1177,7 Onsgard Point,San Antonio,Texas,78278.0,29.4375,-98.4616
+1178,35 Parkside Lane,Charlotte,North Carolina,28284.0,35.26,-80.8042
+1179,0343 Londonderry Court,Corpus Christi,Texas,78465.0,27.777,-97.4632
+1180,07050 Eggendart Crossing,Detroit,Michigan,48275.0,42.2399,-83.1508
+1181,6 Crescent Oaks Alley,Oakland,California,94627.0,37.6802,-121.9215
+1182,65 Claremont Way,Midland,Michigan,48670.0,43.6375,-84.2568
+1183,2 American Ash Avenue,White Plains,New York,10633.0,41.119,-73.733
+1184,64853 Mcbride Parkway,Las Vegas,Nevada,89166.0,36.3265,-115.3398
+1185,771 Lien Terrace,Minneapolis,Minnesota,55446.0,45.04,-93.4865
+1186,9 Anderson Place,Nashville,Tennessee,37245.0,36.1866,-86.7852
+1187,8 Cody Crossing,New York City,New York,10249.0,40.7808,-73.9772
+1188,1245 Lerdahl Crossing,Philadelphia,Pennsylvania,,40.0903,-75.041
+1189,1 Hollow Ridge Plaza,Portland,Oregon,97216.0,45.5137,-122.5569
+1190,0 Pennsylvania Avenue,Springfield,Illinois,62794.0,39.7495,-89.606
+1191,40 Onsgard Park,Washington,District of Columbia,20029.0,38.8933,-77.0146
+1192,576 Dennis Alley,Charlotte,North Carolina,28225.0,35.26,-80.8042
+1193,47 Ruskin Lane,Knoxville,Tennessee,,35.9244,-84.0015
+1194,84452 Schmedeman Place,Lynchburg,Virginia,24503.0,37.4376,-79.205
+1195,112 Del Sol Crossing,Spartanburg,South Carolina,29305.0,35.1114,-82.1055
+1196,5 Old Gate Terrace,Birmingham,Alabama,35210.0,33.5452,-86.6655
+1197,128 Thompson Pass,Savannah,Georgia,,32.0053,-81.0477
+1198,389 Boyd Park,Kansas City,Missouri,64130.0,39.0351,-94.5467
+1199,621 Gateway Parkway,Jackson,Mississippi,39204.0,32.2832,-90.2306
+1200,0598 Ruskin Parkway,Washington,District of Columbia,20370.0,38.8933,-77.0146
