@@ -18,13 +18,21 @@ This project involves building a Data Warehouse (DWH) for a Real-Estate Manageme
 - Create an ETL pipeline to populate the data warehouse.
 - Answer analytical queries through Star Schema.
 - Visualize the data using Power BI and automate dashboard updates.
-<br />
+
+<br><br>
+
 **Project Stages:**
+
 ![image](https://github.com/hase3b/End-to-End-DWH-Pipeline/assets/52492910/ca4506f8-ceb8-4813-9aee-5c3134e90946)
-<br />
+
+<br><br>
+
 **Project Flow:**
+
 ![image](https://github.com/hase3b/End-to-End-DWH-Pipeline/assets/52492910/d390dcd3-5a8d-4356-bcb4-d0e965fa161d "Project Flow")
-<br />
+
+<br><br>
+
 ## Repository Structure
 The repository contains the following folders:
 
@@ -106,7 +114,7 @@ For updating the data warehouse with new data:
 1. Generate new data for the desired year.
 2. Append the new data to the existing datasets.
 3. Modify the start and end dates in the ETL master function script.
-4. Re-run the ETL pipeline.
+4. Re-run the pipeline from start.
 
 By following these steps, the fact table snapshot and the Power BI dashboard will be updated with the new data.
 
