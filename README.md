@@ -19,19 +19,16 @@ This project involves building a Data Warehouse (DWH) for a Real-Estate Manageme
 - Answer analytical queries through Star Schema.
 - Visualize the data using Power BI and automate dashboard updates.
 
-<br><br>
-
+<br>
 **Project Stages:**
 
 ![image](https://github.com/hase3b/End-to-End-DWH-Pipeline/assets/52492910/ca4506f8-ceb8-4813-9aee-5c3134e90946)
 
-<br><br>
+<br>
 
 **Project Flow:**
 
 ![image](https://github.com/hase3b/End-to-End-DWH-Pipeline/assets/52492910/d390dcd3-5a8d-4356-bcb4-d0e965fa161d "Project Flow")
-
-<br><br>
 
 ## Repository Structure
 The repository contains the following folders:
