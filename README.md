@@ -19,7 +19,13 @@ Key objectives:
 - Answer analytical queries through Star Schema.
 - Visualize the data using Power BI and automate dashboard updates.
 
+
+
 ![image](https://github.com/hase3b/End-to-End-DWH-Pipeline/assets/52492910/ca4506f8-ceb8-4813-9aee-5c3134e90946)
+
+
+
+### Project Flow
 
 ![image](https://github.com/hase3b/End-to-End-DWH-Pipeline/assets/52492910/9e74c898-f110-4955-a96e-7cbf58c41745 "Project Flow")
 
@@ -84,12 +90,12 @@ The star schema includes the following dimensions and fact table:
 The Power BI dashboard visualizes the data from the fact table snapshot.
 
 1. Connect Power BI Desktop to the fact table snapshot:
-    - Get data > Web > "[raw.githubusercontent link of fact table snapshot.](https://raw.githubusercontent.com/hase3b/End-to-End-DWH-Pipeline/main/E2E%20DWH%20Pipeline/Fact%20Table%20Snapshot/FactSnapshot.csv)"
+    - Get data > Web > "(https://raw.githubusercontent.com/hase3b/End-to-End-DWH-Pipeline/main/E2E%20DWH%20Pipeline/Fact%20Table%20Snapshot/FactSnapshot.csv)"
 
 2. Design the dashboard and publish it to web.
 
 3. The dashboard URL:
-    [Power BI Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiZjYyOWQxMWItMGFmNi00M2QyLWIzYWItMDYxOTc3ZjBmNmYwIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiZjYyOWQxMWItMGFmNi00M2QyLWIzYWItMDYxOTc3ZjBmNmYwIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9))
+    [Power BI Dashboard Link]([https://app.powerbi.com/view?r=eyJrIjoiZjYyOWQxMWItMGFmNi00M2QyLWIzYWItMDYxOTc3ZjBmNmYwIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiZjYyOWQxMWItMGFmNi00M2QyLWIzYWItMDYxOTc3ZjBmNmYwIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9))
 
 ## Automation with Pabbly Connect
 To automate dashboard updates:
