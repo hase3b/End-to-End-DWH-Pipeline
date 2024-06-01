@@ -94,8 +94,7 @@ The Power BI dashboard visualizes the data from the fact table snapshot.
 
 2. Design the dashboard and publish it to web.
 
-3. The dashboard URL:
-    [Power BI Dashboard Link]([https://app.powerbi.com/view?r=eyJrIjoiZjYyOWQxMWItMGFmNi00M2QyLWIzYWItMDYxOTc3ZjBmNmYwIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiZjYyOWQxMWItMGFmNi00M2QyLWIzYWItMDYxOTc3ZjBmNmYwIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9))
+3. The dashboard URL: "(https://app.powerbi.com/view?r=eyJrIjoiZjYyOWQxMWItMGFmNi00M2QyLWIzYWItMDYxOTc3ZjBmNmYwIiwidCI6ImZlZTNiOTE2LTAxYzEtNDk4Ny1hNjQ2LWUxOTM0MzJiOWVhYSIsImMiOjl9)"
 
 ## Automation with Pabbly Connect
 To automate dashboard updates:
