@@ -15,6 +15,7 @@ This project involves building a Data Warehouse (DWH) for a Real-Estate Manageme
 
 **Key Objectives:**
 - Design and implement a relational database schema.
+- Design and implement a data warehouse based on the star schema model.
 - Create an ETL pipeline to populate the data warehouse.
 - Answer analytical queries through Star Schema.
 - Visualize the data using Power BI and automate dashboard updates.
