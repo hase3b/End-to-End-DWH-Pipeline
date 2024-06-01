@@ -13,7 +13,7 @@
 ## Project Overview
 This project involves building a Data Warehouse (DWH) for a Real-Estate Management Company which is then specifically used to evaluate agents' performance based on the transactions managed and carried out by them. The company facilitates property transactions by connecting property owners with potential clients for purchase or rental. The company allocates agents to market properties, arrange viewings, negotiate terms, and carry out the transaction process. It also handles maintenance and repairs of properties on behalf of their owners. The 
 
-Key objectives:
+**Key objectives:**
 - Design and implement a relational database schema.
 - Create an ETL pipeline to populate the data warehouse.
 - Answer analytical queries through Star Schema.
@@ -21,13 +21,15 @@ Key objectives:
 
 
 
+**Project Stages**
 ![image](https://github.com/hase3b/End-to-End-DWH-Pipeline/assets/52492910/ca4506f8-ceb8-4813-9aee-5c3134e90946)
 
 
 
-### Project Flow
+**Project Flow**
 
-![image](https://github.com/hase3b/End-to-End-DWH-Pipeline/assets/52492910/9e74c898-f110-4955-a96e-7cbf58c41745 "Project Flow")
+![image](https://github.com/hase3b/End-to-End-DWH-Pipeline/assets/52492910/d390dcd3-5a8d-4356-bcb4-d0e965fa161d "Project Flow")
+
 
 
 ## Repository Structure
