@@ -21,35 +21,8 @@ Key objectives:
 
 ![image](https://github.com/hase3b/End-to-End-DWH-Pipeline/assets/52492910/ca4506f8-ceb8-4813-9aee-5c3134e90946)
 
-```mermaid
-flowchart TD
-    A[Start] --> B[Data Generation]
-    B --> B1[Generate synthetic data using Mockaroo]
-    B1 --> B2[Store data in CSV files]
-    B2 --> C[ETL Process]
-    C --> C1[Fetch datasets from GitHub]
-    C1 --> C2[Treat missing values]
-    C2 --> C3[Correct data types]
-    C3 --> C4[Create star schema dimensions]
-    C4 --> C5[Create the fact table]
-    C5 --> C6[Upload fact table snapshot to GitHub]
-    C6 --> D[Data Warehouse]
-    D --> D1[Dimensions: Date, Location, Agent, PropertyDetails, Listing]
-    D1 --> D2[Fact Table: Transaction facts]
-    D2 --> E[Dashboard and Visualization]
-    E --> E1[Connect Power BI to fact table snapshot]
-    E1 --> E2[Design and publish the dashboard]
-    E2 --> E3[Embed dashboard online]
-    E3 --> F[Automation with Pabbly Connect]
-    F --> F1[Set up Pabbly Connect workflow]
-    F1 --> F2[Trigger: GitHub commit]
-    F2 --> F3[Action: Refresh Power BI dashboard dataset]
-    F3 --> G[Future Updates]
-    G --> G1[Generate new data]
-    G1 --> G2[Append to existing datasets]
-    G2 --> G3[Update ETL process with new date range]
-    G3 --> G4[Re-run ETL pipeline]
-    G4 --> H[End]
+![image](https://github.com/hase3b/End-to-End-DWH-Pipeline/assets/52492910/9e74c898-f110-4955-a96e-7cbf58c41745 "Project Flow")
+
 
 ## Repository Structure
 The repository contains the following folders:
