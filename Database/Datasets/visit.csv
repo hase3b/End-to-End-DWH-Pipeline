@@ -999,3 +999,203 @@ visit_id,property_id,visit_date,client_id,description
 998,697,2020-06-21,745,Not Interested in Property
 999,874,2023-03-25,607,Moderately Interested in Purchase
 1000,728,2022-05-11,443,Not Interested in Property
+1001,1175,2025-02-11,1137,Not Interested in Property
+1002,1099,2024-06-27,1178,Interested in a Different Type of Property
+1003,1129,2024-08-12,1048,Moderately Interested in Purchase
+1004,1024,2024-02-15,1029,Interested in a Different Type of Property
+1005,1158,2024-05-14,1013,Waiting on External Factors
+1006,1118,2024-08-20,1172,Waiting on External Factors
+1007,1108,2024-08-30,1155,Waiting on External Factors
+1008,1058,2024-03-15,1174,Waiting on External Factors
+1009,1107,2024-12-15,1189,Interested in a Different Type of Property
+1010,1109,2024-03-05,1030,Highly Interested in Rent
+1011,1087,2024-07-23,1004,Interested but Price is a Concern
+1012,1152,2024-05-04,1003,Highly Interested in Purchase
+1013,1114,2024-03-27,1059,Interested in a Different Type of Property
+1014,1167,2025-01-05,1125,Highly Interested in Purchase
+1015,1124,2024-10-17,1180,Not Interested in Property
+1016,1061,2024-03-30,1069,Not Interested in Property
+1017,1034,2024-03-25,1088,Interested in a Different Type of Property
+1018,1012,2024-08-23,1140,Highly Interested in Purchase
+1019,1169,2024-01-28,1132,Requires Significant Changes or Renovations
+1020,1031,2025-01-22,1017,Interested in a Different Type of Property
+1021,1122,2024-04-28,1126,Interested but Needs More Information
+1022,1133,2024-08-07,1109,Requires Significant Changes or Renovations
+1023,1126,2024-01-25,1016,Requires Significant Changes or Renovations
+1024,1018,2024-06-10,1150,Interested but Needs More Information
+1025,1007,2024-06-15,1042,Requires Significant Changes or Renovations
+1026,1151,2024-10-07,1119,Moderately Interested in Purchase
+1027,1029,2024-02-19,1133,Waiting on External Factors
+1028,1072,2024-02-27,1100,Waiting on External Factors
+1029,1181,2024-06-20,1143,Waiting on External Factors
+1030,1077,2024-06-02,1012,Interested in a Different Type of Property
+1031,1005,2024-11-29,1098,Waiting on External Factors
+1032,1170,2024-10-12,1187,Interested but Needs More Information
+1033,1065,2024-10-13,1144,Moderately Interested in Purchase
+1034,1176,2024-05-27,1084,Highly Interested in Rent
+1035,1090,2024-11-19,1031,Not Interested in Property
+1036,1165,2024-03-10,1195,Interested but Needs More Information
+1037,1127,2024-06-08,1070,Highly Interested in Purchase
+1038,1189,2024-06-16,1068,Moderately Interested in Purchase
+1039,1111,2024-10-24,1152,Moderately Interested in Rent
+1040,1155,2024-09-28,1141,Waiting on External Factors
+1041,1050,2024-10-19,1123,Not Interested in Property
+1042,1198,2024-06-18,1186,Waiting on External Factors
+1043,1025,2024-07-15,1160,Highly Interested in Purchase
+1044,1003,2024-04-01,1131,Interested in a Different Type of Property
+1045,1161,2024-05-27,1091,Interested in a Different Type of Property
+1046,1196,2024-02-26,1177,Highly Interested in Rent
+1047,1063,2024-03-12,1106,Requires Significant Changes or Renovations
+1048,1040,2024-05-10,1116,Waiting on External Factors
+1049,1120,2024-07-30,1009,Moderately Interested in Rent
+1050,1116,2025-01-12,1199,Interested but Price is a Concern
+1051,1001,2024-06-03,1192,Interested but Price is a Concern
+1052,1142,2024-01-28,1134,Not Interested in Property
+1053,1187,2024-11-15,1151,Highly Interested in Rent
+1054,1193,2024-10-15,1148,Interested but Needs More Information
+1055,1043,2024-11-05,1078,Highly Interested in Rent
+1056,1094,2024-04-19,1046,Moderately Interested in Rent
+1057,1048,2024-02-05,1025,Moderately Interested in Rent
+1058,1171,2024-02-19,1023,Highly Interested in Purchase
+1059,1194,2025-01-05,1129,Requires Significant Changes or Renovations
+1060,1135,2024-01-24,1194,Moderately Interested in Rent
+1061,1082,2024-07-26,1138,Highly Interested in Rent
+1062,1088,2024-09-29,1198,Highly Interested in Rent
+1063,1086,2024-10-30,1103,Requires Significant Changes or Renovations
+1064,1098,2024-12-20,1082,Interested in a Different Type of Property
+1065,1143,2024-08-24,1063,Not Interested in Property
+1066,1033,2024-04-22,1011,Waiting on External Factors
+1067,1190,2024-09-15,1038,Interested in a Different Type of Property
+1068,1147,2024-12-16,1040,Interested in a Different Type of Property
+1069,1172,2024-05-28,1120,Interested but Needs More Information
+1070,1064,2024-09-14,1060,Interested in a Different Type of Property
+1071,1100,2024-10-10,1072,Moderately Interested in Rent
+1072,1097,2024-12-13,1081,Moderately Interested in Purchase
+1073,1177,2024-04-26,1118,Highly Interested in Rent
+1074,1139,2024-05-08,1028,Moderately Interested in Rent
+1075,1200,2025-02-21,1067,Interested but Needs More Information
+1076,1110,2024-02-10,1175,Interested in a Different Type of Property
+1077,1145,2025-01-01,1074,Not Interested in Property
+1078,1026,2024-02-25,1176,Moderately Interested in Rent
+1079,1192,2024-06-27,1104,Moderately Interested in Purchase
+1080,1144,2024-06-06,1171,Waiting on External Factors
+1081,1093,2024-03-18,1065,Moderately Interested in Purchase
+1082,1056,2024-09-16,1170,Moderately Interested in Purchase
+1083,1141,2024-06-23,1161,Moderately Interested in Rent
+1084,1078,2024-02-15,1041,Interested but Price is a Concern
+1085,1138,2024-12-23,1058,Highly Interested in Purchase
+1086,1032,2024-01-24,1008,Not Interested in Property
+1087,1089,2024-10-19,1086,Not Interested in Property
+1088,1153,2024-12-29,1105,Highly Interested in Purchase
+1089,1076,2024-12-15,1039,Requires Significant Changes or Renovations
+1090,1149,2024-04-12,1090,Waiting on External Factors
+1091,1162,2024-08-05,1169,Interested but Needs More Information
+1092,1105,2024-03-07,1191,Not Interested in Property
+1093,1049,2024-02-16,1092,Interested in a Different Type of Property
+1094,1103,2024-03-31,1034,Not Interested in Property
+1095,1178,2025-01-30,1112,Interested in a Different Type of Property
+1096,1186,2024-06-10,1032,Waiting on External Factors
+1097,1188,2024-05-11,1167,Interested in a Different Type of Property
+1098,1154,2024-07-30,1162,Interested but Needs More Information
+1099,1183,2024-02-03,1022,Highly Interested in Purchase
+1100,1113,2024-02-01,1083,Moderately Interested in Rent
+1101,1079,2024-09-16,1179,Highly Interested in Rent
+1102,1066,2025-01-01,1024,Moderately Interested in Purchase
+1103,1140,2024-09-01,1135,Highly Interested in Rent
+1104,1006,2024-12-13,1108,Moderately Interested in Purchase
+1105,1117,2024-10-30,1093,Moderately Interested in Rent
+1106,1037,2025-01-04,1062,Highly Interested in Rent
+1107,1191,2025-01-17,1188,Highly Interested in Rent
+1108,1028,2024-02-05,1055,Moderately Interested in Purchase
+1109,1115,2024-12-13,1005,Interested but Needs More Information
+1110,1011,2024-02-11,1099,Moderately Interested in Purchase
+1111,1008,2024-04-14,1047,Interested but Price is a Concern
+1112,1081,2024-02-19,1124,Moderately Interested in Purchase
+1113,1112,2024-02-06,1049,Moderately Interested in Purchase
+1114,1027,2024-07-16,1110,Not Interested in Property
+1115,1023,2025-02-17,1102,Interested but Needs More Information
+1116,1052,2024-03-07,1073,Interested in a Different Type of Property
+1117,1156,2024-06-05,1159,Interested but Needs More Information
+1118,1039,2024-04-22,1001,Interested but Price is a Concern
+1119,1053,2024-03-25,1043,Interested in a Different Type of Property
+1120,1119,2024-07-26,1085,Waiting on External Factors
+1121,1157,2024-02-17,1035,Requires Significant Changes or Renovations
+1122,1136,2024-06-21,1076,Interested but Needs More Information
+1123,1020,2024-03-31,1164,Interested but Needs More Information
+1124,1047,2024-12-08,1010,Waiting on External Factors
+1125,1038,2024-06-09,1045,Waiting on External Factors
+1126,1179,2025-01-01,1121,Moderately Interested in Purchase
+1127,1069,2024-11-06,1184,Highly Interested in Purchase
+1128,1131,2024-08-14,1053,Highly Interested in Rent
+1129,1055,2024-04-26,1026,Moderately Interested in Rent
+1130,1128,2024-07-10,1061,Interested but Needs More Information
+1131,1051,2025-01-21,1166,Interested but Needs More Information
+1132,1030,2024-08-01,1153,Highly Interested in Rent
+1133,1042,2024-08-07,1136,Interested in a Different Type of Property
+1134,1070,2024-07-05,1197,Not Interested in Property
+1135,1150,2024-02-22,1036,Waiting on External Factors
+1136,1017,2024-04-24,1115,Interested in a Different Type of Property
+1137,1015,2024-07-22,1157,Moderately Interested in Rent
+1138,1057,2024-04-07,1122,Not Interested in Property
+1139,1083,2024-08-24,1158,Moderately Interested in Purchase
+1140,1123,2024-06-12,1044,Moderately Interested in Purchase
+1141,1004,2024-12-12,1196,Interested but Needs More Information
+1142,1125,2024-08-03,1075,Not Interested in Property
+1143,1173,2024-08-07,1111,Waiting on External Factors
+1144,1160,2024-07-16,1154,Moderately Interested in Purchase
+1145,1182,2024-06-06,1193,Requires Significant Changes or Renovations
+1146,1010,2025-01-09,1190,Interested but Price is a Concern
+1147,1016,2024-11-26,1077,Interested but Needs More Information
+1148,1163,2024-02-28,1146,Not Interested in Property
+1149,1180,2024-11-21,1173,Requires Significant Changes or Renovations
+1150,1013,2024-07-28,1066,Interested in a Different Type of Property
+1151,1036,2024-11-26,1019,Interested but Needs More Information
+1152,1102,2024-08-08,1114,Highly Interested in Rent
+1153,1174,2024-10-05,1014,Interested but Price is a Concern
+1154,1148,2024-04-26,1183,Interested but Price is a Concern
+1155,1002,2024-08-26,1037,Highly Interested in Rent
+1156,1184,2024-03-15,1128,Not Interested in Property
+1157,1197,2024-12-18,1130,Highly Interested in Rent
+1158,1075,2024-12-21,1149,Interested but Needs More Information
+1159,1068,2024-09-29,1079,Interested in a Different Type of Property
+1160,1199,2024-12-12,1020,Interested but Price is a Concern
+1161,1067,2024-08-20,1015,Interested in a Different Type of Property
+1162,1073,2024-11-14,1127,Highly Interested in Rent
+1163,1096,2024-07-31,1145,Interested but Price is a Concern
+1164,1062,2024-12-30,1200,Interested in a Different Type of Property
+1165,1091,2025-01-20,1057,Not Interested in Property
+1166,1134,2024-12-24,1139,Not Interested in Property
+1167,1021,2024-12-05,1142,Highly Interested in Purchase
+1168,1121,2024-05-15,1185,Moderately Interested in Rent
+1169,1054,2024-03-09,1018,Waiting on External Factors
+1170,1045,2024-09-27,1182,Requires Significant Changes or Renovations
+1171,1059,2024-02-20,1117,Waiting on External Factors
+1172,1044,2024-04-06,1165,Interested but Price is a Concern
+1173,1164,2024-11-21,1050,Interested but Needs More Information
+1174,1092,2024-05-08,1071,Moderately Interested in Purchase
+1175,1159,2024-05-24,1056,Highly Interested in Rent
+1176,1132,2024-02-05,1080,Interested in a Different Type of Property
+1177,1137,2024-08-30,1181,Highly Interested in Rent
+1178,1104,2024-12-30,1156,Highly Interested in Rent
+1179,1166,2024-10-11,1021,Waiting on External Factors
+1180,1006,2024-12-29,1051,Waiting on External Factors
+1181,1134,2025-02-11,1147,Moderately Interested in Purchase
+1182,1156,2024-06-23,1033,Interested but Needs More Information
+1183,1151,2024-09-15,1015,Waiting on External Factors
+1184,1148,2024-04-25,1040,Interested in a Different Type of Property
+1185,1138,2025-01-02,1023,Interested but Price is a Concern
+1186,1015,2024-07-18,1130,Not Interested in Property
+1187,1080,2024-12-24,1074,Highly Interested in Rent
+1188,1049,2024-03-06,1097,Interested but Needs More Information
+1189,1198,2024-07-10,1005,Not Interested in Property
+1190,1092,2024-05-22,1039,Interested but Needs More Information
+1191,1055,2024-03-11,1137,Interested but Price is a Concern
+1192,1048,2024-02-05,1153,Requires Significant Changes or Renovations
+1193,1154,2024-06-23,1164,Highly Interested in Purchase
+1194,1175,2025-02-07,1033,Highly Interested in Purchase
+1195,1168,2024-11-05,1179,Not Interested in Property
+1196,1172,2024-06-05,1107,Interested but Price is a Concern
+1197,1162,2024-08-20,1124,Waiting on External Factors
+1198,1141,2024-05-29,1197,Highly Interested in Rent
+1199,1108,2024-07-25,1190,Highly Interested in Purchase
+1200,1034,2024-03-16,1119,Highly Interested in Purchase
